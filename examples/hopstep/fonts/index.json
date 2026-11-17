@@ -1,0 +1,72 @@
+{
+ "families": [
+  {
+   "name": "Hopstep",
+   "description": "A human alphabet: every letter is a figure caught mid-dance, in a thick black line and flat bright color. Palettes: Bright, Chalk, Poster, Quiet.",
+   "sample": "DANCE",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Bright",
+    "Chalk",
+    "Poster",
+    "Quiet"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 57,
+   "license": "OFL-1.1",
+   "css": "fonts/Hopstep/Hopstep.css",
+   "ttf": {
+    "Regular": "fonts/Hopstep/ttf/Hopstep-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Hopstep/woff2/Hopstep-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Hopstep Solid",
+   "description": "The same figures in one color: solid bodies, with a white line where one limb crosses another.",
+   "sample": "DANCE",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 57,
+   "license": "OFL-1.1",
+   "css": "fonts/HopstepSolid/HopstepSolid.css",
+   "ttf": {
+    "Regular": "fonts/HopstepSolid/ttf/HopstepSolid-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/HopstepSolid/woff2/HopstepSolid-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Hopstep Line",
+   "description": "The same figures as a line drawing in one color: the line and the dashes only.",
+   "sample": "DANCE",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 57,
+   "license": "OFL-1.1",
+   "css": "fonts/HopstepLine/HopstepLine.css",
+   "ttf": {
+    "Regular": "fonts/HopstepLine/ttf/HopstepLine-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/HopstepLine/woff2/HopstepLine-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

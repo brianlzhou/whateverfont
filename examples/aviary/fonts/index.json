@@ -1,0 +1,72 @@
+{
+ "families": [
+  {
+   "name": "Aviary Color",
+   "description": "26 birds cut from colored paper, in four palettes: Field Guide, Letterpress, Risograph, Chalk.",
+   "sample": "FLOCK",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Field Guide",
+    "Letterpress",
+    "Risograph",
+    "Chalk"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 63,
+   "license": "OFL-1.1",
+   "css": "fonts/AviaryColor/AviaryColor.css",
+   "ttf": {
+    "Regular": "fonts/AviaryColor/ttf/AviaryColor-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/AviaryColor/woff2/AviaryColor-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Aviary",
+   "description": "The same birds in one color, with the eyes, the white marks and the feather lines cut out.",
+   "sample": "FLOCK",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 63,
+   "license": "OFL-1.1",
+   "css": "fonts/Aviary/Aviary.css",
+   "ttf": {
+    "Regular": "fonts/Aviary/ttf/Aviary-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Aviary/woff2/Aviary-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Aviary Line",
+   "description": "The same birds as outlines, a coloring book.",
+   "sample": "FLOCK",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 63,
+   "license": "OFL-1.1",
+   "css": "fonts/AviaryLine/AviaryLine.css",
+   "ttf": {
+    "Regular": "fonts/AviaryLine/ttf/AviaryLine-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/AviaryLine/woff2/AviaryLine-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}
