@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WhateverFont You Want</title>
+<meta name="description" content="Describe a typeface in plain words. An AI agent draws it, checks its own proofs, and gives you real font files.">
+<!--@ROBOTS-->
+<meta property="og:title" content="WhateverFont You Want">
+<meta property="og:description" content="Describe a typeface in plain words. An AI agent draws it, checks its own proofs, and gives you real font files.">
+<meta property="og:image" content="@URL@/card.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="WhateverFont You Want, each word in a different font">
+<meta property="og:url" content="@URL@/">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preload" href="fonts/arroyo.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/arroyo-text.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/gantry.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/@HEROFILE@.woff2" as="font" type="font/woff2" crossorigin>
+<style>
+<!--@FACES-->
+</style>
+<link rel="stylesheet" href="style.css">
+<noscript><style>.poster-text.out { opacity: 1; filter: none; }</style></noscript>
+</head>
+<body>
+<a class="skip" href="#fonts">Skip to the fonts</a>
+<header class="top">
+  <a class="wordmark" href="#" aria-label="WhateverFont, back to the top">WhateverFont</a>
+  <nav aria-label="Sections">
+    <a href="#fonts" data-i18n="nav.fonts">Fonts</a>
+    <a href="library/" data-i18n="nav.library">Library</a>
+    <a href="#characters" data-i18n="nav.characters">Characters</a>
+    <a href="#how" data-i18n="nav.how">How it works</a>
+    <a href="#start" data-i18n="nav.start">Get started</a>
+    <a href="@REPO@">GitHub</a>
+  </nav>
+  <!--@LANGS-->
+</header>
+
+<main>
+<section class="hero">
+  <h1 class="sr">WhateverFont You Want.</h1>
+  <!-- The poster sets the same words in one example font after another. Without scripts it shows the first. -->
+  <div class="poster" id="poster" dir="ltr" lang="en" style="background: @HEROGROUND@; color: @HEROINK@" role="img" aria-label="The words WhateverFont You Want, set in one example font after another, each with the request that made the font">
+    <p class="poster-ask" aria-hidden="true"><span class="chev">&gt;</span><span id="poster-ask"><!--@HEROASK--></span><span class="caret"></span></p>
+    <p class="poster-text out" id="poster-text" aria-hidden="true" style='<!--@HEROSTYLE-->'>WhateverFont<br>You Want.</p>
+    <p class="poster-name" aria-hidden="true"><span id="poster-name"><!--@HERONAME--></span> <span class="poster-by"><span data-i18n="lib.by">by</span> <span id="poster-by" dir="ltr"><!--@HEROBY--></span></span></p>
+  </div>
+  <div class="hero-foot">
+    <p class="lede" data-i18n="hero.lede">WhateverFont is a tool that lets you create entire fonts from a description. You can use AI to create completely new fonts, or use the engine to remix existing ones. The tool is made to be customizable and rapidly iteratable, and supports <span class="tongues" dir="ltr">English, Español, Français, Deutsch, Português, Polski, Čeština, Türkçe, Tiếng Việt, Íslenska, Yorùbá, ʻŌlelo Hawaiʻi, Azərbaycanca, Ελληνικά, Русский, Українська, العربية, हिन्दी, 日本語, 简体中文, 繁體中文, 한국어</span> and more.</p>
+    <p class="hero-links"><a class="go" href="#start" data-i18n="hero.go">Get started</a><a href="#fonts" data-i18n="hero.see">See every font</a></p>
+  </div>
+  <script type="application/json" id="hero-data"><!--@HERO--></script>
+</section>
+
+<section id="talk" class="talk">
+  <div class="section-head">
+    <h2 data-i18n="talk.h2">Then say what to change</h2>
+  </div>
+  <div class="talk-grid">
+    <ol class="rounds" id="rounds">
+      <li><button type="button" data-round="0" aria-pressed="true"><span class="say" data-i18n="talk.r1.say">“Make me a font that gives me the feeling of winter break and Christmas holidays in middle school.”</span><span class="did" data-i18n="talk.r1.did">A first take: a soft, round sans</span></button></li>
+      <li><button type="button" data-round="1" aria-pressed="false"><span class="say" data-i18n="talk.r2.say">“Chunkier. Like marker letters on a classroom door.”</span><span class="did" data-i18n="talk.r2.did">weight 90 to 132, squarer rounds, taller x-height</span></button></li>
+      <li><button type="button" data-round="2" aria-pressed="false"><span class="say" data-i18n="talk.r3.say">“The tails on g and y hang too low.”</span><span class="did" data-i18n="talk.r3.did">descenders -215 to -150</span></button></li>
+      <li><button type="button" data-round="3" aria-pressed="false"><span class="say" data-i18n="talk.r4.say">“Perfect. Now put snow on it.”</span><span class="did" data-i18n="talk.r4.did">an effect of 60 lines, written for this font</span></button></li>
+    </ol>
+    <div class="talk-stage" id="talk-stage" dir="ltr" lang="en" data-round="0" role="img" aria-label="The words Snow day, staying up late, sleeping in, set in Last Bell as it was after each request">
+      <div class="talk-words" aria-hidden="true">
+        <p class="talk-set big" @TALKBIG@>Snow day</p>
+        <p class="talk-set small" @TALKSMALL@>staying up late,<br>sleeping in</p>
+      </div>
+      <div class="talk-words snow" aria-hidden="true">
+        <p class="talk-set big" @TALKBIG@>Snow day</p>
+        <p class="talk-set small" @TALKSMALL@>staying up late,<br>sleeping in</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="fonts" class="fonts">
+  <div class="section-head">
+    <h2 data-i18n="fonts.h2">Fonts made with WhateverFont</h2>
+    <p data-i18n="fonts.lede">An agent drew each of these with this engine, from a short brief. Pebble Sans is the exception: it
+    restyles Inter in one command. All of them are free under the SIL Open Font License.
+    <a href="library/">The library</a> has every font and every style, a search by mood, and room for yours.</p>
+  </div>
+  <p class="wall-type"><input id="wall-text" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" maxlength="80" placeholder="Type your own text" aria-label="Your own text, set in every font" data-i18n-attr="placeholder:tester.text"></p>
+  <div class="wall-box"><div class="wall" id="wall" dir="ltr" lang="en"><!--@WALL--></div></div>
+  <p class="wall-more"><a href="library/" data-i18n="fonts.find">Find a font by mood in the library</a></p>
+</section>
+
+<section id="characters" class="characters">
+  <div class="section-head">
+    <h2 data-i18n="chars.h2" data-n="@COUNT@">Every font starts with @COUNT@ characters</h2>
+  </div>
+  <!--@CHARSET-->
+  <p class="chars-note" data-i18n="chars.p">Every font that WhateverFont draws starts with GF Latin Core, the set that Google Fonts requires: Western,
+    Central and Eastern European, Turkish, Baltic and Welsh letters, the common signs, and combining marks that
+    attach to any letter. On top of that come the Vietnamese alphabet, Pinyin, letters for Azerbaijani, Hawaiian,
+    Yoruba, Igbo and Hausa, fractions, small figures above and below the line, more currency and math signs,
+    arrows and shapes. Modern Greek and Cyrillic are in it too: Russian, Ukrainian, Belarusian,
+    Bulgarian, Serbian, Macedonian and Kazakh. Point at a character to see its name.</p>
+</section>
+
+<section id="how" class="how">
+  <div class="section-head">
+    <h2 data-i18n="how.h2">How it works</h2>
+    <p data-i18n="how.p">The agent doesn’t draw outlines. It picks numbers like weight and contrast and writes a short recipe for
+    each letter. WhateverFont does the rest.</p>
+  </div>
+  <!--@DIALS-->
+  <!--@SKELETON-->
+  <ol class="steps">
+    <li><h3 data-i18n="how.s1.t">Skeleton</h3><p data-i18n="how.s1.p">A recipe draws each letter as centerline strokes: a stem, a ring, an arch, a bowl.</p></li>
+    <li><h3 data-i18n="how.s2.t">Pen</h3><p data-i18n="how.s2.p">An elliptical pen gives the strokes their thickness. One number sets the contrast and
+    another the stress angle. Stems can swell into flares.</p></li>
+    <li><h3 data-i18n="how.s3.t">Spacing</h3><p data-i18n="how.s3.p">Each side of a letter is straight, round, diagonal or open, and gets a sidebearing to
+    match. Kerning then fixes the pairs that remain.</p></li>
+    <li><h3 data-i18n="how.s4.t">Compile</h3><p data-i18n="how.s4.p">fontTools writes TTF and WOFF2 for each style, and one variable font with every
+    axis.</p></li>
+    <li><h3 data-i18n="how.s5.t">Look</h3><p data-i18n="how.s5.p">Proofs come from the built files, shaped with HarfBuzz. The agent looks, measures, and
+    edits until the proofs are right.</p></li>
+  </ol>
+  <figure class="code">
+    <figcaption class="code-name" data-i18n="how.code">font.py, the whole design of a family</figcaption>
+<pre class="sample"><code>FAMILY = Family(
+    name="Quill",
+    base=preset("flare", contrast=0.55, xh=500),
+    axes=[
+        Axis("wght", "Weight", 300, 400, 800, {300: {"weight": 50}, 800: {"weight": 150}}),
+        Axis("slnt", "Slant", -11, 0, 0, {-11: {"slant": 11}}),
+    ],
+    styles={"Regular": {}, "Italic": {"slnt": -11}, "Bold": {"wght": 700}},
+)</code></pre>
+  </figure>
+</section>
+
+<section id="start" class="start">
+  <div class="section-head">
+    <h2 data-i18n="start.h2">Get started</h2>
+    <p data-i18n="start.p">WhateverFont is a Python package and a skill for coding agents. It needs Python 3.10 or later.</p>
+  </div>
+  <div class="start-grid">
+    <figure class="code">
+      <figcaption class="code-name"><span data-i18n="start.agent">Ask an agent</span><button type="button" class="copy" data-i18n="start.copy" data-said="Copied" data-i18n-attr="data-said:start.copied">Copy</button></figcaption>
+<pre class="wrap"><code><span class="line">uv tool install whateverfont</span><span class="line">whateverfont skill install</span></code></pre>
+      <p data-i18n="start.agent.p">Then say, in Claude Code or any coding agent: “Use whateverfont. Make me a font that …” The agent writes
+      the brief down, draws three directions, fixes what it sees in its own proofs, and gives you a review
+      board. Tell it what to change until the font is right.</p>
+    </figure>
+    <figure class="code">
+      <figcaption class="code-name"><span data-i18n="start.hand">Or make a font by hand</span><button type="button" class="copy" data-i18n="start.copy" data-said="Copied" data-i18n-attr="data-said:start.copied">Copy</button></figcaption>
+<pre class="wrap"><code><span class="line">whateverfont new fonts/quill <span class="nb">--preset</span> flare \
+  <span class="nb">--brief</span> "A calm serif for a long essay."</span><span class="line">whateverfont build fonts/quill</span><span class="line">open fonts/quill/board.html</span></code></pre>
+      <p data-i18n="start.hand.p"><code>whateverfont docs</code> lists the reference pages, and <code>whateverfont examples</code> the sources of
+      every font on this page.</p>
+    </figure>
+  </div>
+</section>
+</main>
+
+<footer class="foot drop-foot" id="foot">
+  <div class="foot-text">
+    <p class="foot-big" data-i18n="foot.big">Whatever font<br>you want.</p>
+    <p class="foot-links"><a href="#start" data-i18n="nav.start">Get started</a><a href="library/" data-i18n="foot.library">The library</a><a href="@REPO@">GitHub</a><button type="button" id="again" hidden data-i18n="foot.again">Drop them again</button></p>
+    <p class="foot-fine" data-i18n="foot.fine">WhateverFont was made by <a href="https://brianzhou.org">Brian Zhou</a> and is open source under the MIT License. All generated fonts are open source under the SIL Open Font License 1.1. This project was built on top of <a href="https://github.com/fonttools/fonttools">fontTools</a>, <a href="https://github.com/fonttools/skia-pathops">skia-pathops</a>, <a href="https://github.com/harfbuzz/harfbuzz">HarfBuzz</a>, and <a href="https://github.com/python-pillow/Pillow">Pillow</a>.</p>
+  </div>
+  <!-- One block for each font. They fall and pile up when the footer comes into view. -->
+  <div class="pile" id="pile" aria-hidden="true" dir="ltr" lang="en"><!--@DROPS--></div>
+</footer>
+<script src="app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+# The site needs only its template, the build script, the example fonts and the gallery image.
+/*
+!/site
+!/scripts
+!/examples
+!/docs
+!/vercel.json
+!/library

@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<base href="../../">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>@TITLE@, a font made with WhateverFont</title>
+<meta name="description" content="@DESCRIPTION@">
+<!--@ROBOTS-->
+<meta property="og:title" content="@TITLE@">
+<meta property="og:description" content="@DESCRIPTION@">
+<meta property="og:image" content="@URL@/card.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="WhateverFont You Want, each word in a different font">
+<meta property="og:url" content="@URL@/library/@ID@/">
+<meta name="twitter:card" content="summary_large_image">
+<!-- Where votes and views are counted. Empty: the page shows no vote buttons and no numbers. -->
+<meta name="counts" content="@COUNTS@">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preload" href="fonts/arroyo.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/gantry.woff2" as="font" type="font/woff2" crossorigin>
+<style>
+<!--@FACES-->
+</style>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="catalog.css">
+</head>
+<body data-font="@ID@">
+<a class="skip" href="library/@ID@/#fonts">Skip to the font</a>
+<header class="top">
+  <a class="wordmark" href="./" aria-label="WhateverFont, to the first page">WhateverFont</a>
+  <nav aria-label="Sections">
+    <a href="library/" data-i18n="nav.library">Library</a>
+    <a href="./#how" data-i18n="nav.how">How it works</a>
+    <a href="./#start" data-i18n="nav.start">Get started</a>
+    <a href="@REPO@">GitHub</a>
+  </nav>
+  <!--@LANGS-->
+</header>
+
+<main>
+<section id="fonts" class="fonts one-font">
+  <h1 class="sr">@TITLE@</h1>
+  <!-- The count of votes and views of this font. Hidden until the store answers. -->
+  <p class="font-stats" id="font-stats">
+    <a class="font-back" href="library/" data-i18n="font.back">Every font</a>
+    <span class="views" data-id="@ID@" hidden><!--@EYE--><span class="views-n"></span></span>
+    <button type="button" class="vote vote-large" data-id="@ID@" aria-pressed="false" aria-label="Vote for @TITLE@" hidden><!--@UP--><span class="vote-n"></span></button>
+  </p>
+  <div class="tester" role="group" aria-label="Sample controls">
+    <input id="text" type="text" autocomplete="off" spellcheck="false" placeholder="Type your own text" aria-label="Sample text for every style" data-i18n-attr="placeholder:tester.text">
+    <label class="size"><span class="size-name" data-i18n="tester.size">Size</span>
+      <input id="size" type="range" min="18" max="180" value="64" step="1" aria-label="Sample size">
+      <output id="size-out" for="size">64</output>
+    </label>
+    <button id="reset" type="button" class="ghost" data-i18n="tester.reset">Reset</button>
+  </div>
+<!--@PROJECT-->
+</section>
+
+<!-- Every character of the font, set in the font. It is drawn when the reader comes near it. -->
+<section id="characters" class="characters one-chars">
+  <div class="section-head">
+    <h2 data-i18n="meta.chars" data-n="@COUNT@">@COUNT@ characters</h2>
+  </div>
+  <!--@CHARSET-->
+</section>
+
+<section class="more" id="more">
+  <div class="section-head">
+    <h2 data-i18n="font.more">More like this</h2>
+  </div>
+  <div class="shelf shelf-short" dir="ltr" lang="en">
+<!--@MORE-->
+  </div>
+</section>
+</main>
+
+<footer class="foot">
+  <p data-i18n="lib.foot">The code is under the MIT License. Every font in the library is under the SIL Open Font License 1.1, and
+  its copyright stays with the person who made it.</p>
+  <p><a href="@REPO@">Source on GitHub</a></p>
+</footer>
+<script src="app.js" defer></script>
+<script src="catalog.js" defer></script>
+</body>
+</html>

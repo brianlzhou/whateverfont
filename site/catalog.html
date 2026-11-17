@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<base href="../">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The WhateverFont library</title>
+<meta name="description" content="Every font made with WhateverFont, by an agent or by a person who added theirs. Type a mood to find one.">
+<!--@ROBOTS-->
+<meta property="og:title" content="The WhateverFont library">
+<meta property="og:description" content="Every font made with WhateverFont. Type a mood to find one.">
+<meta property="og:image" content="@URL@/card.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="WhateverFont You Want, each word in a different font">
+<meta property="og:url" content="@URL@/library/">
+<meta name="twitter:card" content="summary_large_image">
+<!-- Where votes and views are counted. Empty: the page shows no vote buttons and no numbers. -->
+<meta name="counts" content="@COUNTS@">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preload" href="fonts/arroyo.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/gantry.woff2" as="font" type="font/woff2" crossorigin>
+<style>
+<!--@FACES-->
+</style>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="catalog.css">
+</head>
+<body>
+<a class="skip" href="library/#fonts">Skip to the fonts</a>
+<header class="top">
+  <a class="wordmark" href="./" aria-label="WhateverFont, to the first page">WhateverFont</a>
+  <nav aria-label="Sections">
+    <a href="library/" aria-current="page" data-i18n="nav.library">Library</a>
+    <a href="./#how" data-i18n="nav.how">How it works</a>
+    <a href="./#start" data-i18n="nav.start">Get started</a>
+    <a href="@REPO@">GitHub</a>
+  </nav>
+  <!--@LANGS-->
+</header>
+
+<main>
+<section class="finder">
+  <h1 class="sr" data-i18n="lib.h1">The library</h1>
+  <!-- One line to type a need in. The fonts that fit come first, and the words under it lead on. -->
+  <label class="mood">
+    <span class="sr" data-i18n="find.label">Say what you need</span>
+    <input id="mood" type="text" inputmode="search" enterkeyhint="search" autocomplete="off" autocapitalize="off" spellcheck="false"
+           placeholder="Type a mood…" data-i18n-attr="placeholder:find.mood">
+  </label>
+  <p class="mood-next" id="mood-next" data-starters="cozy winter|retro computer|wedding invitation|for kids|ocean|night club|serious report"></p>
+  <p class="mood-note" id="mood-note" data-i18n="find.english" hidden>The search understands English words.</p>
+</section>
+
+<section id="fonts" class="shelves">
+  <div class="shelf-head">
+    <p class="shelf-count" id="shelf-count" data-i18n="find.count" data-n="@NUMBER@">@NUMBER@ fonts</p>
+    <p class="shelf-none" id="shelf-none" hidden><span data-i18n="find.none">No font here fits those words yet.</span>
+    <button type="button" id="shelf-clear" data-i18n="find.clear">Show every font</button></p>
+    <div class="sorts" id="sorts" role="group" aria-label="Order">
+      <button type="button" data-sort="picked" aria-pressed="true" data-i18n="find.picked">Picked</button>
+      <button type="button" data-sort="top" aria-pressed="false" data-i18n="find.top" hidden>Most loved</button>
+      <button type="button" data-sort="views" aria-pressed="false" data-i18n="find.viewed" hidden>Most viewed</button>
+      <button type="button" data-sort="name" aria-pressed="false" data-i18n="find.az">A to Z</button>
+    </div>
+  </div>
+  <div class="shelf" id="shelf" dir="ltr" lang="en">
+<!--@TILES-->
+  </div>
+</section>
+
+<section id="add" class="start">
+  <div class="section-head">
+    <h2 data-i18n="add.h2">Add your font</h2>
+    <p data-i18n="add.p">You need a font that you made with WhateverFont, a GitHub account and the GitHub CLI. Your GitHub name
+    goes on the font.</p>
+  </div>
+  <div class="start-grid">
+    <figure class="code">
+      <figcaption class="code-name" data-i18n="add.two">Two commands</figcaption>
+<pre class="wrap"><code><span class="line">gh repo fork brianlzhou/whateverfont <span class="nb">--clone</span> &amp;&amp; cd whateverfont</span><span class="line">whateverfont library add PATH/TO/YOUR/FONT <span class="nb">--github</span> YOUR_USERNAME</span></code></pre>
+      <p data-i18n="add.two.p">The second command copies your design into <code>library/</code>, checks that it builds, and prints the
+      commands that open the pull request.</p>
+    </figure>
+    <figure class="code">
+      <figcaption class="code-name" data-i18n="add.agent">Or tell your agent</figcaption>
+<pre class="wrap"><code data-i18n="add.agent.say">Add this font to the WhateverFont library under my GitHub name.</code></pre>
+      <p data-i18n="add.agent.p">A pull request holds your design, not font files. After the merge the repository builds the fonts from
+      your source. <a href="@REPO@/tree/main/library">The rules are short</a>: your own design, an open license,
+      and a name that no other typeface has.</p>
+    </figure>
+  </div>
+</section>
+</main>
+
+<footer class="foot">
+  <p data-i18n="lib.foot">The code is under the MIT License. Every font in the library is under the SIL Open Font License 1.1, and
+  its copyright stays with the person who made it.</p>
+  <p><a href="@REPO@">Source on GitHub</a></p>
+</footer>
+<script type="application/json" id="catalog-data"><!--@CATALOG--></script>
+<script src="app.js" defer></script>
+<script src="search.js" defer></script>
+<script src="catalog.js" defer></script>
+</body>
+</html>

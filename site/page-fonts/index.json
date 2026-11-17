@@ -1,0 +1,10097 @@
+{
+ "families": [
+  {
+   "name": "Arroyo Glyphic Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Arroyo Glyphic",
+   "effect": "",
+   "words": [
+    "خط هادئ للنقاشات الطويلة"
+   ],
+   "woff2": {
+    "Regular": "arroyo-glyphic-page-arabic.woff2"
+   },
+   "codepoints": [
+    1574,
+    1575,
+    1577,
+    1578,
+    1582,
+    1583,
+    1588,
+    1591,
+    1602,
+    1604,
+    1606,
+    1607,
+    1608,
+    1610
+   ],
+   "stamp": "bdafad78dd7279b2"
+  },
+  {
+   "name": "Arroyo Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Arroyo",
+   "effect": "",
+   "words": [
+    "خط هادئ للنقاشات الطويلة",
+    "هدوء",
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "arroyo-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1569,
+    1571,
+    1574,
+    1575,
+    1577,
+    1578,
+    1582,
+    1583,
+    1584,
+    1585,
+    1588,
+    1591,
+    1602,
+    1603,
+    1604,
+    1606,
+    1607,
+    1608,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "a6be68bb78ce88c7"
+  },
+  {
+   "name": "Arroyo Text Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Arroyo Text",
+   "effect": "",
+   "words": [
+    "خط هادئ للنقاشات الطويلة"
+   ],
+   "woff2": {
+    "Regular": "arroyo-text-page-arabic.woff2"
+   },
+   "codepoints": [
+    1574,
+    1575,
+    1577,
+    1578,
+    1582,
+    1583,
+    1588,
+    1591,
+    1602,
+    1604,
+    1606,
+    1607,
+    1608,
+    1610
+   ],
+   "stamp": "46ab0e4d1763cd2c"
+  },
+  {
+   "name": "Billboard Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Billboard",
+   "effect": "layered_shadow",
+   "words": [
+    "خوخ طازج",
+    "طازج"
+   ],
+   "woff2": {
+    "Regular": "billboard-page-arabic.woff2"
+   },
+   "codepoints": [
+    1575,
+    1580,
+    1582,
+    1586,
+    1591,
+    1608
+   ],
+   "stamp": "b18aaa8b39bc2f83"
+  },
+  {
+   "name": "Cabochon Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Cabochon",
+   "effect": "",
+   "words": [
+    "يشم وياقوت",
+    "يشم",
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "cabochon-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1571,
+    1575,
+    1578,
+    1582,
+    1583,
+    1584,
+    1585,
+    1588,
+    1591,
+    1602,
+    1603,
+    1604,
+    1605,
+    1606,
+    1607,
+    1608,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "273f9d1dca4bb54b"
+  },
+  {
+   "name": "Cabochon Rose Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Cabochon Rose",
+   "effect": "",
+   "words": [
+    "يشم وياقوت"
+   ],
+   "woff2": {
+    "Regular": "cabochon-rose-page-arabic.woff2"
+   },
+   "codepoints": [
+    1575,
+    1578,
+    1588,
+    1602,
+    1605,
+    1608,
+    1610
+   ],
+   "stamp": "54077ef32154afb1"
+  },
+  {
+   "name": "Caliper Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Caliper",
+   "effect": "",
+   "words": [
+    "قس مرتين واقطع مرة، والتسليم يوم الخميس",
+    "طويل",
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "caliper-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1571,
+    1575,
+    1577,
+    1578,
+    1582,
+    1583,
+    1584,
+    1585,
+    1587,
+    1591,
+    1593,
+    1602,
+    1603,
+    1604,
+    1605,
+    1606,
+    1607,
+    1608,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "0c15e0d6382bb0ed"
+  },
+  {
+   "name": "Crate Stencil Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Crate Stencil",
+   "effect": "stencil",
+   "words": [
+    "قابل للكسر — هذا الجانب للأعلى — صندوق 07 من 12 — ميناء الإسكندرية",
+    "صندوق",
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "crate-stencil-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1569,
+    1571,
+    1573,
+    1575,
+    1576,
+    1577,
+    1578,
+    1580,
+    1582,
+    1583,
+    1584,
+    1585,
+    1587,
+    1589,
+    1591,
+    1593,
+    1602,
+    1603,
+    1604,
+    1605,
+    1606,
+    1607,
+    1608,
+    1609,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "c20c532aa58d6cbb"
+  },
+  {
+   "name": "Crate Stencil Sprayed Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Crate Stencil Sprayed",
+   "effect": "stencil",
+   "words": [
+    "قابل للكسر — هذا الجانب للأعلى — صندوق 07 من 12 — ميناء الإسكندرية"
+   ],
+   "woff2": {
+    "Regular": "crate-stencil-sprayed-page-arabic.woff2"
+   },
+   "codepoints": [
+    1569,
+    1571,
+    1573,
+    1575,
+    1576,
+    1577,
+    1580,
+    1583,
+    1584,
+    1585,
+    1587,
+    1589,
+    1593,
+    1602,
+    1603,
+    1604,
+    1605,
+    1606,
+    1607,
+    1608,
+    1609,
+    1610
+   ],
+   "stamp": "38e15115f0569801"
+  },
+  {
+   "name": "Crate Stencil Square Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Crate Stencil Square",
+   "effect": "stencil",
+   "words": [
+    "قابل للكسر — هذا الجانب للأعلى — صندوق 07 من 12 — ميناء الإسكندرية"
+   ],
+   "woff2": {
+    "Regular": "crate-stencil-square-page-arabic.woff2"
+   },
+   "codepoints": [
+    1569,
+    1571,
+    1573,
+    1575,
+    1576,
+    1577,
+    1580,
+    1583,
+    1584,
+    1585,
+    1587,
+    1589,
+    1593,
+    1602,
+    1603,
+    1604,
+    1605,
+    1606,
+    1607,
+    1608,
+    1609,
+    1610
+   ],
+   "stamp": "470c5e0c0a0cb52c"
+  },
+  {
+   "name": "Cutout Color Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Playpen Sans Arabic",
+   "source_copyright": "Copyright 2023 The Playpen Sans Project Authors (https://github.com/TypeTogether/Playpen-Sans)",
+   "pen": "Cutout Color",
+   "effect": "painted_paper from cutpaper.py",
+   "words": [
+    "متحف الأطفال",
+    "ورق",
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "cutout-color-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1571,
+    1575,
+    1578,
+    1581,
+    1582,
+    1583,
+    1584,
+    1585,
+    1591,
+    1601,
+    1602,
+    1603,
+    1604,
+    1605,
+    1606,
+    1607,
+    1608,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "4320985edb80a08e"
+  },
+  {
+   "name": "Cutout Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Playpen Sans Arabic",
+   "source_copyright": "Copyright 2023 The Playpen Sans Project Authors (https://github.com/TypeTogether/Playpen-Sans)",
+   "pen": "Cutout",
+   "effect": "scissors from cutpaper.py",
+   "words": [
+    "متحف الأطفال"
+   ],
+   "woff2": {
+    "Regular": "cutout-page-arabic.woff2"
+   },
+   "codepoints": [
+    1571,
+    1575,
+    1578,
+    1581,
+    1591,
+    1601,
+    1604,
+    1605
+   ],
+   "stamp": "a13ba46436eaf778"
+  },
+  {
+   "name": "Dayshift Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Dayshift",
+   "effect": "",
+   "words": [
+    "تم حفظ تغييراتك",
+    "حفظ",
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "dayshift-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1571,
+    1575,
+    1578,
+    1581,
+    1582,
+    1583,
+    1584,
+    1585,
+    1591,
+    1592,
+    1594,
+    1601,
+    1603,
+    1604,
+    1605,
+    1606,
+    1607,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "2b9ec35cc65b6247"
+  },
+  {
+   "name": "Doorstep Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Doorstep",
+   "effect": "",
+   "words": [
+    "أخبار من مخبز الحي",
+    "خبز"
+   ],
+   "woff2": {
+    "Regular": "doorstep-page-arabic.woff2"
+   },
+   "codepoints": [
+    1571,
+    1575,
+    1576,
+    1581,
+    1582,
+    1585,
+    1586,
+    1604,
+    1605,
+    1606,
+    1610
+   ],
+   "stamp": "c5f03fc535253c60"
+  },
+  {
+   "name": "Drippelgang Ink Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Drippelgang Ink",
+   "effect": "",
+   "words": [
+    "خدعة أم حلوى!"
+   ],
+   "woff2": {
+    "Regular": "drippelgang-ink-page-arabic.woff2"
+   },
+   "codepoints": [
+    1571,
+    1577,
+    1581,
+    1582,
+    1583,
+    1593,
+    1604,
+    1605,
+    1608,
+    1609
+   ],
+   "stamp": "0fbf6801c95ea6bf"
+  },
+  {
+   "name": "Drippelgang Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Drippelgang",
+   "effect": "",
+   "words": [
+    "خدعة أم حلوى!",
+    "بوو!",
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "drippelgang-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1571,
+    1575,
+    1576,
+    1577,
+    1578,
+    1581,
+    1582,
+    1583,
+    1584,
+    1585,
+    1591,
+    1593,
+    1603,
+    1604,
+    1605,
+    1606,
+    1607,
+    1608,
+    1609,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "d53e67987a367892"
+  },
+  {
+   "name": "Eight Dials Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Eight Dials",
+   "effect": "",
+   "words": [
+    "كل حرف قرار",
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "eight-dials-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1571,
+    1575,
+    1578,
+    1581,
+    1582,
+    1583,
+    1584,
+    1585,
+    1591,
+    1601,
+    1602,
+    1603,
+    1604,
+    1606,
+    1607,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "9ccedeb9ab29448f"
+  },
+  {
+   "name": "Gilt Bloom Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Gilt Bloom",
+   "effect": "klimt from klimt.py",
+   "words": [
+    "ليلى & عمر"
+   ],
+   "woff2": {
+    "Regular": "gilt-bloom-page-arabic.woff2"
+   },
+   "codepoints": [
+    1585,
+    1593,
+    1604,
+    1605,
+    1609,
+    1610
+   ],
+   "stamp": "ff6fe4d8665eaef1"
+  },
+  {
+   "name": "Gilt Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Gilt",
+   "effect": "klimt from klimt.py",
+   "words": [
+    "ليلى & عمر",
+    "ذهب",
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "gilt-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1571,
+    1575,
+    1576,
+    1578,
+    1582,
+    1583,
+    1584,
+    1585,
+    1591,
+    1593,
+    1603,
+    1604,
+    1605,
+    1606,
+    1607,
+    1609,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "6a8c16375ba12cba"
+  },
+  {
+   "name": "Gilt Robe Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Gilt Robe",
+   "effect": "klimt from klimt.py",
+   "words": [
+    "ليلى & عمر"
+   ],
+   "woff2": {
+    "Regular": "gilt-robe-page-arabic.woff2"
+   },
+   "codepoints": [
+    1585,
+    1593,
+    1604,
+    1605,
+    1609,
+    1610
+   ],
+   "stamp": "8c3e602e673c46f7"
+  },
+  {
+   "name": "Haystack Initials Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Playpen Sans Arabic",
+   "source_copyright": "Copyright 2023 The Playpen Sans Project Authors (https://github.com/TypeTogether/Playpen-Sans)",
+   "pen": "Haystack Initials",
+   "effect": "painted from haystack.py",
+   "words": [
+    "أصيل في الحقل",
+    "قش",
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "haystack-initials-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1571,
+    1575,
+    1578,
+    1581,
+    1582,
+    1583,
+    1584,
+    1585,
+    1588,
+    1589,
+    1591,
+    1601,
+    1602,
+    1603,
+    1604,
+    1606,
+    1607,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "17483923694cdac5"
+  },
+  {
+   "name": "Haystack Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Playpen Sans Arabic",
+   "source_copyright": "Copyright 2023 The Playpen Sans Project Authors (https://github.com/TypeTogether/Playpen-Sans)",
+   "pen": "Haystack",
+   "effect": "painted from haystack.py",
+   "words": [
+    "أصيل في الحقل"
+   ],
+   "woff2": {
+    "Regular": "haystack-page-arabic.woff2"
+   },
+   "codepoints": [
+    1571,
+    1575,
+    1581,
+    1589,
+    1601,
+    1602,
+    1604,
+    1610
+   ],
+   "stamp": "c670578e81a89d9a"
+  },
+  {
+   "name": "Hedmast Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Hedmast",
+   "effect": "",
+   "words": [
+    "هدف متأخر يُسقط المتصدر تحت المطر",
+    "عاجل"
+   ],
+   "woff2": {
+    "Regular": "hedmast-page-arabic.woff2"
+   },
+   "codepoints": [
+    1571,
+    1575,
+    1578,
+    1580,
+    1581,
+    1582,
+    1583,
+    1585,
+    1587,
+    1589,
+    1591,
+    1593,
+    1601,
+    1602,
+    1604,
+    1605,
+    1607,
+    1610,
+    1615
+   ],
+   "stamp": "6d2a166ebee350b8"
+  },
+  {
+   "name": "Kanagawa Brush Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Playpen Sans Arabic",
+   "source_copyright": "Copyright 2023 The Playpen Sans Project Authors (https://github.com/TypeTogether/Playpen-Sans)",
+   "pen": "Kanagawa Brush",
+   "effect": "breaker from breaker.py",
+   "words": [
+    "موجة كاناغاوا العظيمة"
+   ],
+   "woff2": {
+    "Regular": "kanagawa-brush-page-arabic.woff2"
+   },
+   "codepoints": [
+    1575,
+    1577,
+    1580,
+    1592,
+    1593,
+    1594,
+    1603,
+    1604,
+    1605,
+    1606,
+    1608,
+    1610
+   ],
+   "stamp": "60c06714b698f9ad"
+  },
+  {
+   "name": "Kanagawa Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Kanagawa",
+   "effect": "breaker from breaker.py",
+   "words": [
+    "موجة كاناغاوا العظيمة",
+    "موجة",
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "kanagawa-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1571,
+    1575,
+    1577,
+    1578,
+    1580,
+    1582,
+    1583,
+    1584,
+    1585,
+    1591,
+    1592,
+    1593,
+    1594,
+    1603,
+    1604,
+    1605,
+    1606,
+    1607,
+    1608,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "13ee340c3800bff3"
+  },
+  {
+   "name": "Kanagawa Swell Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Kanagawa Swell",
+   "effect": "breaker from breaker.py",
+   "words": [
+    "موجة كاناغاوا العظيمة"
+   ],
+   "woff2": {
+    "Regular": "kanagawa-swell-page-arabic.woff2"
+   },
+   "codepoints": [
+    1575,
+    1577,
+    1580,
+    1592,
+    1593,
+    1594,
+    1603,
+    1604,
+    1605,
+    1606,
+    1608,
+    1610
+   ],
+   "stamp": "cda128ffce965b76"
+  },
+  {
+   "name": "Lacentine Card Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Lacentine Card",
+   "effect": "",
+   "words": [
+    "كن حبيبي في عيد الحب"
+   ],
+   "woff2": {
+    "Regular": "lacentine-card-page-arabic.woff2"
+   },
+   "codepoints": [
+    1575,
+    1576,
+    1581,
+    1583,
+    1593,
+    1601,
+    1603,
+    1604,
+    1606,
+    1610
+   ],
+   "stamp": "530dbe64d9c51d57"
+  },
+  {
+   "name": "Lacentine Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Lacentine",
+   "effect": "",
+   "words": [
+    "كن حبيبي في عيد الحب",
+    "حب",
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "lacentine-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1571,
+    1575,
+    1576,
+    1578,
+    1581,
+    1582,
+    1583,
+    1584,
+    1585,
+    1591,
+    1593,
+    1601,
+    1603,
+    1604,
+    1606,
+    1607,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "da46a3d085c5eed3"
+  },
+  {
+   "name": "Leafpile Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Leafpile",
+   "effect": "",
+   "words": [
+    "مهرجان الحصاد",
+    "خريف",
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "leafpile-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1571,
+    1575,
+    1578,
+    1580,
+    1581,
+    1582,
+    1583,
+    1584,
+    1585,
+    1589,
+    1591,
+    1601,
+    1603,
+    1604,
+    1605,
+    1606,
+    1607,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "1683ac500278b719"
+  },
+  {
+   "name": "Leafpile Plain Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Leafpile Plain",
+   "effect": "",
+   "words": [
+    "مهرجان الحصاد"
+   ],
+   "woff2": {
+    "Regular": "leafpile-plain-page-arabic.woff2"
+   },
+   "codepoints": [
+    1575,
+    1580,
+    1581,
+    1583,
+    1585,
+    1589,
+    1604,
+    1605,
+    1606,
+    1607
+   ],
+   "stamp": "a87c99e1b8b770dd"
+  },
+  {
+   "name": "Lowslung Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Lowslung",
+   "effect": "",
+   "words": [
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "lowslung-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1571,
+    1575,
+    1578,
+    1582,
+    1583,
+    1584,
+    1585,
+    1591,
+    1603,
+    1604,
+    1606,
+    1607,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "1fc38925842a76b3"
+  },
+  {
+   "name": "Marquee Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Marquee",
+   "effect": "inline",
+   "words": [
+    "يعرض الآن",
+    "الآن",
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "marquee-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1570,
+    1571,
+    1575,
+    1578,
+    1582,
+    1583,
+    1584,
+    1585,
+    1590,
+    1591,
+    1593,
+    1603,
+    1604,
+    1606,
+    1607,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "794013afb8630c23"
+  },
+  {
+   "name": "Meridian Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Meridian",
+   "effect": "banded",
+   "words": [
+    "الساعة الذهبية",
+    "ساعة"
+   ],
+   "woff2": {
+    "Regular": "meridian-page-arabic.woff2"
+   },
+   "codepoints": [
+    1575,
+    1576,
+    1577,
+    1584,
+    1587,
+    1593,
+    1604,
+    1607,
+    1610
+   ],
+   "stamp": "9db017afbafb1007"
+  },
+  {
+   "name": "Neon Diner Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Neon Diner",
+   "effect": "",
+   "words": [
+    "ساعة السعادة 5-7 · نيغروني 12 · جن فيز 11"
+   ],
+   "woff2": {
+    "Regular": "neon-diner-page-arabic.woff2"
+   },
+   "codepoints": [
+    1575,
+    1577,
+    1580,
+    1583,
+    1585,
+    1586,
+    1587,
+    1593,
+    1594,
+    1601,
+    1604,
+    1606,
+    1608,
+    1610
+   ],
+   "stamp": "ef6da70beb6b5726"
+  },
+  {
+   "name": "Neon Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Neon",
+   "effect": "",
+   "words": [
+    "ساعة السعادة 5-7 · نيغروني 12 · جن فيز 11"
+   ],
+   "woff2": {
+    "Regular": "neon-page-arabic.woff2"
+   },
+   "codepoints": [
+    1575,
+    1577,
+    1580,
+    1583,
+    1585,
+    1586,
+    1587,
+    1593,
+    1594,
+    1601,
+    1604,
+    1606,
+    1608,
+    1610
+   ],
+   "stamp": "62690fd1e042ff7b"
+  },
+  {
+   "name": "Neon Rod Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Neon Rod",
+   "effect": "",
+   "words": [
+    "ساعة السعادة 5-7 · نيغروني 12 · جن فيز 11"
+   ],
+   "woff2": {
+    "Regular": "neon-rod-page-arabic.woff2"
+   },
+   "codepoints": [
+    1575,
+    1577,
+    1580,
+    1583,
+    1585,
+    1586,
+    1587,
+    1593,
+    1594,
+    1601,
+    1604,
+    1606,
+    1608,
+    1610
+   ],
+   "stamp": "7e26c02d8a1b4ab1"
+  },
+  {
+   "name": "Ombrelle Initials Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Ombrelle Initials",
+   "effect": "",
+   "words": [
+    "ذات أحد على الجزيرة",
+    "حديقة",
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "ombrelle-initials-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1571,
+    1575,
+    1577,
+    1578,
+    1580,
+    1581,
+    1582,
+    1583,
+    1584,
+    1585,
+    1586,
+    1591,
+    1593,
+    1602,
+    1603,
+    1604,
+    1606,
+    1607,
+    1609,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "4b24da65682b28be"
+  },
+  {
+   "name": "Ombrelle Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Ombrelle",
+   "effect": "",
+   "words": [
+    "يوم أحد على الجزيرة"
+   ],
+   "woff2": {
+    "Regular": "ombrelle-page-arabic.woff2"
+   },
+   "codepoints": [
+    1571,
+    1575,
+    1577,
+    1580,
+    1581,
+    1583,
+    1585,
+    1586,
+    1593,
+    1604,
+    1605,
+    1608,
+    1609,
+    1610
+   ],
+   "stamp": "40b0d988aff2a786"
+  },
+  {
+   "name": "Panework Boogie Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Panework Boogie",
+   "effect": "",
+   "words": [
+    "برودواي في الليل"
+   ],
+   "woff2": {
+    "Regular": "panework-boogie-page-arabic.woff2"
+   },
+   "codepoints": [
+    1575,
+    1576,
+    1583,
+    1585,
+    1601,
+    1604,
+    1608,
+    1610
+   ],
+   "stamp": "1295c781c1b46f75"
+  },
+  {
+   "name": "Panework Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Panework",
+   "effect": "",
+   "words": [
+    "تكوين بالأحمر",
+    "شبكة",
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "panework-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1571,
+    1575,
+    1576,
+    1577,
+    1578,
+    1581,
+    1582,
+    1583,
+    1584,
+    1585,
+    1588,
+    1591,
+    1603,
+    1604,
+    1605,
+    1606,
+    1607,
+    1608,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "1d9518721669b43b"
+  },
+  {
+   "name": "Pebble Sans Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Pebble Sans",
+   "effect": "round 46",
+   "words": [
+    "حواف مستديرة بأمر واحد",
+    "مستدير",
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "pebble-sans-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1571,
+    1575,
+    1576,
+    1577,
+    1578,
+    1581,
+    1582,
+    1583,
+    1584,
+    1585,
+    1587,
+    1591,
+    1601,
+    1603,
+    1604,
+    1605,
+    1606,
+    1607,
+    1608,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "b0d3f7794ed059f2"
+  },
+  {
+   "name": "Platen Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Platen",
+   "effect": "",
+   "words": [
+    "عزيزتي سعاد، عربة الآلة الكاتبة تعلق من جديد. شريط $2.95 & 12 ورقة @ 4c.",
+    "عزيزتي"
+   ],
+   "woff2": {
+    "Regular": "platen-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1570,
+    1575,
+    1576,
+    1577,
+    1578,
+    1580,
+    1583,
+    1585,
+    1586,
+    1587,
+    1588,
+    1591,
+    1593,
+    1602,
+    1603,
+    1604,
+    1605,
+    1606,
+    1608,
+    1610
+   ],
+   "stamp": "d7c6858df3e08108"
+  },
+  {
+   "name": "Platen Ribbon Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Platen Ribbon",
+   "effect": "ribbon from ribbon.py",
+   "words": [
+    "عزيزتي سعاد، عربة الآلة الكاتبة تعلق من جديد. شريط $2.95 & 12 ورقة @ 4c.",
+    "شريط",
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "platen-ribbon-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1570,
+    1571,
+    1575,
+    1576,
+    1577,
+    1578,
+    1580,
+    1582,
+    1583,
+    1584,
+    1585,
+    1586,
+    1587,
+    1588,
+    1591,
+    1593,
+    1602,
+    1603,
+    1604,
+    1605,
+    1606,
+    1607,
+    1608,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "76bf64af61d09e8b"
+  },
+  {
+   "name": "Pointille Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Pointille",
+   "effect": "dotted",
+   "words": [
+    "عصر يوم الأحد"
+   ],
+   "woff2": {
+    "Regular": "pointille-page-arabic.woff2"
+   },
+   "codepoints": [
+    1571,
+    1575,
+    1581,
+    1583,
+    1585,
+    1589,
+    1593,
+    1604,
+    1605,
+    1608,
+    1610
+   ],
+   "stamp": "d2b6adc8db16ef06"
+  },
+  {
+   "name": "Setsquare Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Setsquare",
+   "effect": "",
+   "words": [
+    "دائرة ومربع ومثلث",
+    "زاوية"
+   ],
+   "woff2": {
+    "Regular": "setsquare-page-arabic.woff2"
+   },
+   "codepoints": [
+    1574,
+    1575,
+    1576,
+    1577,
+    1579,
+    1583,
+    1585,
+    1586,
+    1593,
+    1604,
+    1605,
+    1608,
+    1610
+   ],
+   "stamp": "b538c2070c30f5f3"
+  },
+  {
+   "name": "Softboil Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Noto Sans Arabic",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)",
+   "pen": "Softboil",
+   "effect": "",
+   "words": [
+    "صباح الخير. الفطور جاهز.",
+    "ناعم"
+   ],
+   "woff2": {
+    "Regular": "softboil-page-arabic.woff2"
+   },
+   "codepoints": [
+    1575,
+    1576,
+    1580,
+    1581,
+    1582,
+    1585,
+    1586,
+    1589,
+    1591,
+    1593,
+    1601,
+    1604,
+    1605,
+    1606,
+    1607,
+    1608,
+    1610
+   ],
+   "stamp": "a24711fd2868c24d"
+  },
+  {
+   "name": "Starry Initials Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Playpen Sans Arabic",
+   "source_copyright": "Copyright 2023 The Playpen Sans Project Authors (https://github.com/TypeTogether/Playpen-Sans)",
+   "pen": "Starry Initials",
+   "effect": "painted from starry.py",
+   "words": [
+    "ليل مليء بالنجوم",
+    "ليل",
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "starry-initials-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1569,
+    1571,
+    1575,
+    1576,
+    1578,
+    1580,
+    1582,
+    1583,
+    1584,
+    1585,
+    1591,
+    1603,
+    1604,
+    1605,
+    1606,
+    1607,
+    1608,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "ef05540554c7ba50"
+  },
+  {
+   "name": "Starry Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Playpen Sans Arabic",
+   "source_copyright": "Copyright 2023 The Playpen Sans Project Authors (https://github.com/TypeTogether/Playpen-Sans)",
+   "pen": "Starry",
+   "effect": "painted from starry.py",
+   "words": [
+    "ليل مليء بالنجوم",
+    "نجوم"
+   ],
+   "woff2": {
+    "Regular": "starry-page-arabic.woff2"
+   },
+   "codepoints": [
+    1569,
+    1575,
+    1576,
+    1580,
+    1604,
+    1605,
+    1606,
+    1608,
+    1610
+   ],
+   "stamp": "22af25f7c73b549e"
+  },
+  {
+   "name": "Wassail Initials Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Playpen Sans Arabic",
+   "source_copyright": "Copyright 2023 The Playpen Sans Project Authors (https://github.com/TypeTogether/Playpen-Sans)",
+   "pen": "Wassail Initials",
+   "effect": "",
+   "words": [
+    "اسمعوا ترنيم الملائكة",
+    "الميلاد",
+    "الخط الذي تريده، أيًّا كان."
+   ],
+   "woff2": {
+    "Regular": "wassail-initials-page-arabic.woff2"
+   },
+   "codepoints": [
+    1548,
+    1571,
+    1574,
+    1575,
+    1577,
+    1578,
+    1582,
+    1583,
+    1584,
+    1585,
+    1587,
+    1591,
+    1593,
+    1603,
+    1604,
+    1605,
+    1606,
+    1607,
+    1608,
+    1610,
+    1611,
+    1617
+   ],
+   "stamp": "1f2dd829b7571826"
+  },
+  {
+   "name": "Wassail Page Arabic",
+   "language": "ar",
+   "script": "Arabic",
+   "source": "Playpen Sans Arabic",
+   "source_copyright": "Copyright 2023 The Playpen Sans Project Authors (https://github.com/TypeTogether/Playpen-Sans)",
+   "pen": "Wassail",
+   "effect": "",
+   "words": [
+    "اسمعوا ترنيم الملائكة"
+   ],
+   "woff2": {
+    "Regular": "wassail-page-arabic.woff2"
+   },
+   "codepoints": [
+    1574,
+    1575,
+    1577,
+    1578,
+    1585,
+    1587,
+    1593,
+    1603,
+    1604,
+    1605,
+    1606,
+    1608,
+    1610
+   ],
+   "stamp": "5c43abee62e5bcec"
+  },
+  {
+   "name": "Arroyo Glyphic Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Arroyo Glyphic",
+   "effect": "",
+   "words": [
+    "लंबी बहसों के लिए एक शांत सेरिफ़"
+   ],
+   "woff2": {
+    "Regular": "arroyo-glyphic-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2306,
+    2319,
+    2325,
+    2340,
+    2347,
+    2348,
+    2352,
+    2354,
+    2358,
+    2360,
+    2361,
+    2364,
+    2366,
+    2367,
+    2368,
+    2375,
+    2379
+   ],
+   "stamp": "a3bea0b4dd37fc28"
+  },
+  {
+   "name": "Arroyo Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Arroyo",
+   "effect": "",
+   "words": [
+    "लंबी बहसों के लिए एक शांत सेरिफ़",
+    "शांत",
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "arroyo-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2319,
+    2325,
+    2330,
+    2332,
+    2335,
+    2340,
+    2344,
+    2346,
+    2347,
+    2348,
+    2352,
+    2354,
+    2357,
+    2358,
+    2360,
+    2361,
+    2364,
+    2366,
+    2367,
+    2368,
+    2375,
+    2376,
+    2377,
+    2379,
+    2381,
+    2404
+   ],
+   "stamp": "af528bf85a6458e2"
+  },
+  {
+   "name": "Arroyo Text Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Arroyo Text",
+   "effect": "",
+   "words": [
+    "लंबी बहसों के लिए एक शांत सेरिफ़"
+   ],
+   "woff2": {
+    "Regular": "arroyo-text-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2306,
+    2319,
+    2325,
+    2340,
+    2347,
+    2348,
+    2352,
+    2354,
+    2358,
+    2360,
+    2361,
+    2364,
+    2366,
+    2367,
+    2368,
+    2375,
+    2379
+   ],
+   "stamp": "d34a196da8af9307"
+  },
+  {
+   "name": "Billboard Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Billboard",
+   "effect": "layered_shadow",
+   "words": [
+    "ताज़े आड़ू",
+    "ताजा"
+   ],
+   "woff2": {
+    "Regular": "billboard-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2310,
+    2332,
+    2337,
+    2340,
+    2364,
+    2366,
+    2370,
+    2375
+   ],
+   "stamp": "6fab95de8837fbce"
+  },
+  {
+   "name": "Cabochon Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Cabochon",
+   "effect": "",
+   "words": [
+    "जेड और माणिक",
+    "जेड",
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "cabochon-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2319,
+    2324,
+    2325,
+    2330,
+    2332,
+    2335,
+    2337,
+    2339,
+    2344,
+    2346,
+    2347,
+    2350,
+    2352,
+    2357,
+    2360,
+    2361,
+    2364,
+    2366,
+    2367,
+    2375,
+    2376,
+    2377,
+    2381,
+    2404
+   ],
+   "stamp": "1a9381de4f27eec1"
+  },
+  {
+   "name": "Cabochon Rose Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Cabochon Rose",
+   "effect": "",
+   "words": [
+    "जेड और माणिक"
+   ],
+   "woff2": {
+    "Regular": "cabochon-rose-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2324,
+    2325,
+    2332,
+    2337,
+    2339,
+    2350,
+    2352,
+    2366,
+    2367,
+    2375
+   ],
+   "stamp": "a5e13d6dfdf8d2c4"
+  },
+  {
+   "name": "Caliper Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Caliper",
+   "effect": "",
+   "words": [
+    "दो बार नापो, एक बार काटो, शुक्रवार को रिलीज़ करो",
+    "लंबा",
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "caliper-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2319,
+    2325,
+    2330,
+    2332,
+    2335,
+    2342,
+    2344,
+    2346,
+    2347,
+    2348,
+    2352,
+    2354,
+    2357,
+    2358,
+    2360,
+    2361,
+    2364,
+    2366,
+    2367,
+    2368,
+    2369,
+    2375,
+    2376,
+    2377,
+    2379,
+    2381,
+    2404
+   ],
+   "stamp": "abce7dc073e447f2"
+  },
+  {
+   "name": "Crate Stencil Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Crate Stencil",
+   "effect": "stencil",
+   "words": [
+    "नाज़ुक माल — इस ओर ऊपर — पेटी 12 में से 07 — मुंबई बंदरगाह",
+    "पेटी",
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "crate-stencil-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2311,
+    2312,
+    2314,
+    2319,
+    2323,
+    2325,
+    2327,
+    2330,
+    2332,
+    2335,
+    2342,
+    2344,
+    2346,
+    2347,
+    2348,
+    2350,
+    2352,
+    2354,
+    2357,
+    2360,
+    2361,
+    2364,
+    2366,
+    2368,
+    2369,
+    2375,
+    2376,
+    2377,
+    2381,
+    2404
+   ],
+   "stamp": "2834dba6c4a42020"
+  },
+  {
+   "name": "Crate Stencil Sprayed Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Crate Stencil Sprayed",
+   "effect": "stencil",
+   "words": [
+    "नाज़ुक माल — इस ओर ऊपर — पेटी 12 में से 07 — मुंबई बंदरगाह"
+   ],
+   "woff2": {
+    "Regular": "crate-stencil-sprayed-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2306,
+    2311,
+    2312,
+    2314,
+    2323,
+    2325,
+    2327,
+    2332,
+    2335,
+    2342,
+    2344,
+    2346,
+    2348,
+    2350,
+    2352,
+    2354,
+    2360,
+    2361,
+    2364,
+    2366,
+    2368,
+    2369,
+    2375
+   ],
+   "stamp": "cc3f3982415b930b"
+  },
+  {
+   "name": "Crate Stencil Square Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Crate Stencil Square",
+   "effect": "stencil",
+   "words": [
+    "नाज़ुक माल — इस ओर ऊपर — पेटी 12 में से 07 — मुंबई बंदरगाह"
+   ],
+   "woff2": {
+    "Regular": "crate-stencil-square-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2306,
+    2311,
+    2312,
+    2314,
+    2323,
+    2325,
+    2327,
+    2332,
+    2335,
+    2342,
+    2344,
+    2346,
+    2348,
+    2350,
+    2352,
+    2354,
+    2360,
+    2361,
+    2364,
+    2366,
+    2368,
+    2369,
+    2375
+   ],
+   "stamp": "4a42b6e9a7e48228"
+  },
+  {
+   "name": "Cutout Color Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Kalam",
+   "source_copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+   "pen": "Cutout Color",
+   "effect": "painted_paper from cutpaper.py",
+   "words": [
+    "बच्चों का संग्रहालय",
+    "कागज",
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "cutout-color-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2319,
+    2325,
+    2327,
+    2330,
+    2332,
+    2335,
+    2344,
+    2346,
+    2347,
+    2348,
+    2351,
+    2352,
+    2354,
+    2357,
+    2360,
+    2361,
+    2364,
+    2366,
+    2375,
+    2376,
+    2377,
+    2379,
+    2381,
+    2404
+   ],
+   "stamp": "8955641f0f958ce3"
+  },
+  {
+   "name": "Cutout Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Kalam",
+   "source_copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+   "pen": "Cutout",
+   "effect": "scissors from cutpaper.py",
+   "words": [
+    "बच्चों का संग्रहालय"
+   ],
+   "woff2": {
+    "Regular": "cutout-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2306,
+    2325,
+    2327,
+    2330,
+    2348,
+    2351,
+    2352,
+    2354,
+    2360,
+    2361,
+    2366,
+    2379,
+    2381
+   ],
+   "stamp": "e009055ee1348e14"
+  },
+  {
+   "name": "Dayshift Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Dayshift",
+   "effect": "",
+   "words": [
+    "आपके बदलाव सहेज लिए गए हैं",
+    "सहेजें",
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "dayshift-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2310,
+    2319,
+    2325,
+    2327,
+    2330,
+    2332,
+    2335,
+    2342,
+    2344,
+    2346,
+    2347,
+    2348,
+    2354,
+    2357,
+    2360,
+    2361,
+    2364,
+    2366,
+    2367,
+    2375,
+    2376,
+    2377,
+    2381,
+    2404
+   ],
+   "stamp": "80eccb044f97fd27"
+  },
+  {
+   "name": "Doorstep Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Doorstep",
+   "effect": "",
+   "words": [
+    "नुक्कड़ की बेकरी से ख़बरें",
+    "रोटी"
+   ],
+   "woff2": {
+    "Regular": "doorstep-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2306,
+    2325,
+    2326,
+    2335,
+    2337,
+    2344,
+    2348,
+    2352,
+    2360,
+    2364,
+    2368,
+    2369,
+    2375,
+    2379,
+    2381
+   ],
+   "stamp": "fa38aa91f6733a1a"
+  },
+  {
+   "name": "Drippelgang Ink Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Drippelgang Ink",
+   "effect": "",
+   "words": [
+    "ट्रिक या ट्रीट!"
+   ],
+   "woff2": {
+    "Regular": "drippelgang-ink-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2325,
+    2335,
+    2351,
+    2352,
+    2366,
+    2367,
+    2368,
+    2381
+   ],
+   "stamp": "b77bbb8b92f1d27b"
+  },
+  {
+   "name": "Drippelgang Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Drippelgang",
+   "effect": "",
+   "words": [
+    "ट्रिक या ट्रीट!",
+    "बू!",
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "drippelgang-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2319,
+    2325,
+    2330,
+    2332,
+    2335,
+    2344,
+    2346,
+    2347,
+    2348,
+    2351,
+    2352,
+    2357,
+    2360,
+    2361,
+    2364,
+    2366,
+    2367,
+    2368,
+    2370,
+    2375,
+    2376,
+    2377,
+    2381,
+    2404
+   ],
+   "stamp": "9f5f9d23da4445c0"
+  },
+  {
+   "name": "Eight Dials Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Eight Dials",
+   "effect": "",
+   "words": [
+    "हर अक्षर एक फ़ैसला है",
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "eight-dials-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2309,
+    2319,
+    2325,
+    2330,
+    2332,
+    2335,
+    2344,
+    2346,
+    2347,
+    2352,
+    2354,
+    2357,
+    2359,
+    2360,
+    2361,
+    2364,
+    2366,
+    2375,
+    2376,
+    2377,
+    2381,
+    2404
+   ],
+   "stamp": "1938a7ae0fe6affd"
+  },
+  {
+   "name": "Gilt Bloom Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Gilt Bloom",
+   "effect": "klimt from klimt.py",
+   "words": [
+    "प्रिया & आरव"
+   ],
+   "woff2": {
+    "Regular": "gilt-bloom-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2310,
+    2346,
+    2351,
+    2352,
+    2357,
+    2366,
+    2367,
+    2381
+   ],
+   "stamp": "351a9b67dccfb3a4"
+  },
+  {
+   "name": "Gilt Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Gilt",
+   "effect": "klimt from klimt.py",
+   "words": [
+    "प्रिया & आरव",
+    "सोना",
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "gilt-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2310,
+    2319,
+    2330,
+    2332,
+    2335,
+    2344,
+    2346,
+    2347,
+    2351,
+    2352,
+    2357,
+    2360,
+    2361,
+    2364,
+    2366,
+    2367,
+    2375,
+    2376,
+    2377,
+    2379,
+    2381,
+    2404
+   ],
+   "stamp": "74976d78ff074308"
+  },
+  {
+   "name": "Gilt Robe Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Gilt Robe",
+   "effect": "klimt from klimt.py",
+   "words": [
+    "प्रिया & आरव"
+   ],
+   "woff2": {
+    "Regular": "gilt-robe-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2310,
+    2346,
+    2351,
+    2352,
+    2357,
+    2366,
+    2367,
+    2381
+   ],
+   "stamp": "57ab45cb4668e6a8"
+  },
+  {
+   "name": "Haystack Initials Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Kalam",
+   "source_copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+   "pen": "Haystack Initials",
+   "effect": "painted from haystack.py",
+   "words": [
+    "खेत में ढलती दोपहर",
+    "घास",
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "haystack-initials-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2319,
+    2326,
+    2328,
+    2330,
+    2332,
+    2335,
+    2338,
+    2340,
+    2342,
+    2344,
+    2346,
+    2347,
+    2350,
+    2352,
+    2354,
+    2357,
+    2360,
+    2361,
+    2364,
+    2366,
+    2368,
+    2375,
+    2376,
+    2377,
+    2379,
+    2381,
+    2404
+   ],
+   "stamp": "16eeddad72ebe1d3"
+  },
+  {
+   "name": "Haystack Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Kalam",
+   "source_copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+   "pen": "Haystack",
+   "effect": "painted from haystack.py",
+   "words": [
+    "खेत में ढलती दोपहर"
+   ],
+   "woff2": {
+    "Regular": "haystack-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2306,
+    2326,
+    2338,
+    2340,
+    2342,
+    2346,
+    2350,
+    2352,
+    2354,
+    2361,
+    2368,
+    2375,
+    2379
+   ],
+   "stamp": "4bdaaeba2b5ff362"
+  },
+  {
+   "name": "Hedmast Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Hedmast",
+   "effect": "",
+   "words": [
+    "बारिश में आख़िरी गोल से शीर्ष टीम हारी",
+    "ताज़ा"
+   ],
+   "woff2": {
+    "Regular": "hedmast-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2306,
+    2310,
+    2326,
+    2327,
+    2332,
+    2335,
+    2340,
+    2348,
+    2350,
+    2352,
+    2354,
+    2358,
+    2359,
+    2360,
+    2361,
+    2364,
+    2366,
+    2367,
+    2368,
+    2375,
+    2379,
+    2381
+   ],
+   "stamp": "f1d7d6231561ba01"
+  },
+  {
+   "name": "Kanagawa Brush Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Kalam",
+   "source_copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+   "pen": "Kanagawa Brush",
+   "effect": "breaker from breaker.py",
+   "words": [
+    "कानागावा की विशाल लहर"
+   ],
+   "woff2": {
+    "Regular": "kanagawa-brush-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2325,
+    2327,
+    2344,
+    2352,
+    2354,
+    2357,
+    2358,
+    2361,
+    2366,
+    2367,
+    2368
+   ],
+   "stamp": "eae7a05c890e6c20"
+  },
+  {
+   "name": "Kanagawa Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Kanagawa",
+   "effect": "breaker from breaker.py",
+   "words": [
+    "कानागावा की विशाल लहर",
+    "लहर",
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "kanagawa-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2319,
+    2325,
+    2327,
+    2330,
+    2332,
+    2335,
+    2344,
+    2346,
+    2347,
+    2352,
+    2354,
+    2357,
+    2358,
+    2360,
+    2361,
+    2364,
+    2366,
+    2367,
+    2368,
+    2375,
+    2376,
+    2377,
+    2381,
+    2404
+   ],
+   "stamp": "1a7c863f194670f2"
+  },
+  {
+   "name": "Kanagawa Swell Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Kanagawa Swell",
+   "effect": "breaker from breaker.py",
+   "words": [
+    "कानागावा की विशाल लहर"
+   ],
+   "woff2": {
+    "Regular": "kanagawa-swell-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2325,
+    2327,
+    2344,
+    2352,
+    2354,
+    2357,
+    2358,
+    2361,
+    2366,
+    2367,
+    2368
+   ],
+   "stamp": "c016816e955df9ca"
+  },
+  {
+   "name": "Lacentine Card Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Lacentine Card",
+   "effect": "",
+   "words": [
+    "मेरे वैलेंटाइन बनो"
+   ],
+   "woff2": {
+    "Regular": "lacentine-card-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2306,
+    2311,
+    2335,
+    2344,
+    2348,
+    2350,
+    2352,
+    2354,
+    2357,
+    2366,
+    2375,
+    2376,
+    2379
+   ],
+   "stamp": "2f2bd66f6af60819"
+  },
+  {
+   "name": "Lacentine Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Lacentine",
+   "effect": "",
+   "words": [
+    "मेरे वैलेंटाइन बनो",
+    "प्यार",
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "lacentine-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2311,
+    2319,
+    2330,
+    2332,
+    2335,
+    2344,
+    2346,
+    2347,
+    2348,
+    2350,
+    2351,
+    2352,
+    2354,
+    2357,
+    2360,
+    2361,
+    2364,
+    2366,
+    2375,
+    2376,
+    2377,
+    2379,
+    2381,
+    2404
+   ],
+   "stamp": "fc289f28535a4ecf"
+  },
+  {
+   "name": "Leafpile Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Leafpile",
+   "effect": "",
+   "words": [
+    "फ़सल का मेला",
+    "पतझड़",
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "leafpile-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2319,
+    2325,
+    2330,
+    2332,
+    2333,
+    2335,
+    2337,
+    2340,
+    2344,
+    2346,
+    2347,
+    2350,
+    2354,
+    2357,
+    2360,
+    2361,
+    2364,
+    2366,
+    2375,
+    2376,
+    2377,
+    2381,
+    2404
+   ],
+   "stamp": "a4158b7f03d9bbd9"
+  },
+  {
+   "name": "Leafpile Plain Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Leafpile Plain",
+   "effect": "",
+   "words": [
+    "फ़सल का मेला"
+   ],
+   "woff2": {
+    "Regular": "leafpile-plain-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2325,
+    2347,
+    2350,
+    2354,
+    2360,
+    2364,
+    2366,
+    2375
+   ],
+   "stamp": "578832a6284baf48"
+  },
+  {
+   "name": "Lowslung Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Lowslung",
+   "effect": "",
+   "words": [
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "lowslung-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2319,
+    2330,
+    2332,
+    2335,
+    2344,
+    2346,
+    2347,
+    2357,
+    2360,
+    2361,
+    2364,
+    2366,
+    2375,
+    2376,
+    2377,
+    2381,
+    2404
+   ],
+   "stamp": "836abae2a4f8a61a"
+  },
+  {
+   "name": "Marquee Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Marquee",
+   "effect": "inline",
+   "words": [
+    "अब सिनेमाघरों में",
+    "अभी",
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "marquee-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2309,
+    2319,
+    2328,
+    2330,
+    2332,
+    2335,
+    2344,
+    2346,
+    2347,
+    2348,
+    2349,
+    2350,
+    2352,
+    2357,
+    2360,
+    2361,
+    2364,
+    2366,
+    2367,
+    2368,
+    2375,
+    2376,
+    2377,
+    2379,
+    2381,
+    2404
+   ],
+   "stamp": "e7387d63f3a79460"
+  },
+  {
+   "name": "Meridian Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Meridian",
+   "effect": "banded",
+   "words": [
+    "सुनहरी शाम",
+    "घंटा"
+   ],
+   "woff2": {
+    "Regular": "meridian-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2306,
+    2328,
+    2335,
+    2344,
+    2350,
+    2352,
+    2358,
+    2360,
+    2361,
+    2366,
+    2368,
+    2369
+   ],
+   "stamp": "b011c0e3440d3e33"
+  },
+  {
+   "name": "Neon Diner Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Neon Diner",
+   "effect": "",
+   "words": [
+    "हैप्पी आवर 5-7 · नेग्रोनी 12 · जिन फ़िज़ 11"
+   ],
+   "woff2": {
+    "Regular": "neon-diner-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2310,
+    2327,
+    2332,
+    2344,
+    2346,
+    2347,
+    2352,
+    2357,
+    2361,
+    2364,
+    2367,
+    2368,
+    2375,
+    2376,
+    2379,
+    2381
+   ],
+   "stamp": "ba228c8c332fdc32"
+  },
+  {
+   "name": "Neon Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Neon",
+   "effect": "",
+   "words": [
+    "हैप्पी आवर 5-7 · नेग्रोनी 12 · जिन फ़िज़ 11"
+   ],
+   "woff2": {
+    "Regular": "neon-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2310,
+    2327,
+    2332,
+    2344,
+    2346,
+    2347,
+    2352,
+    2357,
+    2361,
+    2364,
+    2367,
+    2368,
+    2375,
+    2376,
+    2379,
+    2381
+   ],
+   "stamp": "e4d0efc97a15f81f"
+  },
+  {
+   "name": "Neon Rod Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Neon Rod",
+   "effect": "",
+   "words": [
+    "हैप्पी आवर 5-7 · नेग्रोनी 12 · जिन फ़िज़ 11"
+   ],
+   "woff2": {
+    "Regular": "neon-rod-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2310,
+    2327,
+    2332,
+    2344,
+    2346,
+    2347,
+    2352,
+    2357,
+    2361,
+    2364,
+    2367,
+    2368,
+    2375,
+    2376,
+    2379,
+    2381
+   ],
+   "stamp": "c85735dd49a23e26"
+  },
+  {
+   "name": "Ombrelle Initials Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Ombrelle Initials",
+   "effect": "",
+   "words": [
+    "द्वीप पर एक रविवार",
+    "पार्क",
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "ombrelle-initials-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2319,
+    2325,
+    2330,
+    2332,
+    2335,
+    2342,
+    2344,
+    2346,
+    2347,
+    2352,
+    2357,
+    2360,
+    2361,
+    2364,
+    2366,
+    2367,
+    2368,
+    2375,
+    2376,
+    2377,
+    2381,
+    2404
+   ],
+   "stamp": "c4bbbd531292a545"
+  },
+  {
+   "name": "Ombrelle Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Ombrelle",
+   "effect": "",
+   "words": [
+    "द्वीप पर रविवार"
+   ],
+   "woff2": {
+    "Regular": "ombrelle-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2342,
+    2346,
+    2352,
+    2357,
+    2366,
+    2367,
+    2368,
+    2381
+   ],
+   "stamp": "eb414782d56adda9"
+  },
+  {
+   "name": "Panework Boogie Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Panework Boogie",
+   "effect": "",
+   "words": [
+    "रात में ब्रॉडवे"
+   ],
+   "woff2": {
+    "Regular": "panework-boogie-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2306,
+    2337,
+    2340,
+    2348,
+    2350,
+    2352,
+    2357,
+    2366,
+    2375,
+    2377,
+    2381
+   ],
+   "stamp": "8ae00ff583fa5d57"
+  },
+  {
+   "name": "Panework Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Panework",
+   "effect": "",
+   "words": [
+    "लाल में रचना",
+    "ग्रिड",
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "panework-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2319,
+    2327,
+    2330,
+    2332,
+    2335,
+    2337,
+    2344,
+    2346,
+    2347,
+    2350,
+    2352,
+    2354,
+    2357,
+    2360,
+    2361,
+    2364,
+    2366,
+    2367,
+    2375,
+    2376,
+    2377,
+    2381,
+    2404
+   ],
+   "stamp": "0a59d276ac6634b7"
+  },
+  {
+   "name": "Pebble Sans Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Pebble Sans",
+   "effect": "round 46",
+   "words": [
+    "एक ही कमांड से गोल",
+    "गोल",
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "pebble-sans-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2319,
+    2325,
+    2327,
+    2330,
+    2332,
+    2335,
+    2337,
+    2344,
+    2346,
+    2347,
+    2350,
+    2354,
+    2357,
+    2360,
+    2361,
+    2364,
+    2366,
+    2368,
+    2375,
+    2376,
+    2377,
+    2379,
+    2381,
+    2404
+   ],
+   "stamp": "43e03c12b2ec577a"
+  },
+  {
+   "name": "Platen Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Platen",
+   "effect": "",
+   "words": [
+    "प्रिय सुधा जी, टाइपराइटर की कैरिज फिर अटक रही है। रिबन $2.95 & 12 पन्ने @ 4c.",
+    "प्रिय"
+   ],
+   "woff2": {
+    "Regular": "platen-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2309,
+    2311,
+    2325,
+    2332,
+    2335,
+    2343,
+    2344,
+    2346,
+    2347,
+    2348,
+    2351,
+    2352,
+    2360,
+    2361,
+    2366,
+    2367,
+    2368,
+    2369,
+    2375,
+    2376,
+    2381,
+    2404
+   ],
+   "stamp": "23616e8ccb286d17"
+  },
+  {
+   "name": "Platen Ribbon Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Platen Ribbon",
+   "effect": "ribbon from ribbon.py",
+   "words": [
+    "प्रिय सुधा जी, टाइपराइटर की कैरिज फिर अटक रही है। रिबन $2.95 & 12 पन्ने @ 4c.",
+    "रिबन",
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "platen-ribbon-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2309,
+    2311,
+    2319,
+    2325,
+    2330,
+    2332,
+    2335,
+    2343,
+    2344,
+    2346,
+    2347,
+    2348,
+    2351,
+    2352,
+    2357,
+    2360,
+    2361,
+    2364,
+    2366,
+    2367,
+    2368,
+    2369,
+    2375,
+    2376,
+    2377,
+    2381,
+    2404
+   ],
+   "stamp": "21c5cd506b385635"
+  },
+  {
+   "name": "Pointille Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Pointille",
+   "effect": "dotted",
+   "words": [
+    "रविवार की दोपहर"
+   ],
+   "woff2": {
+    "Regular": "pointille-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2325,
+    2342,
+    2346,
+    2352,
+    2357,
+    2361,
+    2366,
+    2367,
+    2368,
+    2379
+   ],
+   "stamp": "0796e2908873e5fb"
+  },
+  {
+   "name": "Setsquare Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Setsquare",
+   "effect": "",
+   "words": [
+    "एक वृत्त, एक वर्ग और एक त्रिभुज",
+    "कोण"
+   ],
+   "woff2": {
+    "Regular": "setsquare-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2319,
+    2324,
+    2325,
+    2327,
+    2332,
+    2339,
+    2340,
+    2349,
+    2352,
+    2357,
+    2367,
+    2369,
+    2371,
+    2379,
+    2381
+   ],
+   "stamp": "1b7ea9a418ab7b10"
+  },
+  {
+   "name": "Softboil Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Noto Sans Devanagari",
+   "source_copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+   "pen": "Softboil",
+   "effect": "",
+   "words": [
+    "सुप्रभात। नाश्ता तैयार है।",
+    "मुलायम"
+   ],
+   "woff2": {
+    "Regular": "softboil-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2340,
+    2344,
+    2346,
+    2349,
+    2350,
+    2351,
+    2352,
+    2354,
+    2358,
+    2360,
+    2361,
+    2366,
+    2369,
+    2376,
+    2381,
+    2404
+   ],
+   "stamp": "3350eac4d243d3ba"
+  },
+  {
+   "name": "Starry Initials Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Kalam",
+   "source_copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+   "pen": "Starry Initials",
+   "effect": "painted from starry.py",
+   "words": [
+    "तारों भरी रात",
+    "रात",
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "starry-initials-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2319,
+    2330,
+    2332,
+    2335,
+    2340,
+    2344,
+    2346,
+    2347,
+    2349,
+    2352,
+    2357,
+    2360,
+    2361,
+    2364,
+    2366,
+    2368,
+    2375,
+    2376,
+    2377,
+    2379,
+    2381,
+    2404
+   ],
+   "stamp": "c080fd0eb8c433c8"
+  },
+  {
+   "name": "Starry Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Kalam",
+   "source_copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+   "pen": "Starry",
+   "effect": "painted from starry.py",
+   "words": [
+    "तारों भरी रात",
+    "तारे"
+   ],
+   "woff2": {
+    "Regular": "starry-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2306,
+    2340,
+    2349,
+    2352,
+    2366,
+    2368,
+    2375,
+    2379
+   ],
+   "stamp": "ad04af773de385f4"
+  },
+  {
+   "name": "Wassail Initials Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Kalam",
+   "source_copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+   "pen": "Wassail Initials",
+   "effect": "",
+   "words": [
+    "सुनो, स्वर्गदूत गा रहे हैं",
+    "क्रिसमस",
+    "जैसा फ़ॉन्ट चाहें, वैसा पाएँ।"
+   ],
+   "woff2": {
+    "Regular": "wassail-initials-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2305,
+    2306,
+    2319,
+    2325,
+    2327,
+    2330,
+    2332,
+    2335,
+    2340,
+    2342,
+    2344,
+    2346,
+    2347,
+    2350,
+    2352,
+    2357,
+    2360,
+    2361,
+    2364,
+    2366,
+    2367,
+    2369,
+    2370,
+    2375,
+    2376,
+    2377,
+    2379,
+    2381,
+    2404
+   ],
+   "stamp": "543a02c6212a25f0"
+  },
+  {
+   "name": "Wassail Page Devanagari",
+   "language": "hi",
+   "script": "Devanagari",
+   "source": "Kalam",
+   "source_copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+   "pen": "Wassail",
+   "effect": "",
+   "words": [
+    "सुनो, स्वर्गदूत गा रहे हैं"
+   ],
+   "woff2": {
+    "Regular": "wassail-page-devanagari.woff2"
+   },
+   "codepoints": [
+    2306,
+    2327,
+    2340,
+    2342,
+    2344,
+    2352,
+    2357,
+    2360,
+    2361,
+    2366,
+    2369,
+    2370,
+    2375,
+    2376,
+    2379,
+    2381
+   ],
+   "stamp": "d532306da695948e"
+  },
+  {
+   "name": "Arroyo Glyphic Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Arroyo Glyphic",
+   "effect": "",
+   "words": [
+    "長い論考のための静かなセリフ体"
+   ],
+   "woff2": {
+    "Regular": "arroyo-glyphic-page-japanese.woff2"
+   },
+   "codepoints": [
+    12356,
+    12363,
+    12383,
+    12394,
+    12398,
+    12417,
+    12475,
+    12501,
+    12522,
+    20307,
+    32771,
+    35542,
+    38263,
+    38745
+   ],
+   "stamp": "337c87e0372a02ce"
+  },
+  {
+   "name": "Arroyo Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Arroyo",
+   "effect": "",
+   "words": [
+    "長い論考のための静かなセリフ体",
+    "静か",
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "arroyo-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12356,
+    12363,
+    12383,
+    12391,
+    12393,
+    12394,
+    12395,
+    12398,
+    12414,
+    12417,
+    12418,
+    12435,
+    12457,
+    12475,
+    12488,
+    12501,
+    12522,
+    12531,
+    20307,
+    24605,
+    32771,
+    35542,
+    38263,
+    38745
+   ],
+   "stamp": "15533fb770e14d61"
+  },
+  {
+   "name": "Arroyo Text Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Arroyo Text",
+   "effect": "",
+   "words": [
+    "長い論考のための静かなセリフ体"
+   ],
+   "woff2": {
+    "Regular": "arroyo-text-page-japanese.woff2"
+   },
+   "codepoints": [
+    12356,
+    12363,
+    12383,
+    12394,
+    12398,
+    12417,
+    12475,
+    12501,
+    12522,
+    20307,
+    32771,
+    35542,
+    38263,
+    38745
+   ],
+   "stamp": "05adf7ef76d79d13"
+  },
+  {
+   "name": "Billboard Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Billboard",
+   "effect": "layered_shadow",
+   "words": [
+    "もぎたての桃",
+    "新鮮"
+   ],
+   "woff2": {
+    "Regular": "billboard-page-japanese.woff2"
+   },
+   "codepoints": [
+    12366,
+    12383,
+    12390,
+    12398,
+    12418,
+    26032,
+    26691,
+    39854
+   ],
+   "stamp": "9c8fc8c0633fee98"
+  },
+  {
+   "name": "Cabochon Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Cabochon",
+   "effect": "",
+   "words": [
+    "ヒスイとルビー",
+    "ヒスイ",
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "cabochon-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12356,
+    12391,
+    12392,
+    12393,
+    12394,
+    12395,
+    12398,
+    12414,
+    12418,
+    12435,
+    12452,
+    12457,
+    12473,
+    12488,
+    12498,
+    12499,
+    12501,
+    12523,
+    12531,
+    12540,
+    24605
+   ],
+   "stamp": "8bbbbbbb5c2ce144"
+  },
+  {
+   "name": "Cabochon Rose Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Cabochon Rose",
+   "effect": "",
+   "words": [
+    "ヒスイとルビー"
+   ],
+   "woff2": {
+    "Regular": "cabochon-rose-page-japanese.woff2"
+   },
+   "codepoints": [
+    12392,
+    12452,
+    12473,
+    12498,
+    12499,
+    12523,
+    12540
+   ],
+   "stamp": "1b84afdb47f8b05a"
+  },
+  {
+   "name": "Caliper Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Caliper",
+   "effect": "",
+   "words": [
+    "二度測って一度で切る、出荷は金曜",
+    "高い",
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "caliper-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12356,
+    12387,
+    12390,
+    12391,
+    12393,
+    12394,
+    12395,
+    12398,
+    12399,
+    12414,
+    12418,
+    12427,
+    12435,
+    12457,
+    12488,
+    12501,
+    12531,
+    19968,
+    20108,
+    20986,
+    20999,
+    24230,
+    24605,
+    26332,
+    28204,
+    33655,
+    37329,
+    39640
+   ],
+   "stamp": "7fd0d99a9bc764e0"
+  },
+  {
+   "name": "Crate Stencil Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Crate Stencil",
+   "effect": "stencil",
+   "words": [
+    "取扱注意 — 天地無用 — 全12箱のうち07 — 横浜港",
+    "木箱",
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "crate-stencil-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12356,
+    12358,
+    12385,
+    12391,
+    12393,
+    12394,
+    12395,
+    12398,
+    12414,
+    12418,
+    12435,
+    12457,
+    12488,
+    12501,
+    12531,
+    20840,
+    21462,
+    22320,
+    22825,
+    24605,
+    24847,
+    25201,
+    26408,
+    27178,
+    27880,
+    27996,
+    28207,
+    28961,
+    29992,
+    31665
+   ],
+   "stamp": "74415ad6acccbbc5"
+  },
+  {
+   "name": "Crate Stencil Sprayed Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Crate Stencil Sprayed",
+   "effect": "stencil",
+   "words": [
+    "取扱注意 — 天地無用 — 全12箱のうち07 — 横浜港"
+   ],
+   "woff2": {
+    "Regular": "crate-stencil-sprayed-page-japanese.woff2"
+   },
+   "codepoints": [
+    12358,
+    12385,
+    12398,
+    20840,
+    21462,
+    22320,
+    22825,
+    24847,
+    25201,
+    27178,
+    27880,
+    27996,
+    28207,
+    28961,
+    29992,
+    31665
+   ],
+   "stamp": "a3adc07a943a5bcd"
+  },
+  {
+   "name": "Crate Stencil Square Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Crate Stencil Square",
+   "effect": "stencil",
+   "words": [
+    "取扱注意 — 天地無用 — 全12箱のうち07 — 横浜港"
+   ],
+   "woff2": {
+    "Regular": "crate-stencil-square-page-japanese.woff2"
+   },
+   "codepoints": [
+    12358,
+    12385,
+    12398,
+    20840,
+    21462,
+    22320,
+    22825,
+    24847,
+    25201,
+    27178,
+    27880,
+    27996,
+    28207,
+    28961,
+    29992,
+    31665
+   ],
+   "stamp": "8a89b9995a4c6e19"
+  },
+  {
+   "name": "Cutout Color Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Klee One",
+   "source_copyright": "Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+   "pen": "Cutout Color",
+   "effect": "painted_paper from cutpaper.py",
+   "words": [
+    "こども博物館",
+    "紙",
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "cutout-color-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12356,
+    12371,
+    12391,
+    12393,
+    12394,
+    12395,
+    12398,
+    12414,
+    12418,
+    12435,
+    12457,
+    12488,
+    12501,
+    12531,
+    21338,
+    24605,
+    29289,
+    32025,
+    39208
+   ],
+   "stamp": "a6f6ee5c947da2db"
+  },
+  {
+   "name": "Cutout Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Klee One",
+   "source_copyright": "Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+   "pen": "Cutout",
+   "effect": "scissors from cutpaper.py",
+   "words": [
+    "こども博物館"
+   ],
+   "woff2": {
+    "Regular": "cutout-page-japanese.woff2"
+   },
+   "codepoints": [
+    12371,
+    12393,
+    12418,
+    21338,
+    29289,
+    39208
+   ],
+   "stamp": "cd365ca58d68a611"
+  },
+  {
+   "name": "Dayshift Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Dayshift",
+   "effect": "",
+   "words": [
+    "変更を保存しました",
+    "保存",
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "dayshift-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12356,
+    12375,
+    12383,
+    12391,
+    12393,
+    12394,
+    12395,
+    12398,
+    12414,
+    12418,
+    12434,
+    12435,
+    12457,
+    12488,
+    12501,
+    12531,
+    20445,
+    22793,
+    23384,
+    24605,
+    26356
+   ],
+   "stamp": "92fe324b7b0f9a40"
+  },
+  {
+   "name": "Doorstep Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Doorstep",
+   "effect": "",
+   "words": [
+    "街角のパン屋さんから",
+    "パン"
+   ],
+   "woff2": {
+    "Regular": "doorstep-page-japanese.woff2"
+   },
+   "codepoints": [
+    12363,
+    12373,
+    12398,
+    12425,
+    12435,
+    12497,
+    12531,
+    23627,
+    34903,
+    35282
+   ],
+   "stamp": "dd6aa90b39f6fb77"
+  },
+  {
+   "name": "Drippelgang Ink Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Drippelgang Ink",
+   "effect": "",
+   "words": [
+    "お菓子をくれなきゃいたずらするぞ!"
+   ],
+   "woff2": {
+    "Regular": "drippelgang-ink-page-japanese.woff2"
+   },
+   "codepoints": [
+    12356,
+    12362,
+    12365,
+    12367,
+    12377,
+    12378,
+    12382,
+    12383,
+    12394,
+    12419,
+    12425,
+    12427,
+    12428,
+    12434,
+    23376,
+    33747
+   ],
+   "stamp": "878b67a76aa43e19"
+  },
+  {
+   "name": "Drippelgang Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Drippelgang",
+   "effect": "",
+   "words": [
+    "お菓子をくれなきゃいたずらするぞ!",
+    "ばあ!",
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "drippelgang-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12354,
+    12356,
+    12362,
+    12365,
+    12367,
+    12377,
+    12378,
+    12382,
+    12383,
+    12391,
+    12393,
+    12394,
+    12395,
+    12398,
+    12400,
+    12414,
+    12418,
+    12419,
+    12425,
+    12427,
+    12428,
+    12434,
+    12435,
+    12457,
+    12488,
+    12501,
+    12531,
+    23376,
+    24605,
+    33747
+   ],
+   "stamp": "fcc8286b5afff3ee"
+  },
+  {
+   "name": "Eight Dials Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Eight Dials",
+   "effect": "",
+   "words": [
+    "文字はすべて、ひとつの決断",
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "eight-dials-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12356,
+    12377,
+    12388,
+    12390,
+    12391,
+    12392,
+    12393,
+    12394,
+    12395,
+    12398,
+    12399,
+    12402,
+    12409,
+    12414,
+    12418,
+    12435,
+    12457,
+    12488,
+    12501,
+    12531,
+    23383,
+    24605,
+    25991,
+    26029,
+    27770
+   ],
+   "stamp": "c2c8cd7c5cc4e56d"
+  },
+  {
+   "name": "Gilt Bloom Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Gilt Bloom",
+   "effect": "klimt from klimt.py",
+   "words": [
+    "由美 & 直樹"
+   ],
+   "woff2": {
+    "Regular": "gilt-bloom-page-japanese.woff2"
+   },
+   "codepoints": [
+    27193,
+    30001,
+    30452,
+    32654
+   ],
+   "stamp": "5b62680a9f762f17"
+  },
+  {
+   "name": "Gilt Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Gilt",
+   "effect": "klimt from klimt.py",
+   "words": [
+    "由美 & 直樹",
+    "金",
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "gilt-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12356,
+    12391,
+    12393,
+    12394,
+    12395,
+    12398,
+    12414,
+    12418,
+    12435,
+    12457,
+    12488,
+    12501,
+    12531,
+    24605,
+    27193,
+    30001,
+    30452,
+    32654,
+    37329
+   ],
+   "stamp": "a6160174d524f0ec"
+  },
+  {
+   "name": "Gilt Robe Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Gilt Robe",
+   "effect": "klimt from klimt.py",
+   "words": [
+    "由美 & 直樹"
+   ],
+   "woff2": {
+    "Regular": "gilt-robe-page-japanese.woff2"
+   },
+   "codepoints": [
+    27193,
+    30001,
+    30452,
+    32654
+   ],
+   "stamp": "00eb7f6f8b2fd9e1"
+  },
+  {
+   "name": "Haystack Initials Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Klee One",
+   "source_copyright": "Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+   "pen": "Haystack Initials",
+   "effect": "painted from haystack.py",
+   "words": [
+    "昼下がりの野原",
+    "干し草",
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "haystack-initials-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12356,
+    12364,
+    12375,
+    12391,
+    12393,
+    12394,
+    12395,
+    12398,
+    12414,
+    12418,
+    12426,
+    12435,
+    12457,
+    12488,
+    12501,
+    12531,
+    19979,
+    21407,
+    24178,
+    24605,
+    26172,
+    33609,
+    37326
+   ],
+   "stamp": "40fe6861f47410bb"
+  },
+  {
+   "name": "Haystack Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Klee One",
+   "source_copyright": "Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+   "pen": "Haystack",
+   "effect": "painted from haystack.py",
+   "words": [
+    "昼下がりの野原"
+   ],
+   "woff2": {
+    "Regular": "haystack-page-japanese.woff2"
+   },
+   "codepoints": [
+    12364,
+    12398,
+    12426,
+    19979,
+    21407,
+    26172,
+    37326
+   ],
+   "stamp": "938efbe1908d4cbe"
+  },
+  {
+   "name": "Hedmast Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Hedmast",
+   "effect": "",
+   "words": [
+    "雨の終盤弾、首位が沈む",
+    "号外"
+   ],
+   "woff2": {
+    "Regular": "hedmast-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12364,
+    12398,
+    12416,
+    20301,
+    21495,
+    22806,
+    24382,
+    27784,
+    30436,
+    32066,
+    38632,
+    39318
+   ],
+   "stamp": "d6659e0877b4541a"
+  },
+  {
+   "name": "Kanagawa Brush Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Klee One",
+   "source_copyright": "Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+   "pen": "Kanagawa Brush",
+   "effect": "breaker from breaker.py",
+   "words": [
+    "神奈川沖浪裏"
+   ],
+   "woff2": {
+    "Regular": "kanagawa-brush-page-japanese.woff2"
+   },
+   "codepoints": [
+    22856,
+    24029,
+    27798,
+    28010,
+    31070,
+    35023
+   ],
+   "stamp": "244c22516a619032"
+  },
+  {
+   "name": "Kanagawa Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Kanagawa",
+   "effect": "breaker from breaker.py",
+   "words": [
+    "神奈川沖浪裏",
+    "波",
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "kanagawa-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12356,
+    12391,
+    12393,
+    12394,
+    12395,
+    12398,
+    12414,
+    12418,
+    12435,
+    12457,
+    12488,
+    12501,
+    12531,
+    22856,
+    24029,
+    24605,
+    27798,
+    27874,
+    28010,
+    31070,
+    35023
+   ],
+   "stamp": "e48c113d1959ec29"
+  },
+  {
+   "name": "Kanagawa Swell Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Kanagawa Swell",
+   "effect": "breaker from breaker.py",
+   "words": [
+    "神奈川沖浪裏"
+   ],
+   "woff2": {
+    "Regular": "kanagawa-swell-page-japanese.woff2"
+   },
+   "codepoints": [
+    22856,
+    24029,
+    27798,
+    28010,
+    31070,
+    35023
+   ],
+   "stamp": "a2cf79b1ff8bbc26"
+  },
+  {
+   "name": "Lacentine Card Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Lacentine Card",
+   "effect": "",
+   "words": [
+    "わたしのバレンタインになって"
+   ],
+   "woff2": {
+    "Regular": "lacentine-card-page-japanese.woff2"
+   },
+   "codepoints": [
+    12375,
+    12383,
+    12387,
+    12390,
+    12394,
+    12395,
+    12398,
+    12431,
+    12452,
+    12479,
+    12496,
+    12524,
+    12531
+   ],
+   "stamp": "bf193d748c65405e"
+  },
+  {
+   "name": "Lacentine Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Lacentine",
+   "effect": "",
+   "words": [
+    "わたしのバレンタインになって",
+    "愛",
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "lacentine-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12356,
+    12375,
+    12383,
+    12387,
+    12390,
+    12391,
+    12393,
+    12394,
+    12395,
+    12398,
+    12414,
+    12418,
+    12431,
+    12435,
+    12452,
+    12457,
+    12479,
+    12488,
+    12496,
+    12501,
+    12524,
+    12531,
+    24605,
+    24859
+   ],
+   "stamp": "01c1b92fd2fb52fb"
+  },
+  {
+   "name": "Leafpile Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Leafpile",
+   "effect": "",
+   "words": [
+    "収穫祭",
+    "秋",
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "leafpile-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12356,
+    12391,
+    12393,
+    12394,
+    12395,
+    12398,
+    12414,
+    12418,
+    12435,
+    12457,
+    12488,
+    12501,
+    12531,
+    21454,
+    24605,
+    31085,
+    31179,
+    31339
+   ],
+   "stamp": "b65355b6017c3ada"
+  },
+  {
+   "name": "Leafpile Plain Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Leafpile Plain",
+   "effect": "",
+   "words": [
+    "収穫祭"
+   ],
+   "woff2": {
+    "Regular": "leafpile-plain-page-japanese.woff2"
+   },
+   "codepoints": [
+    21454,
+    31085,
+    31339
+   ],
+   "stamp": "33637c0ec7551f83"
+  },
+  {
+   "name": "Lowslung Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Lowslung",
+   "effect": "",
+   "words": [
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "lowslung-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12356,
+    12391,
+    12393,
+    12394,
+    12395,
+    12398,
+    12414,
+    12418,
+    12435,
+    12457,
+    12488,
+    12501,
+    12531,
+    24605
+   ],
+   "stamp": "55bc27e1f58f7e48"
+  },
+  {
+   "name": "Marquee Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Marquee",
+   "effect": "inline",
+   "words": [
+    "絶賛上映中",
+    "上映中",
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "marquee-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12356,
+    12391,
+    12393,
+    12394,
+    12395,
+    12398,
+    12414,
+    12418,
+    12435,
+    12457,
+    12488,
+    12501,
+    12531,
+    19978,
+    20013,
+    24605,
+    26144,
+    32118,
+    36059
+   ],
+   "stamp": "292fa29a3f80dbde"
+  },
+  {
+   "name": "Meridian Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Meridian",
+   "effect": "banded",
+   "words": [
+    "夕暮れどき",
+    "時間"
+   ],
+   "woff2": {
+    "Regular": "meridian-page-japanese.woff2"
+   },
+   "codepoints": [
+    12365,
+    12393,
+    12428,
+    22805,
+    26178,
+    26286,
+    38291
+   ],
+   "stamp": "0af1ceff9a903c26"
+  },
+  {
+   "name": "Neon Diner Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Neon Diner",
+   "effect": "",
+   "words": [
+    "ハッピーアワー 5-7 · ネグローニ 12 · ジンフィズ 11"
+   ],
+   "woff2": {
+    "Regular": "neon-diner-page-japanese.woff2"
+   },
+   "codepoints": [
+    12450,
+    12451,
+    12464,
+    12472,
+    12474,
+    12483,
+    12491,
+    12493,
+    12495,
+    12500,
+    12501,
+    12525,
+    12527,
+    12531,
+    12540
+   ],
+   "stamp": "5f4d9ef8dcc647a4"
+  },
+  {
+   "name": "Neon Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Neon",
+   "effect": "",
+   "words": [
+    "ハッピーアワー 5-7 · ネグローニ 12 · ジンフィズ 11"
+   ],
+   "woff2": {
+    "Regular": "neon-page-japanese.woff2"
+   },
+   "codepoints": [
+    12450,
+    12451,
+    12464,
+    12472,
+    12474,
+    12483,
+    12491,
+    12493,
+    12495,
+    12500,
+    12501,
+    12525,
+    12527,
+    12531,
+    12540
+   ],
+   "stamp": "4445f28c34f67ea7"
+  },
+  {
+   "name": "Neon Rod Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Neon Rod",
+   "effect": "",
+   "words": [
+    "ハッピーアワー 5-7 · ネグローニ 12 · ジンフィズ 11"
+   ],
+   "woff2": {
+    "Regular": "neon-rod-page-japanese.woff2"
+   },
+   "codepoints": [
+    12450,
+    12451,
+    12464,
+    12472,
+    12474,
+    12483,
+    12491,
+    12493,
+    12495,
+    12500,
+    12501,
+    12525,
+    12527,
+    12531,
+    12540
+   ],
+   "stamp": "910f89c764a062d2"
+  },
+  {
+   "name": "Ombrelle Initials Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Ombrelle Initials",
+   "effect": "",
+   "words": [
+    "島のある日曜日",
+    "公園",
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "ombrelle-initials-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12354,
+    12356,
+    12391,
+    12393,
+    12394,
+    12395,
+    12398,
+    12414,
+    12418,
+    12427,
+    12435,
+    12457,
+    12488,
+    12501,
+    12531,
+    20844,
+    22290,
+    23798,
+    24605,
+    26085,
+    26332
+   ],
+   "stamp": "2f974f6377f75828"
+  },
+  {
+   "name": "Ombrelle Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Ombrelle",
+   "effect": "",
+   "words": [
+    "島の日曜日"
+   ],
+   "woff2": {
+    "Regular": "ombrelle-page-japanese.woff2"
+   },
+   "codepoints": [
+    12398,
+    23798,
+    26085,
+    26332
+   ],
+   "stamp": "d4e3bb5b1f9127d5"
+  },
+  {
+   "name": "Panework Boogie Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Panework Boogie",
+   "effect": "",
+   "words": [
+    "夜のブロードウェイ"
+   ],
+   "woff2": {
+    "Regular": "panework-boogie-page-japanese.woff2"
+   },
+   "codepoints": [
+    12398,
+    12452,
+    12454,
+    12455,
+    12489,
+    12502,
+    12525,
+    12540,
+    22812
+   ],
+   "stamp": "81679073d7b89bfa"
+  },
+  {
+   "name": "Panework Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Panework",
+   "effect": "",
+   "words": [
+    "赤のコンポジション",
+    "格子",
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "panework-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12356,
+    12391,
+    12393,
+    12394,
+    12395,
+    12398,
+    12414,
+    12418,
+    12435,
+    12457,
+    12467,
+    12471,
+    12472,
+    12488,
+    12501,
+    12509,
+    12519,
+    12531,
+    23376,
+    24605,
+    26684,
+    36196
+   ],
+   "stamp": "988c7ada10d4c060"
+  },
+  {
+   "name": "Pebble Sans Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Pebble Sans",
+   "effect": "round 46",
+   "words": [
+    "コマンド1つで丸く",
+    "まる",
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "pebble-sans-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12356,
+    12367,
+    12388,
+    12391,
+    12393,
+    12394,
+    12395,
+    12398,
+    12414,
+    12418,
+    12427,
+    12435,
+    12457,
+    12467,
+    12488,
+    12489,
+    12501,
+    12510,
+    12531,
+    20024,
+    24605
+   ],
+   "stamp": "e89ada640b55e823"
+  },
+  {
+   "name": "Platen Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Platen",
+   "effect": "",
+   "words": [
+    "和子様、改行レバーがまた引っかかります。リボン $2.95 & 用紙12枚 @ 4c。",
+    "拝啓"
+   ],
+   "woff2": {
+    "Regular": "platen-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12363,
+    12364,
+    12377,
+    12383,
+    12387,
+    12414,
+    12426,
+    12496,
+    12508,
+    12522,
+    12524,
+    12531,
+    12540,
+    21644,
+    21843,
+    23376,
+    24341,
+    25309,
+    25913,
+    26522,
+    27096,
+    29992,
+    32025,
+    34892
+   ],
+   "stamp": "830da03984dcab18"
+  },
+  {
+   "name": "Platen Ribbon Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Platen Ribbon",
+   "effect": "ribbon from ribbon.py",
+   "words": [
+    "和子様、改行レバーがまた引っかかります。リボン $2.95 & 用紙12枚 @ 4c。",
+    "リボン",
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "platen-ribbon-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12356,
+    12363,
+    12364,
+    12377,
+    12383,
+    12387,
+    12391,
+    12393,
+    12394,
+    12395,
+    12398,
+    12414,
+    12418,
+    12426,
+    12435,
+    12457,
+    12488,
+    12496,
+    12501,
+    12508,
+    12522,
+    12524,
+    12531,
+    12540,
+    21644,
+    23376,
+    24341,
+    24605,
+    25913,
+    26522,
+    27096,
+    29992,
+    32025,
+    34892
+   ],
+   "stamp": "7059f63e0817c570"
+  },
+  {
+   "name": "Pointille Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Pointille",
+   "effect": "dotted",
+   "words": [
+    "日曜の午後"
+   ],
+   "woff2": {
+    "Regular": "pointille-page-japanese.woff2"
+   },
+   "codepoints": [
+    12398,
+    21320,
+    24460,
+    26085,
+    26332
+   ],
+   "stamp": "a68cb792ce76fef9"
+  },
+  {
+   "name": "Setsquare Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Setsquare",
+   "effect": "",
+   "words": [
+    "円と四角と三角",
+    "角度"
+   ],
+   "woff2": {
+    "Regular": "setsquare-page-japanese.woff2"
+   },
+   "codepoints": [
+    12392,
+    19977,
+    20870,
+    22235,
+    24230,
+    35282
+   ],
+   "stamp": "b35c234c2b1228a1"
+  },
+  {
+   "name": "Softboil Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Noto Sans JP",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Softboil",
+   "effect": "",
+   "words": [
+    "おはよう。朝ごはんができたよ。",
+    "やわらか"
+   ],
+   "woff2": {
+    "Regular": "softboil-page-japanese.woff2"
+   },
+   "codepoints": [
+    12290,
+    12358,
+    12362,
+    12363,
+    12364,
+    12365,
+    12372,
+    12383,
+    12391,
+    12399,
+    12420,
+    12424,
+    12425,
+    12431,
+    12435,
+    26397
+   ],
+   "stamp": "9cb4ae00450d7233"
+  },
+  {
+   "name": "Starry Initials Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Klee One",
+   "source_copyright": "Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+   "pen": "Starry Initials",
+   "effect": "painted from starry.py",
+   "words": [
+    "星でいっぱいの夜",
+    "夜",
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "starry-initials-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12356,
+    12387,
+    12391,
+    12393,
+    12394,
+    12395,
+    12398,
+    12401,
+    12414,
+    12418,
+    12435,
+    12457,
+    12488,
+    12501,
+    12531,
+    22812,
+    24605,
+    26143
+   ],
+   "stamp": "6d40a8499b8cfc0c"
+  },
+  {
+   "name": "Starry Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Klee One",
+   "source_copyright": "Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+   "pen": "Starry",
+   "effect": "painted from starry.py",
+   "words": [
+    "星でいっぱいの夜",
+    "星"
+   ],
+   "woff2": {
+    "Regular": "starry-page-japanese.woff2"
+   },
+   "codepoints": [
+    12356,
+    12387,
+    12391,
+    12398,
+    12401,
+    22812,
+    26143
+   ],
+   "stamp": "e3aa723341026491"
+  },
+  {
+   "name": "Wassail Initials Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Klee One",
+   "source_copyright": "Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+   "pen": "Wassail Initials",
+   "effect": "",
+   "words": [
+    "天には栄え",
+    "聖夜",
+    "どんなフォントでも、 思いのままに。"
+   ],
+   "woff2": {
+    "Regular": "wassail-initials-page-japanese.woff2"
+   },
+   "codepoints": [
+    12289,
+    12290,
+    12356,
+    12360,
+    12391,
+    12393,
+    12394,
+    12395,
+    12398,
+    12399,
+    12414,
+    12418,
+    12435,
+    12457,
+    12488,
+    12501,
+    12531,
+    22812,
+    22825,
+    24605,
+    26628,
+    32854
+   ],
+   "stamp": "a25ce484b94708a4"
+  },
+  {
+   "name": "Wassail Page Japanese",
+   "language": "ja",
+   "script": "Japanese",
+   "source": "Klee One",
+   "source_copyright": "Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+   "pen": "Wassail",
+   "effect": "",
+   "words": [
+    "天には栄え"
+   ],
+   "woff2": {
+    "Regular": "wassail-page-japanese.woff2"
+   },
+   "codepoints": [
+    12360,
+    12395,
+    12399,
+    22825,
+    26628
+   ],
+   "stamp": "160bb85020ace77c"
+  },
+  {
+   "name": "Arroyo Glyphic Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Arroyo Glyphic",
+   "effect": "",
+   "words": [
+    "为长篇论述而生的安静衬线体"
+   ],
+   "woff2": {
+    "Regular": "arroyo-glyphic-page-chinese.woff2"
+   },
+   "codepoints": [
+    20026,
+    20307,
+    23433,
+    29983,
+    30340,
+    31687,
+    32447,
+    32780,
+    34924,
+    35770,
+    36848,
+    38271,
+    38745
+   ],
+   "stamp": "f52e9fd2417b2ff7"
+  },
+  {
+   "name": "Arroyo Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Arroyo",
+   "effect": "",
+   "words": [
+    "为长篇论述而生的安静衬线体",
+    "静",
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "arroyo-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20026,
+    20040,
+    20160,
+    20307,
+    23383,
+    23433,
+    23601,
+    24819,
+    26377,
+    29983,
+    30340,
+    31687,
+    32447,
+    32780,
+    34924,
+    35201,
+    35770,
+    36848,
+    38271,
+    38745,
+    65292
+   ],
+   "stamp": "a246486031a5c3f5"
+  },
+  {
+   "name": "Arroyo Text Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Arroyo Text",
+   "effect": "",
+   "words": [
+    "为长篇论述而生的安静衬线体"
+   ],
+   "woff2": {
+    "Regular": "arroyo-text-page-chinese.woff2"
+   },
+   "codepoints": [
+    20026,
+    20307,
+    23433,
+    29983,
+    30340,
+    31687,
+    32447,
+    32780,
+    34924,
+    35770,
+    36848,
+    38271,
+    38745
+   ],
+   "stamp": "9aac982170f09d6f"
+  },
+  {
+   "name": "Billboard Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Billboard",
+   "effect": "layered_shadow",
+   "words": [
+    "新鲜水蜜桃",
+    "新鲜"
+   ],
+   "woff2": {
+    "Regular": "billboard-page-chinese.woff2"
+   },
+   "codepoints": [
+    26032,
+    26691,
+    27700,
+    34588,
+    40092
+   ],
+   "stamp": "a22a3b0a64025999"
+  },
+  {
+   "name": "Cabochon Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Cabochon",
+   "effect": "",
+   "words": [
+    "玉石与红宝石",
+    "玉",
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "cabochon-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    19982,
+    20040,
+    20160,
+    20307,
+    23383,
+    23453,
+    23601,
+    24819,
+    26377,
+    29577,
+    30707,
+    32418,
+    35201,
+    65292
+   ],
+   "stamp": "7993fab2dce6777c"
+  },
+  {
+   "name": "Cabochon Rose Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Cabochon Rose",
+   "effect": "",
+   "words": [
+    "玉石与红宝石"
+   ],
+   "woff2": {
+    "Regular": "cabochon-rose-page-chinese.woff2"
+   },
+   "codepoints": [
+    19982,
+    23453,
+    29577,
+    30707,
+    32418
+   ],
+   "stamp": "af8abd97fce19bed"
+  },
+  {
+   "name": "Caliper Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Caliper",
+   "effect": "",
+   "words": [
+    "量两次，切一刀，周五上线",
+    "高",
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "caliper-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    19968,
+    19978,
+    20004,
+    20040,
+    20116,
+    20160,
+    20307,
+    20992,
+    20999,
+    21608,
+    23383,
+    23601,
+    24819,
+    26377,
+    27425,
+    32447,
+    35201,
+    37327,
+    39640,
+    65292
+   ],
+   "stamp": "b03ac767d01c5680"
+  },
+  {
+   "name": "Crate Stencil Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Crate Stencil",
+   "effect": "stencil",
+   "words": [
+    "易碎品 — 此面朝上 — 第07箱/共12箱 — 上海港",
+    "木箱",
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "crate-stencil-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    19978,
+    20040,
+    20160,
+    20307,
+    20849,
+    21697,
+    23383,
+    23601,
+    24819,
+    26131,
+    26377,
+    26397,
+    26408,
+    27492,
+    28023,
+    28207,
+    30862,
+    31532,
+    31665,
+    35201,
+    38754,
+    65292
+   ],
+   "stamp": "60ab67179fdfb460"
+  },
+  {
+   "name": "Crate Stencil Sprayed Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Crate Stencil Sprayed",
+   "effect": "stencil",
+   "words": [
+    "易碎品 — 此面朝上 — 第07箱/共12箱 — 上海港"
+   ],
+   "woff2": {
+    "Regular": "crate-stencil-sprayed-page-chinese.woff2"
+   },
+   "codepoints": [
+    19978,
+    20849,
+    21697,
+    26131,
+    26397,
+    27492,
+    28023,
+    28207,
+    30862,
+    31532,
+    31665,
+    38754
+   ],
+   "stamp": "717f53715d3d727a"
+  },
+  {
+   "name": "Crate Stencil Square Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Crate Stencil Square",
+   "effect": "stencil",
+   "words": [
+    "易碎品 — 此面朝上 — 第07箱/共12箱 — 上海港"
+   ],
+   "woff2": {
+    "Regular": "crate-stencil-square-page-chinese.woff2"
+   },
+   "codepoints": [
+    19978,
+    20849,
+    21697,
+    26131,
+    26397,
+    27492,
+    28023,
+    28207,
+    30862,
+    31532,
+    31665,
+    38754
+   ],
+   "stamp": "d9653f47874bfef1"
+  },
+  {
+   "name": "Cutout Color Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "LXGW WenKai GB",
+   "source_copyright": "Copyright 2022-2026 LXGW (https://github.com/lxgw/LxgwWenKaiGB), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'.\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+   "pen": "Cutout Color",
+   "effect": "painted_paper from cutpaper.py",
+   "words": [
+    "儿童博物馆",
+    "纸",
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "cutout-color-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20040,
+    20160,
+    20307,
+    20799,
+    21338,
+    23383,
+    23601,
+    24819,
+    26377,
+    29289,
+    31461,
+    32440,
+    35201,
+    39302,
+    65292
+   ],
+   "stamp": "b8fe45468c9b4ea0"
+  },
+  {
+   "name": "Cutout Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "LXGW WenKai GB",
+   "source_copyright": "Copyright 2022-2026 LXGW (https://github.com/lxgw/LxgwWenKaiGB), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'.\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+   "pen": "Cutout",
+   "effect": "scissors from cutpaper.py",
+   "words": [
+    "儿童博物馆"
+   ],
+   "woff2": {
+    "Regular": "cutout-page-chinese.woff2"
+   },
+   "codepoints": [
+    20799,
+    21338,
+    29289,
+    31461,
+    39302
+   ],
+   "stamp": "6a27dbbf8186a88b"
+  },
+  {
+   "name": "Dayshift Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Dayshift",
+   "effect": "",
+   "words": [
+    "您的更改已保存",
+    "保存",
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "dayshift-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20040,
+    20160,
+    20307,
+    20445,
+    23383,
+    23384,
+    23601,
+    24050,
+    24744,
+    24819,
+    25913,
+    26356,
+    26377,
+    30340,
+    35201,
+    65292
+   ],
+   "stamp": "0c338198a9cd98cc"
+  },
+  {
+   "name": "Doorstep Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Doorstep",
+   "effect": "",
+   "words": [
+    "街角面包店的消息",
+    "面包"
+   ],
+   "woff2": {
+    "Regular": "doorstep-page-chinese.woff2"
+   },
+   "codepoints": [
+    21253,
+    24215,
+    24687,
+    28040,
+    30340,
+    34903,
+    35282,
+    38754
+   ],
+   "stamp": "ccfe1f98b7e5b8fd"
+  },
+  {
+   "name": "Drippelgang Ink Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Drippelgang Ink",
+   "effect": "",
+   "words": [
+    "不给糖就捣蛋!"
+   ],
+   "woff2": {
+    "Regular": "drippelgang-ink-page-chinese.woff2"
+   },
+   "codepoints": [
+    19981,
+    23601,
+    25443,
+    31958,
+    32473,
+    34507
+   ],
+   "stamp": "422cba8c21a275c9"
+  },
+  {
+   "name": "Drippelgang Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Drippelgang",
+   "effect": "",
+   "words": [
+    "不给糖就捣蛋!",
+    "吓!",
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "drippelgang-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    19981,
+    20040,
+    20160,
+    20307,
+    21523,
+    23383,
+    23601,
+    24819,
+    25443,
+    26377,
+    31958,
+    32473,
+    34507,
+    35201,
+    65292
+   ],
+   "stamp": "3659b2b2fd2b0c45"
+  },
+  {
+   "name": "Eight Dials Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Eight Dials",
+   "effect": "",
+   "words": [
+    "每个字，都是一个决定",
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "eight-dials-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    19968,
+    20010,
+    20040,
+    20160,
+    20307,
+    20915,
+    23383,
+    23450,
+    23601,
+    24819,
+    26159,
+    26377,
+    27599,
+    35201,
+    37117,
+    65292
+   ],
+   "stamp": "9a20d900cd6522a6"
+  },
+  {
+   "name": "Gilt Bloom Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Gilt Bloom",
+   "effect": "klimt from klimt.py",
+   "words": [
+    "晓月 & 志远"
+   ],
+   "woff2": {
+    "Regular": "gilt-bloom-page-chinese.woff2"
+   },
+   "codepoints": [
+    24535,
+    26195,
+    26376,
+    36828
+   ],
+   "stamp": "847f0b5030052349"
+  },
+  {
+   "name": "Gilt Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Gilt",
+   "effect": "klimt from klimt.py",
+   "words": [
+    "晓月 & 志远",
+    "金",
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "gilt-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20040,
+    20160,
+    20307,
+    23383,
+    23601,
+    24535,
+    24819,
+    26195,
+    26376,
+    26377,
+    35201,
+    36828,
+    37329,
+    65292
+   ],
+   "stamp": "8c923cb074b0a0b9"
+  },
+  {
+   "name": "Gilt Robe Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Gilt Robe",
+   "effect": "klimt from klimt.py",
+   "words": [
+    "晓月 & 志远"
+   ],
+   "woff2": {
+    "Regular": "gilt-robe-page-chinese.woff2"
+   },
+   "codepoints": [
+    24535,
+    26195,
+    26376,
+    36828
+   ],
+   "stamp": "f6f275a6cf4b4db7"
+  },
+  {
+   "name": "Haystack Initials Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "LXGW WenKai GB",
+   "source_copyright": "Copyright 2022-2026 LXGW (https://github.com/lxgw/LxgwWenKaiGB), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'.\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+   "pen": "Haystack Initials",
+   "effect": "painted from haystack.py",
+   "words": [
+    "田野里的午后",
+    "干草",
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "haystack-initials-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20040,
+    20160,
+    20307,
+    21320,
+    21518,
+    23383,
+    23601,
+    24178,
+    24819,
+    26377,
+    30000,
+    30340,
+    33609,
+    35201,
+    37324,
+    37326,
+    65292
+   ],
+   "stamp": "0d966e43c2a110f5"
+  },
+  {
+   "name": "Haystack Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "LXGW WenKai GB",
+   "source_copyright": "Copyright 2022-2026 LXGW (https://github.com/lxgw/LxgwWenKaiGB), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'.\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+   "pen": "Haystack",
+   "effect": "painted from haystack.py",
+   "words": [
+    "田野里的午后"
+   ],
+   "woff2": {
+    "Regular": "haystack-page-chinese.woff2"
+   },
+   "codepoints": [
+    21320,
+    21518,
+    30000,
+    30340,
+    37324,
+    37326
+   ],
+   "stamp": "486c883903d12f4f"
+  },
+  {
+   "name": "Hedmast Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Hedmast",
+   "effect": "",
+   "words": [
+    "雨中绝杀击沉榜首",
+    "号外"
+   ],
+   "woff2": {
+    "Regular": "hedmast-page-chinese.woff2"
+   },
+   "codepoints": [
+    20013,
+    20987,
+    21495,
+    22806,
+    26432,
+    27036,
+    27785,
+    32477,
+    38632,
+    39318
+   ],
+   "stamp": "7fceee43b40f818a"
+  },
+  {
+   "name": "Kanagawa Brush Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "LXGW WenKai GB",
+   "source_copyright": "Copyright 2022-2026 LXGW (https://github.com/lxgw/LxgwWenKaiGB), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'.\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+   "pen": "Kanagawa Brush",
+   "effect": "breaker from breaker.py",
+   "words": [
+    "神奈川冲浪里"
+   ],
+   "woff2": {
+    "Regular": "kanagawa-brush-page-chinese.woff2"
+   },
+   "codepoints": [
+    20914,
+    22856,
+    24029,
+    28010,
+    31070,
+    37324
+   ],
+   "stamp": "5f9a3496a156dc70"
+  },
+  {
+   "name": "Kanagawa Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Kanagawa",
+   "effect": "breaker from breaker.py",
+   "words": [
+    "神奈川冲浪里",
+    "浪",
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "kanagawa-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20040,
+    20160,
+    20307,
+    20914,
+    22856,
+    23383,
+    23601,
+    24029,
+    24819,
+    26377,
+    28010,
+    31070,
+    35201,
+    37324,
+    65292
+   ],
+   "stamp": "83026b49c6a25a58"
+  },
+  {
+   "name": "Kanagawa Swell Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Kanagawa Swell",
+   "effect": "breaker from breaker.py",
+   "words": [
+    "神奈川冲浪里"
+   ],
+   "woff2": {
+    "Regular": "kanagawa-swell-page-chinese.woff2"
+   },
+   "codepoints": [
+    20914,
+    22856,
+    24029,
+    28010,
+    31070,
+    37324
+   ],
+   "stamp": "32a41735efc86289"
+  },
+  {
+   "name": "Lacentine Card Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Lacentine Card",
+   "effect": "",
+   "words": [
+    "做我的情人吧"
+   ],
+   "woff2": {
+    "Regular": "lacentine-card-page-chinese.woff2"
+   },
+   "codepoints": [
+    20154,
+    20570,
+    21543,
+    24773,
+    25105,
+    30340
+   ],
+   "stamp": "cf7efd7980c163cf"
+  },
+  {
+   "name": "Lacentine Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Lacentine",
+   "effect": "",
+   "words": [
+    "做我的情人吧",
+    "爱",
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "lacentine-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20040,
+    20154,
+    20160,
+    20307,
+    20570,
+    21543,
+    23383,
+    23601,
+    24773,
+    24819,
+    25105,
+    26377,
+    29233,
+    30340,
+    35201,
+    65292
+   ],
+   "stamp": "f50c30ad1dd88479"
+  },
+  {
+   "name": "Leafpile Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Leafpile",
+   "effect": "",
+   "words": [
+    "丰收集市",
+    "秋",
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "leafpile-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20016,
+    20040,
+    20160,
+    20307,
+    23383,
+    23601,
+    24066,
+    24819,
+    25910,
+    26377,
+    31179,
+    35201,
+    38598,
+    65292
+   ],
+   "stamp": "558554a0a7d94b8b"
+  },
+  {
+   "name": "Leafpile Plain Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Leafpile Plain",
+   "effect": "",
+   "words": [
+    "丰收集市"
+   ],
+   "woff2": {
+    "Regular": "leafpile-plain-page-chinese.woff2"
+   },
+   "codepoints": [
+    20016,
+    24066,
+    25910,
+    38598
+   ],
+   "stamp": "0ac1f1c0c3672fbc"
+  },
+  {
+   "name": "Lowslung Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Lowslung",
+   "effect": "",
+   "words": [
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "lowslung-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20040,
+    20160,
+    20307,
+    23383,
+    23601,
+    24819,
+    26377,
+    35201,
+    65292
+   ],
+   "stamp": "705272ed4ed0a6d8"
+  },
+  {
+   "name": "Marquee Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Marquee",
+   "effect": "inline",
+   "words": [
+    "正在热映",
+    "上映",
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "marquee-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    19978,
+    20040,
+    20160,
+    20307,
+    22312,
+    23383,
+    23601,
+    24819,
+    26144,
+    26377,
+    27491,
+    28909,
+    35201,
+    65292
+   ],
+   "stamp": "ce0aee06ed1149e5"
+  },
+  {
+   "name": "Meridian Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Meridian",
+   "effect": "banded",
+   "words": [
+    "黄金时刻",
+    "时"
+   ],
+   "woff2": {
+    "Regular": "meridian-page-chinese.woff2"
+   },
+   "codepoints": [
+    21051,
+    26102,
+    37329,
+    40644
+   ],
+   "stamp": "817009a526ab8675"
+  },
+  {
+   "name": "Neon Diner Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Neon Diner",
+   "effect": "",
+   "words": [
+    "欢乐时光 5-7 · 尼格罗尼 12 · 金菲士 11"
+   ],
+   "woff2": {
+    "Regular": "neon-diner-page-chinese.woff2"
+   },
+   "codepoints": [
+    20048,
+    20809,
+    22763,
+    23612,
+    26102,
+    26684,
+    27426,
+    32599,
+    33778,
+    37329
+   ],
+   "stamp": "98a55fe8896f3614"
+  },
+  {
+   "name": "Neon Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Neon",
+   "effect": "",
+   "words": [
+    "欢乐时光 5-7 · 尼格罗尼 12 · 金菲士 11"
+   ],
+   "woff2": {
+    "Regular": "neon-page-chinese.woff2"
+   },
+   "codepoints": [
+    20048,
+    20809,
+    22763,
+    23612,
+    26102,
+    26684,
+    27426,
+    32599,
+    33778,
+    37329
+   ],
+   "stamp": "1cfc2b518f97b19d"
+  },
+  {
+   "name": "Neon Rod Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Neon Rod",
+   "effect": "",
+   "words": [
+    "欢乐时光 5-7 · 尼格罗尼 12 · 金菲士 11"
+   ],
+   "woff2": {
+    "Regular": "neon-rod-page-chinese.woff2"
+   },
+   "codepoints": [
+    20048,
+    20809,
+    22763,
+    23612,
+    26102,
+    26684,
+    27426,
+    32599,
+    33778,
+    37329
+   ],
+   "stamp": "5ad52ad59da62306"
+  },
+  {
+   "name": "Ombrelle Initials Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Ombrelle Initials",
+   "effect": "",
+   "words": [
+    "岛上的一个星期天",
+    "公园",
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "ombrelle-initials-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    19968,
+    19978,
+    20010,
+    20040,
+    20160,
+    20307,
+    20844,
+    22253,
+    22825,
+    23383,
+    23601,
+    23707,
+    24819,
+    26143,
+    26377,
+    26399,
+    30340,
+    35201,
+    65292
+   ],
+   "stamp": "4088ff18a1d31d65"
+  },
+  {
+   "name": "Ombrelle Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Ombrelle",
+   "effect": "",
+   "words": [
+    "岛上的星期天"
+   ],
+   "woff2": {
+    "Regular": "ombrelle-page-chinese.woff2"
+   },
+   "codepoints": [
+    19978,
+    22825,
+    23707,
+    26143,
+    26399,
+    30340
+   ],
+   "stamp": "6f6da0af3d29d76d"
+  },
+  {
+   "name": "Panework Boogie Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Panework Boogie",
+   "effect": "",
+   "words": [
+    "夜晚的百老汇"
+   ],
+   "woff2": {
+    "Regular": "panework-boogie-page-chinese.woff2"
+   },
+   "codepoints": [
+    22812,
+    26202,
+    27719,
+    30334,
+    30340,
+    32769
+   ],
+   "stamp": "c2cbb5fa101beae7"
+  },
+  {
+   "name": "Panework Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Panework",
+   "effect": "",
+   "words": [
+    "红色的构图",
+    "格子",
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "panework-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20040,
+    20160,
+    20307,
+    22270,
+    23376,
+    23383,
+    23601,
+    24819,
+    26377,
+    26500,
+    26684,
+    30340,
+    32418,
+    33394,
+    35201,
+    65292
+   ],
+   "stamp": "d8be1d9a5d25fed7"
+  },
+  {
+   "name": "Pebble Sans Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Pebble Sans",
+   "effect": "round 46",
+   "words": [
+    "一条命令，圆润起来",
+    "圆",
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "pebble-sans-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    19968,
+    20040,
+    20160,
+    20196,
+    20307,
+    21629,
+    22278,
+    23383,
+    23601,
+    24819,
+    26377,
+    26465,
+    26469,
+    28070,
+    35201,
+    36215,
+    65292
+   ],
+   "stamp": "2e7753dbdde9c6c0"
+  },
+  {
+   "name": "Platen Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Platen",
+   "effect": "",
+   "words": [
+    "亲爱的秀兰：回车杆又卡住了。色带 $2.95 & 信纸12张 @ 4c。",
+    "亲爱的"
+   ],
+   "woff2": {
+    "Regular": "platen-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20102,
+    20146,
+    20303,
+    20449,
+    20848,
+    21345,
+    21448,
+    22238,
+    24102,
+    24352,
+    26438,
+    29233,
+    30340,
+    31168,
+    32440,
+    33394,
+    36710,
+    65306
+   ],
+   "stamp": "0dd17222629a50f5"
+  },
+  {
+   "name": "Platen Ribbon Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Platen Ribbon",
+   "effect": "ribbon from ribbon.py",
+   "words": [
+    "亲爱的秀兰：回车杆又卡住了。色带 $2.95 & 信纸12张 @ 4c。",
+    "色带",
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "platen-ribbon-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20040,
+    20102,
+    20146,
+    20160,
+    20303,
+    20307,
+    20449,
+    20848,
+    21345,
+    21448,
+    22238,
+    23383,
+    23601,
+    24102,
+    24352,
+    24819,
+    26377,
+    26438,
+    29233,
+    30340,
+    31168,
+    32440,
+    33394,
+    35201,
+    36710,
+    65292,
+    65306
+   ],
+   "stamp": "555bef255ffe9c32"
+  },
+  {
+   "name": "Pointille Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Pointille",
+   "effect": "dotted",
+   "words": [
+    "周日午后"
+   ],
+   "woff2": {
+    "Regular": "pointille-page-chinese.woff2"
+   },
+   "codepoints": [
+    21320,
+    21518,
+    21608,
+    26085
+   ],
+   "stamp": "eb5c6023f10e861b"
+  },
+  {
+   "name": "Setsquare Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Setsquare",
+   "effect": "",
+   "words": [
+    "一个圆、一个正方形和一个三角形",
+    "角度"
+   ],
+   "woff2": {
+    "Regular": "setsquare-page-chinese.woff2"
+   },
+   "codepoints": [
+    12289,
+    19968,
+    19977,
+    20010,
+    21644,
+    22278,
+    24230,
+    24418,
+    26041,
+    27491,
+    35282
+   ],
+   "stamp": "5c03cc5fa8404a48"
+  },
+  {
+   "name": "Softboil Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "Noto Sans SC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Softboil",
+   "effect": "",
+   "words": [
+    "早上好。早餐准备好了。",
+    "柔软"
+   ],
+   "woff2": {
+    "Regular": "softboil-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    19978,
+    20102,
+    20934,
+    22791,
+    22909,
+    26089,
+    26580,
+    36719,
+    39184
+   ],
+   "stamp": "ddaf5e3c6411c5c3"
+  },
+  {
+   "name": "Starry Initials Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "LXGW WenKai GB",
+   "source_copyright": "Copyright 2022-2026 LXGW (https://github.com/lxgw/LxgwWenKaiGB), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'.\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+   "pen": "Starry Initials",
+   "effect": "painted from starry.py",
+   "words": [
+    "满天繁星的夜晚",
+    "夜",
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "starry-initials-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20040,
+    20160,
+    20307,
+    22812,
+    22825,
+    23383,
+    23601,
+    24819,
+    26143,
+    26202,
+    26377,
+    28385,
+    30340,
+    32321,
+    35201,
+    65292
+   ],
+   "stamp": "fd4d0db2aecaed22"
+  },
+  {
+   "name": "Starry Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "LXGW WenKai GB",
+   "source_copyright": "Copyright 2022-2026 LXGW (https://github.com/lxgw/LxgwWenKaiGB), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'.\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+   "pen": "Starry",
+   "effect": "painted from starry.py",
+   "words": [
+    "满天繁星的夜晚",
+    "星"
+   ],
+   "woff2": {
+    "Regular": "starry-page-chinese.woff2"
+   },
+   "codepoints": [
+    22812,
+    22825,
+    26143,
+    26202,
+    28385,
+    30340,
+    32321
+   ],
+   "stamp": "a1e0a9c9c851ff29"
+  },
+  {
+   "name": "Wassail Initials Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "LXGW WenKai GB",
+   "source_copyright": "Copyright 2022-2026 LXGW (https://github.com/lxgw/LxgwWenKaiGB), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'.\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+   "pen": "Wassail Initials",
+   "effect": "",
+   "words": [
+    "听啊，天使高声唱",
+    "圣诞",
+    "想要什么字体， 就有什么字体。"
+   ],
+   "woff2": {
+    "Regular": "wassail-initials-page-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20040,
+    20160,
+    20307,
+    20351,
+    21548,
+    21809,
+    21834,
+    22307,
+    22768,
+    22825,
+    23383,
+    23601,
+    24819,
+    26377,
+    35201,
+    35806,
+    39640,
+    65292
+   ],
+   "stamp": "df9307f0afc73cc8"
+  },
+  {
+   "name": "Wassail Page Chinese",
+   "language": "zh",
+   "script": "Chinese",
+   "source": "LXGW WenKai GB",
+   "source_copyright": "Copyright 2022-2026 LXGW (https://github.com/lxgw/LxgwWenKaiGB), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'.\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+   "pen": "Wassail",
+   "effect": "",
+   "words": [
+    "听啊，天使高声唱"
+   ],
+   "woff2": {
+    "Regular": "wassail-page-chinese.woff2"
+   },
+   "codepoints": [
+    20351,
+    21548,
+    21809,
+    21834,
+    22768,
+    22825,
+    39640,
+    65292
+   ],
+   "stamp": "e9ccb1ce1549ccc1"
+  },
+  {
+   "name": "Arroyo Glyphic Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Arroyo Glyphic",
+   "effect": "",
+   "words": [
+    "為長篇論述而生的安靜襯線體"
+   ],
+   "woff2": {
+    "Regular": "arroyo-glyphic-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    23433,
+    28858,
+    29983,
+    30340,
+    31687,
+    32218,
+    32780,
+    35183,
+    35542,
+    36848,
+    38263,
+    38748,
+    39636
+   ],
+   "stamp": "ddc36a714c679899"
+  },
+  {
+   "name": "Arroyo Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Arroyo",
+   "effect": "",
+   "words": [
+    "為長篇論述而生的安靜襯線體",
+    "靜",
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "arroyo-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20160,
+    22411,
+    23383,
+    23433,
+    23601,
+    24819,
+    26377,
+    28858,
+    29983,
+    30340,
+    31687,
+    32218,
+    32780,
+    35183,
+    35201,
+    35542,
+    36848,
+    38263,
+    38748,
+    39636,
+    40636,
+    65292
+   ],
+   "stamp": "0900796d010c3776"
+  },
+  {
+   "name": "Arroyo Text Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Arroyo Text",
+   "effect": "",
+   "words": [
+    "為長篇論述而生的安靜襯線體"
+   ],
+   "woff2": {
+    "Regular": "arroyo-text-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    23433,
+    28858,
+    29983,
+    30340,
+    31687,
+    32218,
+    32780,
+    35183,
+    35542,
+    36848,
+    38263,
+    38748,
+    39636
+   ],
+   "stamp": "7cf0a34ef6b8af48"
+  },
+  {
+   "name": "Billboard Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Billboard",
+   "effect": "layered_shadow",
+   "words": [
+    "新鮮水蜜桃",
+    "新鮮"
+   ],
+   "woff2": {
+    "Regular": "billboard-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    26032,
+    26691,
+    27700,
+    34588,
+    39854
+   ],
+   "stamp": "d3adfeceebabe9e7"
+  },
+  {
+   "name": "Cabochon Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Cabochon",
+   "effect": "",
+   "words": [
+    "翡翠與紅寶石",
+    "翡翠",
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "cabochon-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20160,
+    22411,
+    23383,
+    23542,
+    23601,
+    24819,
+    26377,
+    30707,
+    32005,
+    32736,
+    32737,
+    33287,
+    35201,
+    40636,
+    65292
+   ],
+   "stamp": "6217ce6f583be270"
+  },
+  {
+   "name": "Cabochon Rose Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Cabochon Rose",
+   "effect": "",
+   "words": [
+    "翡翠與紅寶石"
+   ],
+   "woff2": {
+    "Regular": "cabochon-rose-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    23542,
+    30707,
+    32005,
+    32736,
+    32737,
+    33287
+   ],
+   "stamp": "af7150ccf774ba8c"
+  },
+  {
+   "name": "Caliper Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Caliper",
+   "effect": "",
+   "words": [
+    "量兩次，切一刀，週五上線",
+    "高",
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "caliper-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    19968,
+    19978,
+    20116,
+    20160,
+    20841,
+    20992,
+    20999,
+    22411,
+    23383,
+    23601,
+    24819,
+    26377,
+    27425,
+    32218,
+    35201,
+    36913,
+    37327,
+    39640,
+    40636,
+    65292
+   ],
+   "stamp": "2f7776d4f074bd20"
+  },
+  {
+   "name": "Crate Stencil Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Crate Stencil",
+   "effect": "stencil",
+   "words": [
+    "易碎品 — 此面朝上 — 第07箱/共12箱 — 高雄港",
+    "木箱",
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "crate-stencil-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    19978,
+    20160,
+    20849,
+    21697,
+    22411,
+    23383,
+    23601,
+    24819,
+    26131,
+    26377,
+    26397,
+    26408,
+    27492,
+    28207,
+    30862,
+    31532,
+    31665,
+    35201,
+    38596,
+    38754,
+    39640,
+    40636,
+    65292
+   ],
+   "stamp": "ae63e012629692a4"
+  },
+  {
+   "name": "Crate Stencil Sprayed Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Crate Stencil Sprayed",
+   "effect": "stencil",
+   "words": [
+    "易碎品 — 此面朝上 — 第07箱/共12箱 — 高雄港"
+   ],
+   "woff2": {
+    "Regular": "crate-stencil-sprayed-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    19978,
+    20849,
+    21697,
+    26131,
+    26397,
+    27492,
+    28207,
+    30862,
+    31532,
+    31665,
+    38596,
+    38754,
+    39640
+   ],
+   "stamp": "3985c7cfc043d028"
+  },
+  {
+   "name": "Crate Stencil Square Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Crate Stencil Square",
+   "effect": "stencil",
+   "words": [
+    "易碎品 — 此面朝上 — 第07箱/共12箱 — 高雄港"
+   ],
+   "woff2": {
+    "Regular": "crate-stencil-square-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    19978,
+    20849,
+    21697,
+    26131,
+    26397,
+    27492,
+    28207,
+    30862,
+    31532,
+    31665,
+    38596,
+    38754,
+    39640
+   ],
+   "stamp": "4a02e654d422e3ec"
+  },
+  {
+   "name": "Cutout Color Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "LXGW WenKai TC",
+   "source_copyright": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)",
+   "pen": "Cutout Color",
+   "effect": "painted_paper from cutpaper.py",
+   "words": [
+    "兒童博物館",
+    "紙",
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "cutout-color-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20160,
+    20818,
+    21338,
+    22411,
+    23383,
+    23601,
+    24819,
+    26377,
+    29289,
+    31461,
+    32025,
+    35201,
+    39208,
+    40636,
+    65292
+   ],
+   "stamp": "5d9a7bb63375cf46"
+  },
+  {
+   "name": "Cutout Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "LXGW WenKai TC",
+   "source_copyright": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)",
+   "pen": "Cutout",
+   "effect": "scissors from cutpaper.py",
+   "words": [
+    "兒童博物館"
+   ],
+   "woff2": {
+    "Regular": "cutout-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    20818,
+    21338,
+    29289,
+    31461,
+    39208
+   ],
+   "stamp": "563e9ea005edb4a3"
+  },
+  {
+   "name": "Dayshift Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Dayshift",
+   "effect": "",
+   "words": [
+    "您的變更已儲存",
+    "儲存",
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "dayshift-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20160,
+    20786,
+    22411,
+    23383,
+    23384,
+    23601,
+    24050,
+    24744,
+    24819,
+    26356,
+    26377,
+    30340,
+    35201,
+    35722,
+    40636,
+    65292
+   ],
+   "stamp": "4e0347238b02320e"
+  },
+  {
+   "name": "Doorstep Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Doorstep",
+   "effect": "",
+   "words": [
+    "街角麵包店的消息",
+    "麵包"
+   ],
+   "woff2": {
+    "Regular": "doorstep-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    21253,
+    24215,
+    24687,
+    28040,
+    30340,
+    34903,
+    35282,
+    40629
+   ],
+   "stamp": "c46b889551c93cd9"
+  },
+  {
+   "name": "Drippelgang Ink Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Drippelgang Ink",
+   "effect": "",
+   "words": [
+    "不給糖就搗蛋!"
+   ],
+   "woff2": {
+    "Regular": "drippelgang-ink-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    19981,
+    23601,
+    25623,
+    31958,
+    32102,
+    34507
+   ],
+   "stamp": "90f2d4f50a06a4d4"
+  },
+  {
+   "name": "Drippelgang Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Drippelgang",
+   "effect": "",
+   "words": [
+    "不給糖就搗蛋!",
+    "嚇!",
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "drippelgang-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    19981,
+    20160,
+    22151,
+    22411,
+    23383,
+    23601,
+    24819,
+    25623,
+    26377,
+    31958,
+    32102,
+    34507,
+    35201,
+    40636,
+    65292
+   ],
+   "stamp": "7cb4d35f59a9d202"
+  },
+  {
+   "name": "Eight Dials Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Eight Dials",
+   "effect": "",
+   "words": [
+    "每個字，都是一個決定",
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "eight-dials-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    19968,
+    20160,
+    20491,
+    22411,
+    23383,
+    23450,
+    23601,
+    24819,
+    26159,
+    26377,
+    27599,
+    27770,
+    35201,
+    37117,
+    40636,
+    65292
+   ],
+   "stamp": "9f05c3ef83c33c94"
+  },
+  {
+   "name": "Gilt Bloom Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Gilt Bloom",
+   "effect": "klimt from klimt.py",
+   "words": [
+    "志明 & 春嬌"
+   ],
+   "woff2": {
+    "Regular": "gilt-bloom-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    23308,
+    24535,
+    26126,
+    26149
+   ],
+   "stamp": "ab5005f2c3a5197e"
+  },
+  {
+   "name": "Gilt Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Gilt",
+   "effect": "klimt from klimt.py",
+   "words": [
+    "志明 & 春嬌",
+    "金",
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "gilt-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20160,
+    22411,
+    23308,
+    23383,
+    23601,
+    24535,
+    24819,
+    26126,
+    26149,
+    26377,
+    35201,
+    37329,
+    40636,
+    65292
+   ],
+   "stamp": "a0cca01cb72e553a"
+  },
+  {
+   "name": "Gilt Robe Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Gilt Robe",
+   "effect": "klimt from klimt.py",
+   "words": [
+    "志明 & 春嬌"
+   ],
+   "woff2": {
+    "Regular": "gilt-robe-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    23308,
+    24535,
+    26126,
+    26149
+   ],
+   "stamp": "ae5fb6e17b8ac7b9"
+  },
+  {
+   "name": "Haystack Initials Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "LXGW WenKai TC",
+   "source_copyright": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)",
+   "pen": "Haystack Initials",
+   "effect": "painted from haystack.py",
+   "words": [
+    "田野裡的午後",
+    "乾草",
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "haystack-initials-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20094,
+    20160,
+    21320,
+    22411,
+    23383,
+    23601,
+    24460,
+    24819,
+    26377,
+    30000,
+    30340,
+    33609,
+    35041,
+    35201,
+    37326,
+    40636,
+    65292
+   ],
+   "stamp": "f1f7612e339a7ebd"
+  },
+  {
+   "name": "Haystack Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "LXGW WenKai TC",
+   "source_copyright": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)",
+   "pen": "Haystack",
+   "effect": "painted from haystack.py",
+   "words": [
+    "田野裡的午後"
+   ],
+   "woff2": {
+    "Regular": "haystack-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    21320,
+    24460,
+    30000,
+    30340,
+    35041,
+    37326
+   ],
+   "stamp": "28bb51a1a176edd3"
+  },
+  {
+   "name": "Hedmast Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Hedmast",
+   "effect": "",
+   "words": [
+    "雨中絕殺擊沉榜首",
+    "號外"
+   ],
+   "woff2": {
+    "Regular": "hedmast-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    20013,
+    22806,
+    25802,
+    27036,
+    27578,
+    27785,
+    32085,
+    34399,
+    38632,
+    39318
+   ],
+   "stamp": "3324f1270801eda6"
+  },
+  {
+   "name": "Kanagawa Brush Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "LXGW WenKai TC",
+   "source_copyright": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)",
+   "pen": "Kanagawa Brush",
+   "effect": "breaker from breaker.py",
+   "words": [
+    "神奈川沖浪裡"
+   ],
+   "woff2": {
+    "Regular": "kanagawa-brush-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    22856,
+    24029,
+    27798,
+    28010,
+    31070,
+    35041
+   ],
+   "stamp": "eb508cbdf28451a2"
+  },
+  {
+   "name": "Kanagawa Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Kanagawa",
+   "effect": "breaker from breaker.py",
+   "words": [
+    "神奈川沖浪裡",
+    "浪",
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "kanagawa-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20160,
+    22411,
+    22856,
+    23383,
+    23601,
+    24029,
+    24819,
+    26377,
+    27798,
+    28010,
+    31070,
+    35041,
+    35201,
+    40636,
+    65292
+   ],
+   "stamp": "cd59c6c68904f211"
+  },
+  {
+   "name": "Kanagawa Swell Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Kanagawa Swell",
+   "effect": "breaker from breaker.py",
+   "words": [
+    "神奈川沖浪裡"
+   ],
+   "woff2": {
+    "Regular": "kanagawa-swell-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    22856,
+    24029,
+    27798,
+    28010,
+    31070,
+    35041
+   ],
+   "stamp": "68a5084529296acc"
+  },
+  {
+   "name": "Lacentine Card Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Lacentine Card",
+   "effect": "",
+   "words": [
+    "做我的情人吧"
+   ],
+   "woff2": {
+    "Regular": "lacentine-card-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    20154,
+    20570,
+    21543,
+    24773,
+    25105,
+    30340
+   ],
+   "stamp": "79b94fdb46f3a3cd"
+  },
+  {
+   "name": "Lacentine Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Lacentine",
+   "effect": "",
+   "words": [
+    "做我的情人吧",
+    "愛",
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "lacentine-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20154,
+    20160,
+    20570,
+    21543,
+    22411,
+    23383,
+    23601,
+    24773,
+    24819,
+    24859,
+    25105,
+    26377,
+    30340,
+    35201,
+    40636,
+    65292
+   ],
+   "stamp": "a39b473f3752e44a"
+  },
+  {
+   "name": "Leafpile Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Leafpile",
+   "effect": "",
+   "words": [
+    "豐收市集",
+    "秋",
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "leafpile-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20160,
+    22411,
+    23383,
+    23601,
+    24066,
+    24819,
+    25910,
+    26377,
+    31179,
+    35201,
+    35920,
+    38598,
+    40636,
+    65292
+   ],
+   "stamp": "a7851125185777b3"
+  },
+  {
+   "name": "Leafpile Plain Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Leafpile Plain",
+   "effect": "",
+   "words": [
+    "豐收市集"
+   ],
+   "woff2": {
+    "Regular": "leafpile-plain-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    24066,
+    25910,
+    35920,
+    38598
+   ],
+   "stamp": "532206f2d19951db"
+  },
+  {
+   "name": "Lowslung Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Lowslung",
+   "effect": "",
+   "words": [
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "lowslung-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20160,
+    22411,
+    23383,
+    23601,
+    24819,
+    26377,
+    35201,
+    40636,
+    65292
+   ],
+   "stamp": "5c4efa45f5466b00"
+  },
+  {
+   "name": "Marquee Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Marquee",
+   "effect": "inline",
+   "words": [
+    "熱映中",
+    "上映",
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "marquee-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    19978,
+    20013,
+    20160,
+    22411,
+    23383,
+    23601,
+    24819,
+    26144,
+    26377,
+    29105,
+    35201,
+    40636,
+    65292
+   ],
+   "stamp": "eab2edebde7a97f5"
+  },
+  {
+   "name": "Meridian Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Meridian",
+   "effect": "banded",
+   "words": [
+    "黃金時刻",
+    "時"
+   ],
+   "woff2": {
+    "Regular": "meridian-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    21051,
+    26178,
+    37329,
+    40643
+   ],
+   "stamp": "6c349d7007327e1f"
+  },
+  {
+   "name": "Neon Diner Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Neon Diner",
+   "effect": "",
+   "words": [
+    "歡樂時光 5-7 · 內格羅尼 12 · 琴費士 11"
+   ],
+   "woff2": {
+    "Regular": "neon-diner-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    20809,
+    20839,
+    22763,
+    23612,
+    26178,
+    26684,
+    27138,
+    27489,
+    29748,
+    32645,
+    36027
+   ],
+   "stamp": "9ed70a598298641e"
+  },
+  {
+   "name": "Neon Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Neon",
+   "effect": "",
+   "words": [
+    "歡樂時光 5-7 · 內格羅尼 12 · 琴費士 11"
+   ],
+   "woff2": {
+    "Regular": "neon-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    20809,
+    20839,
+    22763,
+    23612,
+    26178,
+    26684,
+    27138,
+    27489,
+    29748,
+    32645,
+    36027
+   ],
+   "stamp": "4deb44ae53b18aeb"
+  },
+  {
+   "name": "Neon Rod Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Neon Rod",
+   "effect": "",
+   "words": [
+    "歡樂時光 5-7 · 內格羅尼 12 · 琴費士 11"
+   ],
+   "woff2": {
+    "Regular": "neon-rod-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    20809,
+    20839,
+    22763,
+    23612,
+    26178,
+    26684,
+    27138,
+    27489,
+    29748,
+    32645,
+    36027
+   ],
+   "stamp": "21343e42987d8a7f"
+  },
+  {
+   "name": "Ombrelle Initials Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Ombrelle Initials",
+   "effect": "",
+   "words": [
+    "島上的一個星期天",
+    "公園",
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "ombrelle-initials-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    19968,
+    19978,
+    20160,
+    20491,
+    20844,
+    22290,
+    22411,
+    22825,
+    23383,
+    23601,
+    23798,
+    24819,
+    26143,
+    26377,
+    26399,
+    30340,
+    35201,
+    40636,
+    65292
+   ],
+   "stamp": "314eeeb860a020cf"
+  },
+  {
+   "name": "Ombrelle Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Ombrelle",
+   "effect": "",
+   "words": [
+    "島上的星期天"
+   ],
+   "woff2": {
+    "Regular": "ombrelle-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    19978,
+    22825,
+    23798,
+    26143,
+    26399,
+    30340
+   ],
+   "stamp": "48bc4d9baaca66be"
+  },
+  {
+   "name": "Panework Boogie Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Panework Boogie",
+   "effect": "",
+   "words": [
+    "夜晚的百老匯"
+   ],
+   "woff2": {
+    "Regular": "panework-boogie-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    21295,
+    22812,
+    26202,
+    30334,
+    30340,
+    32769
+   ],
+   "stamp": "6c25ec6cbdb9b103"
+  },
+  {
+   "name": "Panework Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Panework",
+   "effect": "",
+   "words": [
+    "紅色的構圖",
+    "格子",
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "panework-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20160,
+    22294,
+    22411,
+    23376,
+    23383,
+    23601,
+    24819,
+    26377,
+    26684,
+    27083,
+    30340,
+    32005,
+    33394,
+    35201,
+    40636,
+    65292
+   ],
+   "stamp": "83d80a2a96f22f96"
+  },
+  {
+   "name": "Pebble Sans Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Pebble Sans",
+   "effect": "round 46",
+   "words": [
+    "一行指令，圓潤起來",
+    "圓",
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "pebble-sans-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    19968,
+    20160,
+    20196,
+    20358,
+    22291,
+    22411,
+    23383,
+    23601,
+    24819,
+    25351,
+    26377,
+    28516,
+    34892,
+    35201,
+    36215,
+    40636,
+    65292
+   ],
+   "stamp": "5a3d0c167cf19de2"
+  },
+  {
+   "name": "Platen Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Platen",
+   "effect": "",
+   "words": [
+    "親愛的淑芬：換行桿又卡住了。色帶 $2.95 & 信紙12張 @ 4c。",
+    "親愛的"
+   ],
+   "woff2": {
+    "Regular": "platen-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20102,
+    20303,
+    20449,
+    21345,
+    21448,
+    24118,
+    24373,
+    24859,
+    25563,
+    26751,
+    28113,
+    30340,
+    32025,
+    33394,
+    33452,
+    34892,
+    35242,
+    65306
+   ],
+   "stamp": "8c3be99a42ce303d"
+  },
+  {
+   "name": "Platen Ribbon Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Platen Ribbon",
+   "effect": "ribbon from ribbon.py",
+   "words": [
+    "親愛的淑芬：換行桿又卡住了。色帶 $2.95 & 信紙12張 @ 4c。",
+    "色帶",
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "platen-ribbon-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20102,
+    20160,
+    20303,
+    20449,
+    21345,
+    21448,
+    22411,
+    23383,
+    23601,
+    24118,
+    24373,
+    24819,
+    24859,
+    25563,
+    26377,
+    26751,
+    28113,
+    30340,
+    32025,
+    33394,
+    33452,
+    34892,
+    35201,
+    35242,
+    40636,
+    65292,
+    65306
+   ],
+   "stamp": "75e00ed71ccbeef3"
+  },
+  {
+   "name": "Pointille Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Pointille",
+   "effect": "dotted",
+   "words": [
+    "週日午後"
+   ],
+   "woff2": {
+    "Regular": "pointille-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    21320,
+    24460,
+    26085,
+    36913
+   ],
+   "stamp": "f56525e94381c7fb"
+  },
+  {
+   "name": "Setsquare Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Setsquare",
+   "effect": "",
+   "words": [
+    "一個圓、一個正方形和一個三角形",
+    "角度"
+   ],
+   "woff2": {
+    "Regular": "setsquare-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12289,
+    19968,
+    19977,
+    20491,
+    21644,
+    22291,
+    24230,
+    24418,
+    26041,
+    27491,
+    35282
+   ],
+   "stamp": "26bd7701d210435c"
+  },
+  {
+   "name": "Softboil Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "Noto Sans TC",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Softboil",
+   "effect": "",
+   "words": [
+    "早安。早餐準備好了。",
+    "柔軟"
+   ],
+   "woff2": {
+    "Regular": "softboil-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20102,
+    20633,
+    22909,
+    23433,
+    26089,
+    26580,
+    28310,
+    36575,
+    39184
+   ],
+   "stamp": "54a185c48cda367a"
+  },
+  {
+   "name": "Starry Initials Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "LXGW WenKai TC",
+   "source_copyright": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)",
+   "pen": "Starry Initials",
+   "effect": "painted from starry.py",
+   "words": [
+    "滿天繁星的夜晚",
+    "夜",
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "starry-initials-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20160,
+    22411,
+    22812,
+    22825,
+    23383,
+    23601,
+    24819,
+    26143,
+    26202,
+    26377,
+    28415,
+    30340,
+    32321,
+    35201,
+    40636,
+    65292
+   ],
+   "stamp": "25878d55f9aad243"
+  },
+  {
+   "name": "Starry Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "LXGW WenKai TC",
+   "source_copyright": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)",
+   "pen": "Starry",
+   "effect": "painted from starry.py",
+   "words": [
+    "滿天繁星的夜晚",
+    "星"
+   ],
+   "woff2": {
+    "Regular": "starry-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    22812,
+    22825,
+    26143,
+    26202,
+    28415,
+    30340,
+    32321
+   ],
+   "stamp": "fdaabf42b28570d5"
+  },
+  {
+   "name": "Wassail Initials Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "LXGW WenKai TC",
+   "source_copyright": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)",
+   "pen": "Wassail Initials",
+   "effect": "",
+   "words": [
+    "聽啊，天使高聲唱",
+    "聖誕",
+    "想要什麼字型， 就有什麼字型。"
+   ],
+   "woff2": {
+    "Regular": "wassail-initials-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    12290,
+    20160,
+    20351,
+    21809,
+    21834,
+    22411,
+    22825,
+    23383,
+    23601,
+    24819,
+    26377,
+    32854,
+    32882,
+    32893,
+    35201,
+    35477,
+    39640,
+    40636,
+    65292
+   ],
+   "stamp": "cf65c14eada0789c"
+  },
+  {
+   "name": "Wassail Page Traditional Chinese",
+   "language": "zh-Hant",
+   "script": "Traditional Chinese",
+   "source": "LXGW WenKai TC",
+   "source_copyright": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)",
+   "pen": "Wassail",
+   "effect": "",
+   "words": [
+    "聽啊，天使高聲唱"
+   ],
+   "woff2": {
+    "Regular": "wassail-page-traditional-chinese.woff2"
+   },
+   "codepoints": [
+    20351,
+    21809,
+    21834,
+    22825,
+    32882,
+    32893,
+    39640,
+    65292
+   ],
+   "stamp": "bf16c4ea7488eb9b"
+  },
+  {
+   "name": "Arroyo Glyphic Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Arroyo Glyphic",
+   "effect": "",
+   "words": [
+    "긴 논설을 위한 차분한 세리프"
+   ],
+   "woff2": {
+    "Regular": "arroyo-glyphic-page-korean.woff2"
+   },
+   "codepoints": [
+    44596,
+    45436,
+    47532,
+    48516,
+    49444,
+    49464,
+    50948,
+    51012,
+    52264,
+    54532,
+    54620
+   ],
+   "stamp": "83ef00cb61ea510e"
+  },
+  {
+   "name": "Arroyo Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Arroyo",
+   "effect": "",
+   "words": [
+    "긴 논설을 위한 차분한 세리프",
+    "고요",
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "arroyo-page-korean.woff2"
+   },
+   "codepoints": [
+    44256,
+    44596,
+    45436,
+    45716,
+    45824,
+    46304,
+    46500,
+    47196,
+    47532,
+    48516,
+    49444,
+    49464,
+    50612,
+    50836,
+    50896,
+    50948,
+    51012,
+    52264,
+    53944,
+    54256,
+    54532,
+    54616,
+    54620
+   ],
+   "stamp": "a5d440c353a1bf94"
+  },
+  {
+   "name": "Arroyo Text Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Arroyo Text",
+   "effect": "",
+   "words": [
+    "긴 논설을 위한 차분한 세리프"
+   ],
+   "woff2": {
+    "Regular": "arroyo-text-page-korean.woff2"
+   },
+   "codepoints": [
+    44596,
+    45436,
+    47532,
+    48516,
+    49444,
+    49464,
+    50948,
+    51012,
+    52264,
+    54532,
+    54620
+   ],
+   "stamp": "9428802952a2de3e"
+  },
+  {
+   "name": "Billboard Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Billboard",
+   "effect": "layered_shadow",
+   "words": [
+    "싱싱한 복숭아",
+    "신선"
+   ],
+   "woff2": {
+    "Regular": "billboard-page-korean.woff2"
+   },
+   "codepoints": [
+    48373,
+    49440,
+    49709,
+    49888,
+    49905,
+    50500,
+    54620
+   ],
+   "stamp": "e6ae29a5db6a7d0a"
+  },
+  {
+   "name": "Cabochon Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Cabochon",
+   "effect": "",
+   "words": [
+    "옥과 루비",
+    "옥",
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "cabochon-page-korean.woff2"
+   },
+   "codepoints": [
+    44284,
+    45716,
+    45824,
+    46304,
+    46500,
+    47196,
+    47336,
+    48708,
+    50612,
+    50725,
+    50896,
+    53944,
+    54256,
+    54616
+   ],
+   "stamp": "b334fa8ec6e817be"
+  },
+  {
+   "name": "Cabochon Rose Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Cabochon Rose",
+   "effect": "",
+   "words": [
+    "옥과 루비"
+   ],
+   "woff2": {
+    "Regular": "cabochon-rose-page-korean.woff2"
+   },
+   "codepoints": [
+    44284,
+    47336,
+    48708,
+    50725
+   ],
+   "stamp": "1dfdd9601d0d7407"
+  },
+  {
+   "name": "Caliper Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Caliper",
+   "effect": "",
+   "words": [
+    "두 번 재고, 한 번 자르고, 금요일에 출시",
+    "키다리",
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "caliper-page-korean.woff2"
+   },
+   "codepoints": [
+    44256,
+    44552,
+    45716,
+    45796,
+    45824,
+    46160,
+    46304,
+    46500,
+    47196,
+    47476,
+    47532,
+    48264,
+    49884,
+    50612,
+    50640,
+    50836,
+    50896,
+    51068,
+    51088,
+    51116,
+    52636,
+    53412,
+    53944,
+    54256,
+    54616,
+    54620
+   ],
+   "stamp": "4d6c340d8d3ae57d"
+  },
+  {
+   "name": "Crate Stencil Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Crate Stencil",
+   "effect": "stencil",
+   "words": [
+    "취급 주의 — 이 면을 위로 — 12개 중 07번 상자 — 부산항",
+    "상자",
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "crate-stencil-page-korean.woff2"
+   },
+   "codepoints": [
+    44060,
+    44553,
+    45716,
+    45824,
+    46304,
+    46500,
+    47196,
+    47732,
+    48264,
+    48512,
+    49328,
+    49345,
+    50612,
+    50896,
+    50948,
+    51012,
+    51032,
+    51060,
+    51088,
+    51452,
+    51473,
+    52712,
+    53944,
+    54256,
+    54616,
+    54637
+   ],
+   "stamp": "0dd80b6834275e60"
+  },
+  {
+   "name": "Crate Stencil Sprayed Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Crate Stencil Sprayed",
+   "effect": "stencil",
+   "words": [
+    "취급 주의 — 이 면을 위로 — 12개 중 07번 상자 — 부산항"
+   ],
+   "woff2": {
+    "Regular": "crate-stencil-sprayed-page-korean.woff2"
+   },
+   "codepoints": [
+    44060,
+    44553,
+    47196,
+    47732,
+    48264,
+    48512,
+    49328,
+    49345,
+    50948,
+    51012,
+    51032,
+    51060,
+    51088,
+    51452,
+    51473,
+    52712,
+    54637
+   ],
+   "stamp": "d9a6b6dca04dca77"
+  },
+  {
+   "name": "Crate Stencil Square Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Crate Stencil Square",
+   "effect": "stencil",
+   "words": [
+    "취급 주의 — 이 면을 위로 — 12개 중 07번 상자 — 부산항"
+   ],
+   "woff2": {
+    "Regular": "crate-stencil-square-page-korean.woff2"
+   },
+   "codepoints": [
+    44060,
+    44553,
+    47196,
+    47732,
+    48264,
+    48512,
+    49328,
+    49345,
+    50948,
+    51012,
+    51032,
+    51060,
+    51088,
+    51452,
+    51473,
+    52712,
+    54637
+   ],
+   "stamp": "c5e4b3d4e9c15498"
+  },
+  {
+   "name": "Cutout Color Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Gaegu",
+   "source_copyright": "Copyright 2018 The Gaegu Project Authors",
+   "pen": "Cutout Color",
+   "effect": "painted_paper from cutpaper.py",
+   "words": [
+    "어린이 박물관",
+    "종이",
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "cutout-color-page-korean.woff2"
+   },
+   "codepoints": [
+    44288,
+    45716,
+    45824,
+    46304,
+    46500,
+    47196,
+    47536,
+    47932,
+    48149,
+    50612,
+    50896,
+    51060,
+    51333,
+    53944,
+    54256,
+    54616
+   ],
+   "stamp": "fb127d42af183646"
+  },
+  {
+   "name": "Cutout Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Gaegu",
+   "source_copyright": "Copyright 2018 The Gaegu Project Authors",
+   "pen": "Cutout",
+   "effect": "scissors from cutpaper.py",
+   "words": [
+    "어린이 박물관"
+   ],
+   "woff2": {
+    "Regular": "cutout-page-korean.woff2"
+   },
+   "codepoints": [
+    44288,
+    47536,
+    47932,
+    48149,
+    50612,
+    51060
+   ],
+   "stamp": "49f55f02a9e08803"
+  },
+  {
+   "name": "Dayshift Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Dayshift",
+   "effect": "",
+   "words": [
+    "변경 사항이 저장되었습니다",
+    "저장",
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "dayshift-page-korean.woff2"
+   },
+   "codepoints": [
+    44221,
+    45716,
+    45768,
+    45796,
+    45824,
+    46104,
+    46304,
+    46500,
+    47196,
+    48320,
+    49324,
+    49845,
+    50612,
+    50632,
+    50896,
+    51060,
+    51109,
+    51200,
+    53944,
+    54256,
+    54616,
+    54637
+   ],
+   "stamp": "b6a1f2b7c109443c"
+  },
+  {
+   "name": "Doorstep Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Doorstep",
+   "effect": "",
+   "words": [
+    "모퉁이 빵집 소식",
+    "빵"
+   ],
+   "woff2": {
+    "Regular": "doorstep-page-korean.woff2"
+   },
+   "codepoints": [
+    47784,
+    48757,
+    49548,
+    49885,
+    51060,
+    51665,
+    53825
+   ],
+   "stamp": "b283f020ed741d59"
+  },
+  {
+   "name": "Drippelgang Ink Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Drippelgang Ink",
+   "effect": "",
+   "words": [
+    "과자 안 주면 장난칠 거야!"
+   ],
+   "woff2": {
+    "Regular": "drippelgang-ink-page-korean.woff2"
+   },
+   "codepoints": [
+    44144,
+    44284,
+    45212,
+    47732,
+    50504,
+    50556,
+    51088,
+    51109,
+    51452,
+    52832
+   ],
+   "stamp": "f563e88dece1ff83"
+  },
+  {
+   "name": "Drippelgang Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Drippelgang",
+   "effect": "",
+   "words": [
+    "과자 안 주면 장난칠 거야!",
+    "으악!",
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "drippelgang-page-korean.woff2"
+   },
+   "codepoints": [
+    44144,
+    44284,
+    45212,
+    45716,
+    45824,
+    46304,
+    46500,
+    47196,
+    47732,
+    50501,
+    50504,
+    50556,
+    50612,
+    50896,
+    51004,
+    51088,
+    51109,
+    51452,
+    52832,
+    53944,
+    54256,
+    54616
+   ],
+   "stamp": "8c0c0f9b6b2ac110"
+  },
+  {
+   "name": "Eight Dials Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Eight Dials",
+   "effect": "",
+   "words": [
+    "모든 글자는 하나의 결정이다",
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "eight-dials-page-korean.woff2"
+   },
+   "codepoints": [
+    44208,
+    44544,
+    45208,
+    45716,
+    45796,
+    45824,
+    46304,
+    46500,
+    47196,
+    47784,
+    50612,
+    50896,
+    51032,
+    51060,
+    51088,
+    51221,
+    53944,
+    54256,
+    54616
+   ],
+   "stamp": "4c53c904213c92a1"
+  },
+  {
+   "name": "Gilt Bloom Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Gilt Bloom",
+   "effect": "klimt from klimt.py",
+   "words": [
+    "서연 & 민준"
+   ],
+   "woff2": {
+    "Regular": "gilt-bloom-page-korean.woff2"
+   },
+   "codepoints": [
+    48124,
+    49436,
+    50672,
+    51456
+   ],
+   "stamp": "89a3f9b8a649c00d"
+  },
+  {
+   "name": "Gilt Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Gilt",
+   "effect": "klimt from klimt.py",
+   "words": [
+    "서연 & 민준",
+    "황금",
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "gilt-page-korean.woff2"
+   },
+   "codepoints": [
+    44552,
+    45716,
+    45824,
+    46304,
+    46500,
+    47196,
+    48124,
+    49436,
+    50612,
+    50672,
+    50896,
+    51456,
+    53944,
+    54256,
+    54616,
+    54889
+   ],
+   "stamp": "83d29db528d835a8"
+  },
+  {
+   "name": "Gilt Robe Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Gilt Robe",
+   "effect": "klimt from klimt.py",
+   "words": [
+    "서연 & 민준"
+   ],
+   "woff2": {
+    "Regular": "gilt-robe-page-korean.woff2"
+   },
+   "codepoints": [
+    48124,
+    49436,
+    50672,
+    51456
+   ],
+   "stamp": "3811b8ce946487c7"
+  },
+  {
+   "name": "Haystack Initials Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Gaegu",
+   "source_copyright": "Copyright 2018 The Gaegu Project Authors",
+   "pen": "Haystack Initials",
+   "effect": "painted from haystack.py",
+   "words": [
+    "들판의 늦은 오후",
+    "건초",
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "haystack-initials-page-korean.woff2"
+   },
+   "codepoints": [
+    44148,
+    45716,
+    45734,
+    45824,
+    46304,
+    46308,
+    46500,
+    47196,
+    50612,
+    50724,
+    50896,
+    51008,
+    51032,
+    52488,
+    53944,
+    54032,
+    54256,
+    54616,
+    54980
+   ],
+   "stamp": "6a69a3d5277f3e51"
+  },
+  {
+   "name": "Haystack Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Gaegu",
+   "source_copyright": "Copyright 2018 The Gaegu Project Authors",
+   "pen": "Haystack",
+   "effect": "painted from haystack.py",
+   "words": [
+    "들판의 늦은 오후"
+   ],
+   "woff2": {
+    "Regular": "haystack-page-korean.woff2"
+   },
+   "codepoints": [
+    45734,
+    46308,
+    50724,
+    51008,
+    51032,
+    54032,
+    54980
+   ],
+   "stamp": "9955e7d63fa8b991"
+  },
+  {
+   "name": "Hedmast Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Hedmast",
+   "effect": "",
+   "words": [
+    "빗속 극장골, 선두 침몰",
+    "호외"
+   ],
+   "woff2": {
+    "Regular": "hedmast-page-korean.woff2"
+   },
+   "codepoints": [
+    44264,
+    44537,
+    46160,
+    47792,
+    48727,
+    49440,
+    49549,
+    50808,
+    51109,
+    52840,
+    54840
+   ],
+   "stamp": "faf78a8cebd8e9e0"
+  },
+  {
+   "name": "Kanagawa Brush Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Gaegu",
+   "source_copyright": "Copyright 2018 The Gaegu Project Authors",
+   "pen": "Kanagawa Brush",
+   "effect": "breaker from breaker.py",
+   "words": [
+    "가나가와의 큰 파도"
+   ],
+   "woff2": {
+    "Regular": "kanagawa-brush-page-korean.woff2"
+   },
+   "codepoints": [
+    44032,
+    45208,
+    46020,
+    50752,
+    51032,
+    53360,
+    54028
+   ],
+   "stamp": "397332be8b412c61"
+  },
+  {
+   "name": "Kanagawa Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Kanagawa",
+   "effect": "breaker from breaker.py",
+   "words": [
+    "가나가와의 큰 파도",
+    "파도",
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "kanagawa-page-korean.woff2"
+   },
+   "codepoints": [
+    44032,
+    45208,
+    45716,
+    45824,
+    46020,
+    46304,
+    46500,
+    47196,
+    50612,
+    50752,
+    50896,
+    51032,
+    53360,
+    53944,
+    54028,
+    54256,
+    54616
+   ],
+   "stamp": "96d8802b9d5bb370"
+  },
+  {
+   "name": "Kanagawa Swell Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Kanagawa Swell",
+   "effect": "breaker from breaker.py",
+   "words": [
+    "가나가와의 큰 파도"
+   ],
+   "woff2": {
+    "Regular": "kanagawa-swell-page-korean.woff2"
+   },
+   "codepoints": [
+    44032,
+    45208,
+    46020,
+    50752,
+    51032,
+    53360,
+    54028
+   ],
+   "stamp": "411ed8ee49c49eb0"
+  },
+  {
+   "name": "Lacentine Card Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Lacentine Card",
+   "effect": "",
+   "words": [
+    "나의 밸런타인이 되어 줘"
+   ],
+   "woff2": {
+    "Regular": "lacentine-card-page-korean.woff2"
+   },
+   "codepoints": [
+    45208,
+    46104,
+    47088,
+    48184,
+    50612,
+    51032,
+    51060,
+    51064,
+    51480,
+    53440
+   ],
+   "stamp": "ce83462d73425be6"
+  },
+  {
+   "name": "Lacentine Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Lacentine",
+   "effect": "",
+   "words": [
+    "나의 밸런타인이 되어 줘",
+    "사랑",
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "lacentine-page-korean.woff2"
+   },
+   "codepoints": [
+    45208,
+    45716,
+    45824,
+    46104,
+    46304,
+    46500,
+    46993,
+    47088,
+    47196,
+    48184,
+    49324,
+    50612,
+    50896,
+    51032,
+    51060,
+    51064,
+    51480,
+    53440,
+    53944,
+    54256,
+    54616
+   ],
+   "stamp": "f9c0b5a73027714a"
+  },
+  {
+   "name": "Leafpile Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Leafpile",
+   "effect": "",
+   "words": [
+    "추수 축제",
+    "가을",
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "leafpile-page-korean.woff2"
+   },
+   "codepoints": [
+    44032,
+    45716,
+    45824,
+    46304,
+    46500,
+    47196,
+    49688,
+    50612,
+    50896,
+    51012,
+    51228,
+    52628,
+    52629,
+    53944,
+    54256,
+    54616
+   ],
+   "stamp": "ed017c073b7a3bfd"
+  },
+  {
+   "name": "Leafpile Plain Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Leafpile Plain",
+   "effect": "",
+   "words": [
+    "추수 축제"
+   ],
+   "woff2": {
+    "Regular": "leafpile-plain-page-korean.woff2"
+   },
+   "codepoints": [
+    49688,
+    51228,
+    52628,
+    52629
+   ],
+   "stamp": "f35b41e432f9f1bc"
+  },
+  {
+   "name": "Lowslung Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Lowslung",
+   "effect": "",
+   "words": [
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "lowslung-page-korean.woff2"
+   },
+   "codepoints": [
+    45716,
+    45824,
+    46304,
+    46500,
+    47196,
+    50612,
+    50896,
+    53944,
+    54256,
+    54616
+   ],
+   "stamp": "a769a3313bd0fbb3"
+  },
+  {
+   "name": "Marquee Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Marquee",
+   "effect": "inline",
+   "words": [
+    "절찬 상영 중",
+    "상영중",
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "marquee-page-korean.woff2"
+   },
+   "codepoints": [
+    45716,
+    45824,
+    46304,
+    46500,
+    47196,
+    49345,
+    50612,
+    50689,
+    50896,
+    51208,
+    51473,
+    52268,
+    53944,
+    54256,
+    54616
+   ],
+   "stamp": "a3591c70edeb6774"
+  },
+  {
+   "name": "Meridian Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Meridian",
+   "effect": "banded",
+   "words": [
+    "해 질 녘",
+    "시간"
+   ],
+   "woff2": {
+    "Regular": "meridian-page-korean.woff2"
+   },
+   "codepoints": [
+    44036,
+    45400,
+    49884,
+    51656,
+    54644
+   ],
+   "stamp": "080ebdd9bbaeca85"
+  },
+  {
+   "name": "Neon Diner Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Neon Diner",
+   "effect": "",
+   "words": [
+    "해피아워 5-7 · 네그로니 12 · 진피즈 11"
+   ],
+   "woff2": {
+    "Regular": "neon-diner-page-korean.woff2"
+   },
+   "codepoints": [
+    44536,
+    45348,
+    45768,
+    47196,
+    50500,
+    50892,
+    51592,
+    51652,
+    54588,
+    54644
+   ],
+   "stamp": "4aeca16c10677bed"
+  },
+  {
+   "name": "Neon Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Neon",
+   "effect": "",
+   "words": [
+    "해피아워 5-7 · 네그로니 12 · 진피즈 11"
+   ],
+   "woff2": {
+    "Regular": "neon-page-korean.woff2"
+   },
+   "codepoints": [
+    44536,
+    45348,
+    45768,
+    47196,
+    50500,
+    50892,
+    51592,
+    51652,
+    54588,
+    54644
+   ],
+   "stamp": "ef63ab3f0872b31f"
+  },
+  {
+   "name": "Neon Rod Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Neon Rod",
+   "effect": "",
+   "words": [
+    "해피아워 5-7 · 네그로니 12 · 진피즈 11"
+   ],
+   "woff2": {
+    "Regular": "neon-rod-page-korean.woff2"
+   },
+   "codepoints": [
+    44536,
+    45348,
+    45768,
+    47196,
+    50500,
+    50892,
+    51592,
+    51652,
+    54588,
+    54644
+   ],
+   "stamp": "e7ef787f62432d7a"
+  },
+  {
+   "name": "Ombrelle Initials Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Ombrelle Initials",
+   "effect": "",
+   "words": [
+    "섬의 어느 일요일",
+    "공원",
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "ombrelle-initials-page-korean.woff2"
+   },
+   "codepoints": [
+    44277,
+    45712,
+    45716,
+    45824,
+    46304,
+    46500,
+    47196,
+    49452,
+    50612,
+    50836,
+    50896,
+    51032,
+    51068,
+    53944,
+    54256,
+    54616
+   ],
+   "stamp": "07c1c8b6cd4c27a6"
+  },
+  {
+   "name": "Ombrelle Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Ombrelle",
+   "effect": "",
+   "words": [
+    "섬의 일요일"
+   ],
+   "woff2": {
+    "Regular": "ombrelle-page-korean.woff2"
+   },
+   "codepoints": [
+    49452,
+    50836,
+    51032,
+    51068
+   ],
+   "stamp": "3b692262ad876075"
+  },
+  {
+   "name": "Panework Boogie Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Panework Boogie",
+   "effect": "",
+   "words": [
+    "밤의 브로드웨이"
+   ],
+   "woff2": {
+    "Regular": "panework-boogie-page-korean.woff2"
+   },
+   "codepoints": [
+    46300,
+    47196,
+    48164,
+    48652,
+    50920,
+    51032,
+    51060
+   ],
+   "stamp": "3bd7f32d627badf7"
+  },
+  {
+   "name": "Panework Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Panework",
+   "effect": "",
+   "words": [
+    "빨강의 구성",
+    "격자",
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "panework-page-korean.woff2"
+   },
+   "codepoints": [
+    44053,
+    44201,
+    44396,
+    45716,
+    45824,
+    46304,
+    46500,
+    47196,
+    48744,
+    49457,
+    50612,
+    50896,
+    51032,
+    51088,
+    53944,
+    54256,
+    54616
+   ],
+   "stamp": "cc9544116db0c3b3"
+  },
+  {
+   "name": "Pebble Sans Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Pebble Sans",
+   "effect": "round 46",
+   "words": [
+    "명령어 한 줄로 둥글게",
+    "동글동글",
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "pebble-sans-page-korean.woff2"
+   },
+   "codepoints": [
+    44172,
+    44544,
+    45716,
+    45824,
+    46041,
+    46181,
+    46304,
+    46500,
+    47161,
+    47196,
+    47749,
+    50612,
+    50896,
+    51460,
+    53944,
+    54256,
+    54616,
+    54620
+   ],
+   "stamp": "d80afc89b7800ad2"
+  },
+  {
+   "name": "Platen Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Platen",
+   "effect": "",
+   "words": [
+    "정숙 씨께, 캐리지가 또 걸립니다. 리본 $2.95 & 용지 12장 @ 4c.",
+    "친애하는"
+   ],
+   "woff2": {
+    "Regular": "platen-page-korean.woff2"
+   },
+   "codepoints": [
+    44032,
+    44152,
+    44760,
+    45716,
+    45768,
+    45796,
+    46608,
+    47532,
+    47549,
+    48376,
+    49689,
+    50472,
+    50528,
+    50857,
+    51109,
+    51221,
+    51648,
+    52828,
+    52880,
+    54616
+   ],
+   "stamp": "ffc4f66842e2065e"
+  },
+  {
+   "name": "Platen Ribbon Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Platen Ribbon",
+   "effect": "ribbon from ribbon.py",
+   "words": [
+    "정숙 씨께, 캐리지가 또 걸립니다. 리본 $2.95 & 용지 12장 @ 4c.",
+    "리본",
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "platen-ribbon-page-korean.woff2"
+   },
+   "codepoints": [
+    44032,
+    44152,
+    44760,
+    45716,
+    45768,
+    45796,
+    45824,
+    46304,
+    46500,
+    46608,
+    47196,
+    47532,
+    47549,
+    48376,
+    49689,
+    50472,
+    50612,
+    50857,
+    50896,
+    51109,
+    51221,
+    51648,
+    52880,
+    53944,
+    54256,
+    54616
+   ],
+   "stamp": "6d3b659782840638"
+  },
+  {
+   "name": "Pointille Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Pointille",
+   "effect": "dotted",
+   "words": [
+    "일요일 오후"
+   ],
+   "woff2": {
+    "Regular": "pointille-page-korean.woff2"
+   },
+   "codepoints": [
+    50724,
+    50836,
+    51068,
+    54980
+   ],
+   "stamp": "a4d8a7c7a8f99f9f"
+  },
+  {
+   "name": "Setsquare Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Setsquare",
+   "effect": "",
+   "words": [
+    "원 하나, 네모 하나, 세모 하나",
+    "각도"
+   ],
+   "woff2": {
+    "Regular": "setsquare-page-korean.woff2"
+   },
+   "codepoints": [
+    44033,
+    45208,
+    45348,
+    46020,
+    47784,
+    49464,
+    50896,
+    54616
+   ],
+   "stamp": "c5db93e094cd86b6"
+  },
+  {
+   "name": "Softboil Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Noto Sans KR",
+   "source_copyright": "© 2014-2021 Adobe (http://www.adobe.com/).",
+   "pen": "Softboil",
+   "effect": "",
+   "words": [
+    "좋은 아침. 아침밥 다 됐어요.",
+    "말랑"
+   ],
+   "woff2": {
+    "Regular": "softboil-page-korean.woff2"
+   },
+   "codepoints": [
+    45796,
+    46096,
+    46993,
+    47568,
+    48165,
+    50500,
+    50612,
+    50836,
+    51008,
+    51339,
+    52840
+   ],
+   "stamp": "305b6b4673ea2ece"
+  },
+  {
+   "name": "Starry Initials Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Gaegu",
+   "source_copyright": "Copyright 2018 The Gaegu Project Authors",
+   "pen": "Starry Initials",
+   "effect": "painted from starry.py",
+   "words": [
+    "별이 가득한 밤",
+    "밤",
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "starry-initials-page-korean.woff2"
+   },
+   "codepoints": [
+    44032,
+    45716,
+    45824,
+    46301,
+    46304,
+    46500,
+    47196,
+    48164,
+    48324,
+    50612,
+    50896,
+    51060,
+    53944,
+    54256,
+    54616,
+    54620
+   ],
+   "stamp": "4cad77f46459cb6a"
+  },
+  {
+   "name": "Starry Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Gaegu",
+   "source_copyright": "Copyright 2018 The Gaegu Project Authors",
+   "pen": "Starry",
+   "effect": "painted from starry.py",
+   "words": [
+    "별이 가득한 밤",
+    "별"
+   ],
+   "woff2": {
+    "Regular": "starry-page-korean.woff2"
+   },
+   "codepoints": [
+    44032,
+    46301,
+    48164,
+    48324,
+    51060,
+    54620
+   ],
+   "stamp": "516e4197c99203be"
+  },
+  {
+   "name": "Wassail Initials Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Gaegu",
+   "source_copyright": "Copyright 2018 The Gaegu Project Authors",
+   "pen": "Wassail Initials",
+   "effect": "",
+   "words": [
+    "천사 찬송하기를",
+    "성탄",
+    "어떤 폰트든 원하는 대로."
+   ],
+   "woff2": {
+    "Regular": "wassail-initials-page-korean.woff2"
+   },
+   "codepoints": [
+    44592,
+    45716,
+    45824,
+    46304,
+    46500,
+    47196,
+    47484,
+    49324,
+    49457,
+    49569,
+    50612,
+    50896,
+    52268,
+    52380,
+    53444,
+    53944,
+    54256,
+    54616
+   ],
+   "stamp": "8c45304ea75d0b62"
+  },
+  {
+   "name": "Wassail Page Korean",
+   "language": "ko",
+   "script": "Korean",
+   "source": "Gaegu",
+   "source_copyright": "Copyright 2018 The Gaegu Project Authors",
+   "pen": "Wassail",
+   "effect": "",
+   "words": [
+    "천사 찬송하기를"
+   ],
+   "woff2": {
+    "Regular": "wassail-page-korean.woff2"
+   },
+   "codepoints": [
+    44592,
+    47484,
+    49324,
+    49569,
+    52268,
+    52380,
+    54616
+   ],
+   "stamp": "5fc1483d5e6431b9"
+  }
+ ]
+}
