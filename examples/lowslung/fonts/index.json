@@ -1,0 +1,52 @@
+{
+ "families": [
+  {
+   "name": "Lowslung",
+   "description": "A wide sans for wordmarks and short headings, with squarish rounds and flat ends.",
+   "sample": "Coachwork Studio",
+   "styles": [
+    "Light",
+    "Regular",
+    "Medium",
+    "Bold",
+    "Extrabold"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [
+    {
+     "tag": "wght",
+     "name": "Weight",
+     "min": 300,
+     "default": 400,
+     "max": 800
+    },
+    {
+     "tag": "wdth",
+     "name": "Width",
+     "min": 70,
+     "default": 100,
+     "max": 125
+    }
+   ],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Lowslung/Lowslung.css",
+   "ttf": {
+    "Light": "fonts/Lowslung/ttf/Lowslung-Light.ttf",
+    "Regular": "fonts/Lowslung/ttf/Lowslung-Regular.ttf",
+    "Medium": "fonts/Lowslung/ttf/Lowslung-Medium.ttf",
+    "Bold": "fonts/Lowslung/ttf/Lowslung-Bold.ttf",
+    "Extrabold": "fonts/Lowslung/ttf/Lowslung-Extrabold.ttf"
+   },
+   "woff2": {
+    "Light": "fonts/Lowslung/woff2/Lowslung-Light.woff2",
+    "Regular": "fonts/Lowslung/woff2/Lowslung-Regular.woff2",
+    "Medium": "fonts/Lowslung/woff2/Lowslung-Medium.woff2",
+    "Bold": "fonts/Lowslung/woff2/Lowslung-Bold.woff2",
+    "Extrabold": "fonts/Lowslung/woff2/Lowslung-Extrabold.woff2"
+   },
+   "variable": "fonts/Lowslung/variable/Lowslung[wght,wdth].ttf"
+  }
+ ]
+}

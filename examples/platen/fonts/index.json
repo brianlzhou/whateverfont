@@ -1,0 +1,60 @@
+{
+ "families": [
+  {
+   "name": "Platen",
+   "description": "A typewriter face: even strokes with round ends, slab serifs, ball terminals, and the wide, friendly letters of a portable.",
+   "sample": "Dear Margaret, the carriage return sticks again. Ribbon $2.95 & 12 sheets @ 4c.",
+   "styles": [
+    "Regular",
+    "Light",
+    "Bold"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [
+    {
+     "tag": "wght",
+     "name": "Weight",
+     "min": 300,
+     "default": 400,
+     "max": 700
+    }
+   ],
+   "glyphs": 1007,
+   "license": "OFL-1.1",
+   "css": "fonts/Platen/Platen.css",
+   "ttf": {
+    "Regular": "fonts/Platen/ttf/Platen-Regular.ttf",
+    "Light": "fonts/Platen/ttf/Platen-Light.ttf",
+    "Bold": "fonts/Platen/ttf/Platen-Bold.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Platen/woff2/Platen-Regular.woff2",
+    "Light": "fonts/Platen/woff2/Platen-Light.woff2",
+    "Bold": "fonts/Platen/woff2/Platen-Bold.woff2"
+   },
+   "variable": "fonts/Platen/variable/Platen[wght].ttf"
+  },
+  {
+   "name": "Platen Ribbon",
+   "description": "Platen typed through an inked ribbon: heavier, softer edges, letters a little off the line.",
+   "sample": "Dear Margaret, the carriage return sticks again. Ribbon $2.95 & 12 sheets @ 4c.",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 1007,
+   "license": "OFL-1.1",
+   "css": "fonts/PlatenRibbon/PlatenRibbon.css",
+   "ttf": {
+    "Regular": "fonts/PlatenRibbon/ttf/PlatenRibbon-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/PlatenRibbon/woff2/PlatenRibbon-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

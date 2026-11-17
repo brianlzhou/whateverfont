@@ -1,0 +1,178 @@
+{
+ "families": [
+  {
+   "name": "Arroyo",
+   "description": "A calm flare serif. Stems swell gently toward their ends; capitals keep Roman proportions.",
+   "sample": "A quiet serif for long arguments",
+   "styles": [
+    "Light",
+    "Regular",
+    "Italic",
+    "Medium",
+    "Bold",
+    "Bold Italic"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [
+    {
+     "tag": "wght",
+     "name": "Weight",
+     "min": 250,
+     "default": 400,
+     "max": 800
+    },
+    {
+     "tag": "FLAR",
+     "name": "Flare",
+     "min": 0,
+     "default": 40,
+     "max": 100
+    },
+    {
+     "tag": "slnt",
+     "name": "Slant",
+     "min": -11,
+     "default": 0,
+     "max": 0
+    }
+   ],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Arroyo/Arroyo.css",
+   "ttf": {
+    "Light": "fonts/Arroyo/ttf/Arroyo-Light.ttf",
+    "Regular": "fonts/Arroyo/ttf/Arroyo-Regular.ttf",
+    "Italic": "fonts/Arroyo/ttf/Arroyo-Italic.ttf",
+    "Medium": "fonts/Arroyo/ttf/Arroyo-Medium.ttf",
+    "Bold": "fonts/Arroyo/ttf/Arroyo-Bold.ttf",
+    "Bold Italic": "fonts/Arroyo/ttf/Arroyo-BoldItalic.ttf"
+   },
+   "woff2": {
+    "Light": "fonts/Arroyo/woff2/Arroyo-Light.woff2",
+    "Regular": "fonts/Arroyo/woff2/Arroyo-Regular.woff2",
+    "Italic": "fonts/Arroyo/woff2/Arroyo-Italic.woff2",
+    "Medium": "fonts/Arroyo/woff2/Arroyo-Medium.woff2",
+    "Bold": "fonts/Arroyo/woff2/Arroyo-Bold.woff2",
+    "Bold Italic": "fonts/Arroyo/woff2/Arroyo-BoldItalic.woff2"
+   },
+   "variable": "fonts/Arroyo/variable/Arroyo[wght,FLAR,slnt].ttf"
+  },
+  {
+   "name": "Arroyo Glyphic",
+   "description": "Sharper and more incised: short wedge flares, higher contrast, pointed apexes.",
+   "sample": "A quiet serif for long arguments",
+   "styles": [
+    "Light",
+    "Regular",
+    "Italic",
+    "Medium",
+    "Bold",
+    "Bold Italic"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [
+    {
+     "tag": "wght",
+     "name": "Weight",
+     "min": 250,
+     "default": 400,
+     "max": 800
+    },
+    {
+     "tag": "FLAR",
+     "name": "Flare",
+     "min": 0,
+     "default": 60,
+     "max": 100
+    },
+    {
+     "tag": "slnt",
+     "name": "Slant",
+     "min": -11,
+     "default": 0,
+     "max": 0
+    }
+   ],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/ArroyoGlyphic/ArroyoGlyphic.css",
+   "ttf": {
+    "Light": "fonts/ArroyoGlyphic/ttf/ArroyoGlyphic-Light.ttf",
+    "Regular": "fonts/ArroyoGlyphic/ttf/ArroyoGlyphic-Regular.ttf",
+    "Italic": "fonts/ArroyoGlyphic/ttf/ArroyoGlyphic-Italic.ttf",
+    "Medium": "fonts/ArroyoGlyphic/ttf/ArroyoGlyphic-Medium.ttf",
+    "Bold": "fonts/ArroyoGlyphic/ttf/ArroyoGlyphic-Bold.ttf",
+    "Bold Italic": "fonts/ArroyoGlyphic/ttf/ArroyoGlyphic-BoldItalic.ttf"
+   },
+   "woff2": {
+    "Light": "fonts/ArroyoGlyphic/woff2/ArroyoGlyphic-Light.woff2",
+    "Regular": "fonts/ArroyoGlyphic/woff2/ArroyoGlyphic-Regular.woff2",
+    "Italic": "fonts/ArroyoGlyphic/woff2/ArroyoGlyphic-Italic.woff2",
+    "Medium": "fonts/ArroyoGlyphic/woff2/ArroyoGlyphic-Medium.woff2",
+    "Bold": "fonts/ArroyoGlyphic/woff2/ArroyoGlyphic-Bold.woff2",
+    "Bold Italic": "fonts/ArroyoGlyphic/woff2/ArroyoGlyphic-BoldItalic.woff2"
+   },
+   "variable": "fonts/ArroyoGlyphic/variable/ArroyoGlyphic[wght,FLAR,slnt].ttf"
+  },
+  {
+   "name": "Arroyo Text",
+   "description": "Sturdier for small sizes: lower contrast, larger x-height, looser spacing, a hint of flare.",
+   "sample": "A quiet serif for long arguments",
+   "styles": [
+    "Light",
+    "Regular",
+    "Italic",
+    "Medium",
+    "Bold",
+    "Bold Italic"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [
+    {
+     "tag": "wght",
+     "name": "Weight",
+     "min": 250,
+     "default": 400,
+     "max": 800
+    },
+    {
+     "tag": "FLAR",
+     "name": "Flare",
+     "min": 0,
+     "default": 25,
+     "max": 100
+    },
+    {
+     "tag": "slnt",
+     "name": "Slant",
+     "min": -11,
+     "default": 0,
+     "max": 0
+    }
+   ],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/ArroyoText/ArroyoText.css",
+   "ttf": {
+    "Light": "fonts/ArroyoText/ttf/ArroyoText-Light.ttf",
+    "Regular": "fonts/ArroyoText/ttf/ArroyoText-Regular.ttf",
+    "Italic": "fonts/ArroyoText/ttf/ArroyoText-Italic.ttf",
+    "Medium": "fonts/ArroyoText/ttf/ArroyoText-Medium.ttf",
+    "Bold": "fonts/ArroyoText/ttf/ArroyoText-Bold.ttf",
+    "Bold Italic": "fonts/ArroyoText/ttf/ArroyoText-BoldItalic.ttf"
+   },
+   "woff2": {
+    "Light": "fonts/ArroyoText/woff2/ArroyoText-Light.woff2",
+    "Regular": "fonts/ArroyoText/woff2/ArroyoText-Regular.woff2",
+    "Italic": "fonts/ArroyoText/woff2/ArroyoText-Italic.woff2",
+    "Medium": "fonts/ArroyoText/woff2/ArroyoText-Medium.woff2",
+    "Bold": "fonts/ArroyoText/woff2/ArroyoText-Bold.woff2",
+    "Bold Italic": "fonts/ArroyoText/woff2/ArroyoText-BoldItalic.woff2"
+   },
+   "variable": "fonts/ArroyoText/variable/ArroyoText[wght,FLAR,slnt].ttf"
+  }
+ ]
+}

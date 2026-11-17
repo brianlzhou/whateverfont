@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "Caliper";
+  src: url("variable/Caliper[wght,wdth,FLAR,slnt].woff2") format("woff2");
+  font-weight: 200 700;
+  font-display: swap;
+}

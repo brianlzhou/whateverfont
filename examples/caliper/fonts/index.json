@@ -1,0 +1,133 @@
+{
+ "families": [
+  {
+   "name": "Caliper",
+   "description": "Tall, narrow and light, with flared ends. Made for large titles on white pages.",
+   "sample": "Measure twice, cut once, ship on Friday",
+   "styles": [
+    "Thin",
+    "Light",
+    "Light Italic",
+    "Regular",
+    "Medium",
+    "Bold",
+    "Light Compressed",
+    "Light Wide"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [
+    {
+     "tag": "wght",
+     "name": "Weight",
+     "min": 200,
+     "default": 300,
+     "max": 700
+    },
+    {
+     "tag": "wdth",
+     "name": "Width",
+     "min": 60,
+     "default": 75,
+     "max": 100
+    },
+    {
+     "tag": "FLAR",
+     "name": "Flare",
+     "min": 0,
+     "default": 45,
+     "max": 100
+    },
+    {
+     "tag": "slnt",
+     "name": "Slant",
+     "min": -10,
+     "default": 0,
+     "max": 0
+    }
+   ],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Caliper/Caliper.css",
+   "ttf": {
+    "Thin": "fonts/Caliper/ttf/Caliper-Thin.ttf",
+    "Light": "fonts/Caliper/ttf/Caliper-Light.ttf",
+    "Light Italic": "fonts/Caliper/ttf/Caliper-LightItalic.ttf",
+    "Regular": "fonts/Caliper/ttf/Caliper-Regular.ttf",
+    "Medium": "fonts/Caliper/ttf/Caliper-Medium.ttf",
+    "Bold": "fonts/Caliper/ttf/Caliper-Bold.ttf",
+    "Light Compressed": "fonts/Caliper/ttf/Caliper-LightCompressed.ttf",
+    "Light Wide": "fonts/Caliper/ttf/Caliper-LightWide.ttf"
+   },
+   "woff2": {
+    "Thin": "fonts/Caliper/woff2/Caliper-Thin.woff2",
+    "Light": "fonts/Caliper/woff2/Caliper-Light.woff2",
+    "Light Italic": "fonts/Caliper/woff2/Caliper-LightItalic.woff2",
+    "Regular": "fonts/Caliper/woff2/Caliper-Regular.woff2",
+    "Medium": "fonts/Caliper/woff2/Caliper-Medium.woff2",
+    "Bold": "fonts/Caliper/woff2/Caliper-Bold.woff2",
+    "Light Compressed": "fonts/Caliper/woff2/Caliper-LightCompressed.woff2",
+    "Light Wide": "fonts/Caliper/woff2/Caliper-LightWide.woff2"
+   },
+   "variable": "fonts/Caliper/variable/Caliper[wght,wdth,FLAR,slnt].ttf"
+  },
+  {
+   "name": "Gantry",
+   "description": "Squared rounds and flat cuts, like the labels on a machine. Corners soften along the ROND axis.",
+   "sample": "Measure twice, cut once, ship on Friday",
+   "styles": [
+    "Light",
+    "Regular",
+    "Medium",
+    "Bold",
+    "Round",
+    "Condensed"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [
+    {
+     "tag": "wght",
+     "name": "Weight",
+     "min": 250,
+     "default": 400,
+     "max": 800
+    },
+    {
+     "tag": "ROND",
+     "name": "Roundness",
+     "min": 0,
+     "default": 25,
+     "max": 100
+    },
+    {
+     "tag": "wdth",
+     "name": "Width",
+     "min": 75,
+     "default": 100,
+     "max": 100
+    }
+   ],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Gantry/Gantry.css",
+   "ttf": {
+    "Light": "fonts/Gantry/ttf/Gantry-Light.ttf",
+    "Regular": "fonts/Gantry/ttf/Gantry-Regular.ttf",
+    "Medium": "fonts/Gantry/ttf/Gantry-Medium.ttf",
+    "Bold": "fonts/Gantry/ttf/Gantry-Bold.ttf",
+    "Round": "fonts/Gantry/ttf/Gantry-Round.ttf",
+    "Condensed": "fonts/Gantry/ttf/Gantry-Condensed.ttf"
+   },
+   "woff2": {
+    "Light": "fonts/Gantry/woff2/Gantry-Light.woff2",
+    "Regular": "fonts/Gantry/woff2/Gantry-Regular.woff2",
+    "Medium": "fonts/Gantry/woff2/Gantry-Medium.woff2",
+    "Bold": "fonts/Gantry/woff2/Gantry-Bold.woff2",
+    "Round": "fonts/Gantry/woff2/Gantry-Round.woff2",
+    "Condensed": "fonts/Gantry/woff2/Gantry-Condensed.woff2"
+   },
+   "variable": "fonts/Gantry/variable/Gantry[wght,ROND,wdth].ttf"
+  }
+ ]
+}

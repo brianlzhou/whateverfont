@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "Hedmast";
+  src: url("variable/Hedmast[wght,wdth].woff2") format("woff2");
+  font-weight: 400 800;
+  font-display: swap;
+}

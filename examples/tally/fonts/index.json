@@ -1,0 +1,49 @@
+{
+ "families": [
+  {
+   "name": "Tally Mono",
+   "description": "A calm monospaced face for code: a dotted zero, barred i, l and 1, and operators drawn wide.",
+   "sample": "def tally(items): return sum(1 for i in items if i)",
+   "styles": [
+    "Regular",
+    "Italic",
+    "Bold",
+    "Bold Italic"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [
+    {
+     "tag": "wght",
+     "name": "Weight",
+     "min": 300,
+     "default": 400,
+     "max": 700
+    },
+    {
+     "tag": "slnt",
+     "name": "Slant",
+     "min": -10,
+     "default": 0,
+     "max": 0
+    }
+   ],
+   "glyphs": 1007,
+   "license": "OFL-1.1",
+   "css": "fonts/TallyMono/TallyMono.css",
+   "ttf": {
+    "Regular": "fonts/TallyMono/ttf/TallyMono-Regular.ttf",
+    "Italic": "fonts/TallyMono/ttf/TallyMono-Italic.ttf",
+    "Bold": "fonts/TallyMono/ttf/TallyMono-Bold.ttf",
+    "Bold Italic": "fonts/TallyMono/ttf/TallyMono-BoldItalic.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/TallyMono/woff2/TallyMono-Regular.woff2",
+    "Italic": "fonts/TallyMono/woff2/TallyMono-Italic.woff2",
+    "Bold": "fonts/TallyMono/woff2/TallyMono-Bold.woff2",
+    "Bold Italic": "fonts/TallyMono/woff2/TallyMono-BoldItalic.woff2"
+   },
+   "variable": "fonts/TallyMono/variable/TallyMono[wght,slnt].ttf"
+  }
+ ]
+}

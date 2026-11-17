@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "Gantry";
+  src: url("variable/Gantry[wght,ROND,wdth].woff2") format("woff2");
+  font-weight: 250 800;
+  font-display: swap;
+}

@@ -1,0 +1,39 @@
+{
+ "families": [
+  {
+   "name": "Pinout",
+   "description": "A square monospace for datasheets and terminal manuals: flat cuts, slashed zero, hooked g and y.",
+   "sample": "PIN 14  VCC  +5V +/-0.25V  ICC 80mA MAX  [0x3F] -> {CLK, /RESET}",
+   "styles": [
+    "Regular",
+    "Light",
+    "Bold"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [
+    {
+     "tag": "wght",
+     "name": "Weight",
+     "min": 300,
+     "default": 400,
+     "max": 700
+    }
+   ],
+   "glyphs": 1007,
+   "license": "OFL-1.1",
+   "css": "fonts/Pinout/Pinout.css",
+   "ttf": {
+    "Regular": "fonts/Pinout/ttf/Pinout-Regular.ttf",
+    "Light": "fonts/Pinout/ttf/Pinout-Light.ttf",
+    "Bold": "fonts/Pinout/ttf/Pinout-Bold.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Pinout/woff2/Pinout-Regular.woff2",
+    "Light": "fonts/Pinout/woff2/Pinout-Light.woff2",
+    "Bold": "fonts/Pinout/woff2/Pinout-Bold.woff2"
+   },
+   "variable": "fonts/Pinout/variable/Pinout[wght].ttf"
+  }
+ ]
+}

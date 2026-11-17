@@ -1,0 +1,58 @@
+{
+ "families": [
+  {
+   "name": "Setsquare",
+   "description": "A geometric sans: an o that is close to a circle, a one-story a, sharp points and round dots, in five weights.",
+   "sample": "A circle, a square and a triangle",
+   "styles": [
+    "Light",
+    "Regular",
+    "Italic",
+    "Medium",
+    "Semibold",
+    "Bold",
+    "Bold Italic"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [
+    {
+     "tag": "wght",
+     "name": "Weight",
+     "min": 300,
+     "default": 400,
+     "max": 700
+    },
+    {
+     "tag": "slnt",
+     "name": "Slant",
+     "min": -9,
+     "default": 0,
+     "max": 0
+    }
+   ],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Setsquare/Setsquare.css",
+   "ttf": {
+    "Light": "fonts/Setsquare/ttf/Setsquare-Light.ttf",
+    "Regular": "fonts/Setsquare/ttf/Setsquare-Regular.ttf",
+    "Italic": "fonts/Setsquare/ttf/Setsquare-Italic.ttf",
+    "Medium": "fonts/Setsquare/ttf/Setsquare-Medium.ttf",
+    "Semibold": "fonts/Setsquare/ttf/Setsquare-Semibold.ttf",
+    "Bold": "fonts/Setsquare/ttf/Setsquare-Bold.ttf",
+    "Bold Italic": "fonts/Setsquare/ttf/Setsquare-BoldItalic.ttf"
+   },
+   "woff2": {
+    "Light": "fonts/Setsquare/woff2/Setsquare-Light.woff2",
+    "Regular": "fonts/Setsquare/woff2/Setsquare-Regular.woff2",
+    "Italic": "fonts/Setsquare/woff2/Setsquare-Italic.woff2",
+    "Medium": "fonts/Setsquare/woff2/Setsquare-Medium.woff2",
+    "Semibold": "fonts/Setsquare/woff2/Setsquare-Semibold.woff2",
+    "Bold": "fonts/Setsquare/woff2/Setsquare-Bold.woff2",
+    "Bold Italic": "fonts/Setsquare/woff2/Setsquare-BoldItalic.woff2"
+   },
+   "variable": "fonts/Setsquare/variable/Setsquare[wght,slnt].ttf"
+  }
+ ]
+}

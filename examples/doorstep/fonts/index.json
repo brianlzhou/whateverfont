@@ -1,0 +1,58 @@
+{
+ "families": [
+  {
+   "name": "Doorstep",
+   "description": "A slab serif for newsletters and long reading: square slabs with softened corners, open letters, and a bold for headlines.",
+   "sample": "News from the corner bakery",
+   "styles": [
+    "Light",
+    "Regular",
+    "Italic",
+    "Medium",
+    "Semibold",
+    "Bold",
+    "Bold Italic"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [
+    {
+     "tag": "wght",
+     "name": "Weight",
+     "min": 300,
+     "default": 400,
+     "max": 700
+    },
+    {
+     "tag": "slnt",
+     "name": "Slant",
+     "min": -9,
+     "default": 0,
+     "max": 0
+    }
+   ],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Doorstep/Doorstep.css",
+   "ttf": {
+    "Light": "fonts/Doorstep/ttf/Doorstep-Light.ttf",
+    "Regular": "fonts/Doorstep/ttf/Doorstep-Regular.ttf",
+    "Italic": "fonts/Doorstep/ttf/Doorstep-Italic.ttf",
+    "Medium": "fonts/Doorstep/ttf/Doorstep-Medium.ttf",
+    "Semibold": "fonts/Doorstep/ttf/Doorstep-Semibold.ttf",
+    "Bold": "fonts/Doorstep/ttf/Doorstep-Bold.ttf",
+    "Bold Italic": "fonts/Doorstep/ttf/Doorstep-BoldItalic.ttf"
+   },
+   "woff2": {
+    "Light": "fonts/Doorstep/woff2/Doorstep-Light.woff2",
+    "Regular": "fonts/Doorstep/woff2/Doorstep-Regular.woff2",
+    "Italic": "fonts/Doorstep/woff2/Doorstep-Italic.woff2",
+    "Medium": "fonts/Doorstep/woff2/Doorstep-Medium.woff2",
+    "Semibold": "fonts/Doorstep/woff2/Doorstep-Semibold.woff2",
+    "Bold": "fonts/Doorstep/woff2/Doorstep-Bold.woff2",
+    "Bold Italic": "fonts/Doorstep/woff2/Doorstep-BoldItalic.woff2"
+   },
+   "variable": "fonts/Doorstep/variable/Doorstep[wght,slnt].ttf"
+  }
+ ]
+}

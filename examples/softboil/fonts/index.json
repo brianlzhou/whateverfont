@@ -1,0 +1,58 @@
+{
+ "families": [
+  {
+   "name": "Softboil",
+   "description": "A rounded sans for a friendly app: every stroke ends in a half circle, and the letters keep the even widths of an interface font.",
+   "sample": "Good morning. Breakfast is ready.",
+   "styles": [
+    "Light",
+    "Regular",
+    "Italic",
+    "Medium",
+    "Semibold",
+    "Bold",
+    "Bold Italic"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [
+    {
+     "tag": "wght",
+     "name": "Weight",
+     "min": 300,
+     "default": 400,
+     "max": 700
+    },
+    {
+     "tag": "slnt",
+     "name": "Slant",
+     "min": -9,
+     "default": 0,
+     "max": 0
+    }
+   ],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Softboil/Softboil.css",
+   "ttf": {
+    "Light": "fonts/Softboil/ttf/Softboil-Light.ttf",
+    "Regular": "fonts/Softboil/ttf/Softboil-Regular.ttf",
+    "Italic": "fonts/Softboil/ttf/Softboil-Italic.ttf",
+    "Medium": "fonts/Softboil/ttf/Softboil-Medium.ttf",
+    "Semibold": "fonts/Softboil/ttf/Softboil-Semibold.ttf",
+    "Bold": "fonts/Softboil/ttf/Softboil-Bold.ttf",
+    "Bold Italic": "fonts/Softboil/ttf/Softboil-BoldItalic.ttf"
+   },
+   "woff2": {
+    "Light": "fonts/Softboil/woff2/Softboil-Light.woff2",
+    "Regular": "fonts/Softboil/woff2/Softboil-Regular.woff2",
+    "Italic": "fonts/Softboil/woff2/Softboil-Italic.woff2",
+    "Medium": "fonts/Softboil/woff2/Softboil-Medium.woff2",
+    "Semibold": "fonts/Softboil/woff2/Softboil-Semibold.woff2",
+    "Bold": "fonts/Softboil/woff2/Softboil-Bold.woff2",
+    "Bold Italic": "fonts/Softboil/woff2/Softboil-BoldItalic.woff2"
+   },
+   "variable": "fonts/Softboil/variable/Softboil[wght,slnt].ttf"
+  }
+ ]
+}

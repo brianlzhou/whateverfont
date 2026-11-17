@@ -1,0 +1,58 @@
+{
+ "families": [
+  {
+   "name": "Dayshift",
+   "description": "A plain sans for the interface of an app: a tall x-height, wide round letters, loose spacing and five weights.",
+   "sample": "Your changes are saved",
+   "styles": [
+    "Light",
+    "Regular",
+    "Italic",
+    "Medium",
+    "Semibold",
+    "Bold",
+    "Bold Italic"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [
+    {
+     "tag": "wght",
+     "name": "Weight",
+     "min": 300,
+     "default": 400,
+     "max": 700
+    },
+    {
+     "tag": "slnt",
+     "name": "Slant",
+     "min": -9,
+     "default": 0,
+     "max": 0
+    }
+   ],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Dayshift/Dayshift.css",
+   "ttf": {
+    "Light": "fonts/Dayshift/ttf/Dayshift-Light.ttf",
+    "Regular": "fonts/Dayshift/ttf/Dayshift-Regular.ttf",
+    "Italic": "fonts/Dayshift/ttf/Dayshift-Italic.ttf",
+    "Medium": "fonts/Dayshift/ttf/Dayshift-Medium.ttf",
+    "Semibold": "fonts/Dayshift/ttf/Dayshift-Semibold.ttf",
+    "Bold": "fonts/Dayshift/ttf/Dayshift-Bold.ttf",
+    "Bold Italic": "fonts/Dayshift/ttf/Dayshift-BoldItalic.ttf"
+   },
+   "woff2": {
+    "Light": "fonts/Dayshift/woff2/Dayshift-Light.woff2",
+    "Regular": "fonts/Dayshift/woff2/Dayshift-Regular.woff2",
+    "Italic": "fonts/Dayshift/woff2/Dayshift-Italic.woff2",
+    "Medium": "fonts/Dayshift/woff2/Dayshift-Medium.woff2",
+    "Semibold": "fonts/Dayshift/woff2/Dayshift-Semibold.woff2",
+    "Bold": "fonts/Dayshift/woff2/Dayshift-Bold.woff2",
+    "Bold Italic": "fonts/Dayshift/woff2/Dayshift-BoldItalic.woff2"
+   },
+   "variable": "fonts/Dayshift/variable/Dayshift[wght,slnt].ttf"
+  }
+ ]
+}
