@@ -1,0 +1,82 @@
+{
+ "families": [
+  {
+   "name": "Eight Dials",
+   "description": "One family with a slider for every decision: weight, width, slant, contrast, flare, roundness, spacing and x-height.",
+   "sample": "Every letter is a decision",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [
+    {
+     "tag": "wght",
+     "name": "Weight",
+     "min": 200,
+     "default": 400,
+     "max": 800
+    },
+    {
+     "tag": "wdth",
+     "name": "Width",
+     "min": 60,
+     "default": 100,
+     "max": 130
+    },
+    {
+     "tag": "slnt",
+     "name": "Slant",
+     "min": -14,
+     "default": 0,
+     "max": 0
+    },
+    {
+     "tag": "CNTR",
+     "name": "Contrast",
+     "min": 0,
+     "default": 60,
+     "max": 100
+    },
+    {
+     "tag": "FLAR",
+     "name": "Flare",
+     "min": 0,
+     "default": 0,
+     "max": 100
+    },
+    {
+     "tag": "ROND",
+     "name": "Roundness",
+     "min": 0,
+     "default": 0,
+     "max": 100
+    },
+    {
+     "tag": "SPAC",
+     "name": "Spacing",
+     "min": 0,
+     "default": 40,
+     "max": 100
+    },
+    {
+     "tag": "XHGT",
+     "name": "x-height",
+     "min": 0,
+     "default": 50,
+     "max": 100
+    }
+   ],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/EightDials/EightDials.css",
+   "ttf": {
+    "Regular": "fonts/EightDials/ttf/EightDials-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/EightDials/woff2/EightDials-Regular.woff2"
+   },
+   "variable": "fonts/EightDials/variable/EightDials[wght,wdth,slnt,CNTR,FLAR,ROND,SPAC,XHGT].ttf"
+  }
+ ]
+}
