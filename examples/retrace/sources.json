@@ -1,0 +1,77 @@
+{
+ "about": "Source fonts that are too large to keep in the repository. build.py fetches a missing one into .cache/sources/ and checks its SHA-256. All are under the SIL Open Font License 1.1.",
+ "sources": [
+  {
+   "key": "klee",
+   "name": "Klee One",
+   "file": "KleeOne-Regular.ttf",
+   "url": "https://github.com/google/fonts/raw/main/ofl/kleeone/KleeOne-Regular.ttf",
+   "sha256": "bf4063f030cc2ae6adf0a11424a1888e5c0eb4438f1f6d02f52294af868e9b3a",
+   "license": "OFL-1.1",
+   "copyright": "Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)"
+  },
+  {
+   "key": "lxgw",
+   "name": "LXGW WenKai TC",
+   "file": "LXGWWenKaiTC-Regular.ttf",
+   "url": "https://github.com/google/fonts/raw/main/ofl/lxgwwenkaitc/LXGWWenKaiTC-Regular.ttf",
+   "sha256": "4fcc5aec11cbbf737b0cfab7b63796f7f280087a7a656b2f13342cd5e5318d95",
+   "license": "OFL-1.1",
+   "copyright": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)"
+  },
+  {
+   "key": "lxgw-gb",
+   "name": "LXGW WenKai GB",
+   "file": "LXGWWenKaiGB-Regular.ttf",
+   "url": "https://github.com/lxgw/LxgwWenkaiGB/releases/download/v1.530/LXGWWenKaiGB-Regular.ttf",
+   "sha256": "5561d48097d92e5ab99fe7b1459d381bbcdff533bfc479207b089c6860c3990e",
+   "license": "OFL-1.1",
+   "copyright": "Copyright 2022-2026 LXGW (https://github.com/lxgw/LxgwWenKaiGB), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'. Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)"
+  },
+  {
+   "key": "gaegu",
+   "name": "Gaegu",
+   "file": "Gaegu-Regular.ttf",
+   "url": "https://github.com/google/fonts/raw/main/ofl/gaegu/Gaegu-Regular.ttf",
+   "sha256": "aa52c98336f7c62e2896fc8b12b56a75d5b476d88a2f104b0980f4f7ce0adfc3",
+   "license": "OFL-1.1",
+   "copyright": "Copyright 2018 The Gaegu Project Authors"
+  },
+  {
+   "key": "noto-jp",
+   "name": "Noto Sans JP Light",
+   "file": "NotoSansJP-Light.otf",
+   "url": "https://github.com/notofonts/noto-cjk/raw/Sans2.004/Sans/SubsetOTF/JP/NotoSansJP-Light.otf",
+   "sha256": "e358dcfa7970805300a953bb71209c3efcbcc17a00a5e4101f8cf94a3870ad93",
+   "license": "OFL-1.1",
+   "copyright": "Copyright 2014-2021 Adobe (http://www.adobe.com/)"
+  },
+  {
+   "key": "noto-sc",
+   "name": "Noto Sans SC Light",
+   "file": "NotoSansSC-Light.otf",
+   "url": "https://github.com/notofonts/noto-cjk/raw/Sans2.004/Sans/SubsetOTF/SC/NotoSansSC-Light.otf",
+   "sha256": "35cca31cea56b2720c096efaea2cfdffdf1b523bf5de0a80552d16edccfa9c70",
+   "license": "OFL-1.1",
+   "copyright": "Copyright 2014-2021 Adobe (http://www.adobe.com/)"
+  },
+  {
+   "key": "noto-tc",
+   "name": "Noto Sans TC Light",
+   "file": "NotoSansTC-Light.otf",
+   "url": "https://github.com/notofonts/noto-cjk/raw/Sans2.004/Sans/SubsetOTF/TC/NotoSansTC-Light.otf",
+   "sha256": "961c9a8945fc18b924795f42d17a24d50abcaad8f8724aafdc94cf255b001ed1",
+   "license": "OFL-1.1",
+   "copyright": "Copyright 2014-2021 Adobe (http://www.adobe.com/)"
+  },
+  {
+   "key": "noto-kr",
+   "name": "Noto Sans KR Light",
+   "file": "NotoSansKR-Light.otf",
+   "url": "https://github.com/notofonts/noto-cjk/raw/Sans2.004/Sans/SubsetOTF/KR/NotoSansKR-Light.otf",
+   "sha256": "5971aca275255797a75c7fc43d5058487668069da93c45ad4a24be5aa1e67c85",
+   "license": "OFL-1.1",
+   "copyright": "Copyright 2014-2021 Adobe (http://www.adobe.com/)"
+  }
+ ]
+}
