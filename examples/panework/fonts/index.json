@@ -1,0 +1,55 @@
+{
+ "families": [
+  {
+   "name": "Panework",
+   "description": "Heavy squared letters divided by thick lines into white rectangles and a few of red, yellow and blue.",
+   "sample": "Composition in Red",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Primary",
+    "Stone",
+    "Night"
+   ],
+   "grounds": {
+    "Night": "#262A31"
+   },
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Panework/Panework.css",
+   "ttf": {
+    "Regular": "fonts/Panework/ttf/Panework-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Panework/woff2/Panework-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Panework Boogie",
+   "description": "The same letters on a finer grid, with lines broken by small squares and blocks of color.",
+   "sample": "Broadway at Night",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Broadway",
+    "Midtown"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/PaneworkBoogie/PaneworkBoogie.css",
+   "ttf": {
+    "Regular": "fonts/PaneworkBoogie/ttf/PaneworkBoogie-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/PaneworkBoogie/woff2/PaneworkBoogie-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

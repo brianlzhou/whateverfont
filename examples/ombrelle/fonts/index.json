@@ -1,0 +1,54 @@
+{
+ "families": [
+  {
+   "name": "Ombrelle",
+   "description": "Letters in whole dots of pure color, lit from the upper left: warm sun on one side, violet-blue shadow with orange sprinkled in on the other.",
+   "sample": "Sunday on the Island",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Afternoon",
+    "Harbor",
+    "Circus"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Ombrelle/Ombrelle.css",
+   "ttf": {
+    "Regular": "fonts/Ombrelle/ttf/Ombrelle-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Ombrelle/woff2/Ombrelle-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Ombrelle Initials",
+   "description": "Every capital stands on a square of dotted lawn and casts a long afternoon shadow, inside a painted border of dots: blue beside the sun, orange beside the shade. The rest is Ombrelle.",
+   "sample": "A Sunday On The Island",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Afternoon",
+    "Harbor",
+    "Circus"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/OmbrelleInitials/OmbrelleInitials.css",
+   "ttf": {
+    "Regular": "fonts/OmbrelleInitials/ttf/OmbrelleInitials-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/OmbrelleInitials/woff2/OmbrelleInitials-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

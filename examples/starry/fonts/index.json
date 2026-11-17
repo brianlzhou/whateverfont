@@ -1,0 +1,54 @@
+{
+ "families": [
+  {
+   "name": "Starry Initials",
+   "description": "Every capital is a gold letter in a square of turning sky, with rings of light around it and stars in the corners. The rest of the text is painted in the blues of the sky.",
+   "sample": "The Night Is Full Of Stars",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Night",
+    "Dawn",
+    "Ink"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 96,
+   "license": "OFL-1.1",
+   "css": "fonts/StarryInitials/StarryInitials.css",
+   "ttf": {
+    "Regular": "fonts/StarryInitials/ttf/StarryInitials-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/StarryInitials/woff2/StarryInitials-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Starry",
+   "description": "The same letters without the sky: currents of blue paint that follow each stroke, with sparks of yellow down the middle.",
+   "sample": "The Night Is Full Of Stars",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Night",
+    "Dawn",
+    "Ink"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 96,
+   "license": "OFL-1.1",
+   "css": "fonts/Starry/Starry.css",
+   "ttf": {
+    "Regular": "fonts/Starry/ttf/Starry-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Starry/woff2/Starry-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

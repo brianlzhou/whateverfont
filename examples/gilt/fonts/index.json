@@ -1,0 +1,82 @@
+{
+ "families": [
+  {
+   "name": "Gilt",
+   "description": "Roman capitals with an even mix of tiles, rectangles, spirals and circles: for the heading.",
+   "sample": "Anna & Felix",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Gold",
+    "Gold on Dark",
+    "Silver",
+    "Rose"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Gilt/Gilt.css",
+   "ttf": {
+    "Regular": "fonts/Gilt/ttf/Gilt-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Gilt/woff2/Gilt-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Gilt Robe",
+   "description": "Wide, squared Secession poster letters with the man's robe, black and white: for a label.",
+   "sample": "Anna & Felix",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Gold",
+    "Gold on Dark",
+    "Silver",
+    "Rose"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/GiltRobe/GiltRobe.css",
+   "ttf": {
+    "Regular": "fonts/GiltRobe/ttf/GiltRobe-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/GiltRobe/woff2/GiltRobe-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Gilt Bloom",
+   "description": "Soft round letters with the woman's robe, small tiles and many colored circles.",
+   "sample": "Anna & Felix",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Gold",
+    "Gold on Dark",
+    "Silver",
+    "Rose"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/GiltBloom/GiltBloom.css",
+   "ttf": {
+    "Regular": "fonts/GiltBloom/ttf/GiltBloom-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/GiltBloom/woff2/GiltBloom-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

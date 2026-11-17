@@ -1,0 +1,54 @@
+{
+ "families": [
+  {
+   "name": "Lacentine",
+   "description": "Soft round letters, each glued on a paper doily with a scalloped edge and punched hearts.",
+   "sample": "Be Mine, Valentine",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Valentine",
+    "Candy",
+    "Pink",
+    "Chocolate"
+   ],
+   "grounds": {
+    "Valentine": "#262A31",
+    "Pink": "#262A31"
+   },
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Lacentine/Lacentine.css",
+   "ttf": {
+    "Regular": "fonts/Lacentine/ttf/Lacentine-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Lacentine/woff2/Lacentine-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Lacentine Card",
+   "description": "The same soft letters without the doily, in one color: for the rest of the card.",
+   "sample": "Be Mine, Valentine",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/LacentineCard/LacentineCard.css",
+   "ttf": {
+    "Regular": "fonts/LacentineCard/ttf/LacentineCard-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/LacentineCard/woff2/LacentineCard-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

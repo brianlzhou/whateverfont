@@ -1,0 +1,53 @@
+{
+ "families": [
+  {
+   "name": "Drippelgang",
+   "description": "Round, heavy letters dipped head first in goo, with drips and drops: for a Halloween poster.",
+   "sample": "Trick or Treat!",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Slime",
+    "Pumpkin",
+    "Black Cat",
+    "Ghost"
+   ],
+   "grounds": {
+    "Ghost": "#262A31"
+   },
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Drippelgang/Drippelgang.css",
+   "ttf": {
+    "Regular": "fonts/Drippelgang/ttf/Drippelgang-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Drippelgang/woff2/Drippelgang-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Drippelgang Ink",
+   "description": "The same dipped letters in one color, for a print in one ink or a program without color fonts.",
+   "sample": "Trick or Treat!",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/DrippelgangInk/DrippelgangInk.css",
+   "ttf": {
+    "Regular": "fonts/DrippelgangInk/ttf/DrippelgangInk-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/DrippelgangInk/woff2/DrippelgangInk-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

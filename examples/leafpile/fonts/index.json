@@ -1,0 +1,51 @@
+{
+ "families": [
+  {
+   "name": "Leafpile",
+   "description": "Round, heavy letters heaped with fallen maple, oak, birch and ginkgo leaves.",
+   "sample": "Harvest Fair",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Maple",
+    "Ginkgo",
+    "Oak",
+    "Late October"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Leafpile/Leafpile.css",
+   "ttf": {
+    "Regular": "fonts/Leafpile/ttf/Leafpile-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Leafpile/woff2/Leafpile-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Leafpile Plain",
+   "description": "The same round, heavy letters in one color, for the words under a Leafpile heading.",
+   "sample": "Harvest Fair",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/LeafpilePlain/LeafpilePlain.css",
+   "ttf": {
+    "Regular": "fonts/LeafpilePlain/ttf/LeafpilePlain-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/LeafpilePlain/woff2/LeafpilePlain-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "families": [
+  {
+   "name": "Cutout",
+   "description": "One color to color yourself: heavy letters cut with scissors, and leaves on * ^ ~ { }.",
+   "sample": "Children's Museum",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Cutout/Cutout.css",
+   "ttf": {
+    "Regular": "fonts/Cutout/ttf/Cutout-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Cutout/woff2/Cutout-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Cutout Color",
+   "description": "Each letter cut from its own sheet of painted paper, in three palettes: Paper, Night, Lagoon.",
+   "sample": "Children's Museum",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Paper",
+    "Night",
+    "Lagoon"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/CutoutColor/CutoutColor.css",
+   "ttf": {
+    "Regular": "fonts/CutoutColor/ttf/CutoutColor-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/CutoutColor/woff2/CutoutColor-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

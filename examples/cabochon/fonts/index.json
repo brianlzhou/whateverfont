@@ -1,0 +1,60 @@
+{
+ "families": [
+  {
+   "name": "Cabochon",
+   "description": "A bracketed book serif cut from polished stone, with a lit bevel and a lamp's reflection.",
+   "sample": "Jade & Ruby",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Jade",
+    "Ruby",
+    "Sapphire",
+    "Amethyst",
+    "Amber",
+    "Onyx"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Cabochon/Cabochon.css",
+   "ttf": {
+    "Regular": "fonts/Cabochon/ttf/Cabochon-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Cabochon/woff2/Cabochon-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Cabochon Rose",
+   "description": "Incised capitals and a flared lowercase, each stroke cut into facets that meet in a ridge.",
+   "sample": "Jade & Ruby",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Jade",
+    "Ruby",
+    "Sapphire",
+    "Amethyst",
+    "Amber",
+    "Onyx"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/CabochonRose/CabochonRose.css",
+   "ttf": {
+    "Regular": "fonts/CabochonRose/ttf/CabochonRose-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/CabochonRose/woff2/CabochonRose-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

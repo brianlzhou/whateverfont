@@ -1,0 +1,56 @@
+{
+ "families": [
+  {
+   "name": "Haystack Initials",
+   "description": "Every capital stands in a field like a stack of hay, with a band of sky behind it and its shadow on the ground. Four palettes paint the same drawing at noon, at sunset, in snow and at dusk.",
+   "sample": "Late Afternoon In The Field",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Noon",
+    "Sunset",
+    "Snow",
+    "Dusk"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 96,
+   "license": "OFL-1.1",
+   "css": "fonts/HaystackInitials/HaystackInitials.css",
+   "ttf": {
+    "Regular": "fonts/HaystackInitials/ttf/HaystackInitials-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/HaystackInitials/woff2/HaystackInitials-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Haystack",
+   "description": "The same letters without the field: short, broken touches of paint, lit from the upper left.",
+   "sample": "Late Afternoon In The Field",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Noon",
+    "Sunset",
+    "Snow",
+    "Dusk"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 96,
+   "license": "OFL-1.1",
+   "css": "fonts/Haystack/Haystack.css",
+   "ttf": {
+    "Regular": "fonts/Haystack/ttf/Haystack-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Haystack/woff2/Haystack-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

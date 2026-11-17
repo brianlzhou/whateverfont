@@ -1,0 +1,91 @@
+{
+ "families": [
+  {
+   "name": "Kanagawa",
+   "description": "Heavy flared capitals, cut like a woodblock. Every letter is a wave with a foam crest.",
+   "sample": "THE GREAT WAVE",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Print",
+    "Night",
+    "Bare"
+   ],
+   "grounds": {
+    "Print": "#262A31",
+    "Night": "#262A31",
+    "Bare": "#262A31"
+   },
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Kanagawa/Kanagawa.css",
+   "ttf": {
+    "Regular": "fonts/Kanagawa/ttf/Kanagawa-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Kanagawa/woff2/Kanagawa-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Kanagawa Brush",
+   "description": "Written with a broad brush: thick and thin strokes, a livelier and more bookish wave.",
+   "sample": "THE GREAT WAVE",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Print",
+    "Night",
+    "Bare"
+   ],
+   "grounds": {
+    "Print": "#262A31",
+    "Night": "#262A31",
+    "Bare": "#262A31"
+   },
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/KanagawaBrush/KanagawaBrush.css",
+   "ttf": {
+    "Regular": "fonts/KanagawaBrush/ttf/KanagawaBrush-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/KanagawaBrush/woff2/KanagawaBrush-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Kanagawa Swell",
+   "description": "Fat round letters with even strokes: the calm swell, with the most room for water.",
+   "sample": "THE GREAT WAVE",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Print",
+    "Night",
+    "Bare"
+   ],
+   "grounds": {
+    "Print": "#262A31",
+    "Night": "#262A31",
+    "Bare": "#262A31"
+   },
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/KanagawaSwell/KanagawaSwell.css",
+   "ttf": {
+    "Regular": "fonts/KanagawaSwell/ttf/KanagawaSwell-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/KanagawaSwell/woff2/KanagawaSwell-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}
