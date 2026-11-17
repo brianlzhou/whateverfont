@@ -1,0 +1,168 @@
+{
+ "families": [
+  {
+   "name": "Neon",
+   "description": "Round geometric letters drawn as one even tube with round ends. The all-round menu face.",
+   "sample": "Happy Hour 5-7 · Negroni 12 · Gin Fizz 11",
+   "styles": [
+    "Light",
+    "Regular",
+    "Bold",
+    "Italic"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [
+    {
+     "tag": "wght",
+     "name": "Weight",
+     "min": 200,
+     "default": 400,
+     "max": 700
+    },
+    {
+     "tag": "slnt",
+     "name": "Slant",
+     "min": -10,
+     "default": 0,
+     "max": 0
+    }
+   ],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Neon/Neon.css",
+   "ttf": {
+    "Light": "fonts/Neon/ttf/Neon-Light.ttf",
+    "Regular": "fonts/Neon/ttf/Neon-Regular.ttf",
+    "Bold": "fonts/Neon/ttf/Neon-Bold.ttf",
+    "Italic": "fonts/Neon/ttf/Neon-Italic.ttf"
+   },
+   "woff2": {
+    "Light": "fonts/Neon/woff2/Neon-Light.woff2",
+    "Regular": "fonts/Neon/woff2/Neon-Regular.woff2",
+    "Bold": "fonts/Neon/woff2/Neon-Bold.woff2",
+    "Italic": "fonts/Neon/woff2/Neon-Italic.woff2"
+   },
+   "variable": "fonts/Neon/variable/Neon[wght,slnt].ttf"
+  },
+  {
+   "name": "Neon Diner",
+   "description": "Tall, narrow tube letters with squarer bends, like a roadside diner sign.",
+   "sample": "Happy Hour 5-7 · Negroni 12 · Gin Fizz 11",
+   "styles": [
+    "Light",
+    "Regular",
+    "Bold",
+    "Italic"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [
+    {
+     "tag": "wght",
+     "name": "Weight",
+     "min": 200,
+     "default": 400,
+     "max": 700
+    },
+    {
+     "tag": "slnt",
+     "name": "Slant",
+     "min": -10,
+     "default": 0,
+     "max": 0
+    }
+   ],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/NeonDiner/NeonDiner.css",
+   "ttf": {
+    "Light": "fonts/NeonDiner/ttf/NeonDiner-Light.ttf",
+    "Regular": "fonts/NeonDiner/ttf/NeonDiner-Regular.ttf",
+    "Bold": "fonts/NeonDiner/ttf/NeonDiner-Bold.ttf",
+    "Italic": "fonts/NeonDiner/ttf/NeonDiner-Italic.ttf"
+   },
+   "woff2": {
+    "Light": "fonts/NeonDiner/woff2/NeonDiner-Light.woff2",
+    "Regular": "fonts/NeonDiner/woff2/NeonDiner-Regular.woff2",
+    "Bold": "fonts/NeonDiner/woff2/NeonDiner-Bold.woff2",
+    "Italic": "fonts/NeonDiner/woff2/NeonDiner-Italic.woff2"
+   },
+   "variable": "fonts/NeonDiner/variable/NeonDiner[wght,slnt].ttf"
+  },
+  {
+   "name": "Neon Rod",
+   "description": "Wide, low letters whose tube turns tight squared corners, like glass bent on a jig.",
+   "sample": "Happy Hour 5-7 · Negroni 12 · Gin Fizz 11",
+   "styles": [
+    "Light",
+    "Regular",
+    "Bold",
+    "Italic"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [
+    {
+     "tag": "wght",
+     "name": "Weight",
+     "min": 200,
+     "default": 400,
+     "max": 700
+    },
+    {
+     "tag": "slnt",
+     "name": "Slant",
+     "min": -10,
+     "default": 0,
+     "max": 0
+    }
+   ],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/NeonRod/NeonRod.css",
+   "ttf": {
+    "Light": "fonts/NeonRod/ttf/NeonRod-Light.ttf",
+    "Regular": "fonts/NeonRod/ttf/NeonRod-Regular.ttf",
+    "Bold": "fonts/NeonRod/ttf/NeonRod-Bold.ttf",
+    "Italic": "fonts/NeonRod/ttf/NeonRod-Italic.ttf"
+   },
+   "woff2": {
+    "Light": "fonts/NeonRod/woff2/NeonRod-Light.woff2",
+    "Regular": "fonts/NeonRod/woff2/NeonRod-Regular.woff2",
+    "Bold": "fonts/NeonRod/woff2/NeonRod-Bold.woff2",
+    "Italic": "fonts/NeonRod/woff2/NeonRod-Italic.woff2"
+   },
+   "variable": "fonts/NeonRod/variable/NeonRod[wght,slnt].ttf"
+  },
+  {
+   "name": "Neon Glow",
+   "description": "The Neon tube lit: a color font with a soft glow, in pink or blue palettes.",
+   "sample": "Happy Hour 5-7 · Negroni 12 · Gin Fizz 11",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Pink",
+    "Blue",
+    "Pink Day",
+    "Blue Day"
+   ],
+   "grounds": {
+    "Pink": "#262A31",
+    "Blue": "#262A31"
+   },
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/NeonGlow/NeonGlow.css",
+   "ttf": {
+    "Regular": "fonts/NeonGlow/ttf/NeonGlow-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/NeonGlow/woff2/NeonGlow-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

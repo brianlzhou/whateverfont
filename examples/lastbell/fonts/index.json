@@ -1,0 +1,103 @@
+{
+ "families": [
+  {
+   "name": "Last Bell",
+   "description": "Chunky marker letters with short tails, like a poster on a classroom door in December.",
+   "sample": "No school till January",
+   "styles": [
+    "Regular",
+    "Bold"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [
+    {
+     "tag": "wght",
+     "name": "Weight",
+     "min": 400,
+     "default": 700,
+     "max": 700
+    }
+   ],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/LastBell/LastBell.css",
+   "ttf": {
+    "Regular": "fonts/LastBell/ttf/LastBell-Regular.ttf",
+    "Bold": "fonts/LastBell/ttf/LastBell-Bold.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/LastBell/woff2/LastBell-Regular.woff2",
+    "Bold": "fonts/LastBell/woff2/LastBell-Bold.woff2"
+   },
+   "variable": "fonts/LastBell/variable/LastBell[wght].ttf"
+  },
+  {
+   "name": "Last Bell Snow",
+   "description": "The same letters after a night of snow: a color font with the snow as its own layer.",
+   "sample": "No school till January",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Mitten",
+    "Pine",
+    "Cocoa",
+    "Midnight"
+   ],
+   "grounds": {
+    "Mitten": "#262A31",
+    "Pine": "#262A31",
+    "Cocoa": "#262A31",
+    "Midnight": "#262A31"
+   },
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/LastBellSnow/LastBellSnow.css",
+   "ttf": {
+    "Regular": "fonts/LastBellSnow/ttf/LastBellSnow-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/LastBellSnow/woff2/LastBellSnow-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Last Bell Rounds",
+   "description": "The first three rounds as one font: drag Chunk from the first take to the marker letters, and Tail to pull up the descenders.",
+   "sample": "No school till January",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [
+    {
+     "tag": "CHNK",
+     "name": "Chunk",
+     "min": 0,
+     "default": 0,
+     "max": 100
+    },
+    {
+     "tag": "TAIL",
+     "name": "Tail",
+     "min": 0,
+     "default": 0,
+     "max": 100
+    }
+   ],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/LastBellRounds/LastBellRounds.css",
+   "ttf": {
+    "Regular": "fonts/LastBellRounds/ttf/LastBellRounds-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/LastBellRounds/woff2/LastBellRounds-Regular.woff2"
+   },
+   "variable": "fonts/LastBellRounds/variable/LastBellRounds[CHNK,TAIL].ttf"
+  }
+ ]
+}

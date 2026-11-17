@@ -1,0 +1,51 @@
+{
+ "families": [
+  {
+   "name": "Scanstep Color",
+   "description": "The Scanstep pixels with a hard shadow and a darker foot, in four palettes: a title screen, a dungeon, a handheld's green screen and a printed manual.",
+   "sample": "PRESS START",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Title",
+    "Dungeon",
+    "Handheld",
+    "Manual"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/ScanstepColor/ScanstepColor.css",
+   "ttf": {
+    "Regular": "fonts/ScanstepColor/ttf/ScanstepColor-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/ScanstepColor/woff2/ScanstepColor-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Scanstep",
+   "description": "A pixel font on one fixed grid, eight pixels to the em, like the text of an 8-bit game.",
+   "sample": "Score 004200  Lives x3",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Scanstep/Scanstep.css",
+   "ttf": {
+    "Regular": "fonts/Scanstep/ttf/Scanstep-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Scanstep/woff2/Scanstep-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

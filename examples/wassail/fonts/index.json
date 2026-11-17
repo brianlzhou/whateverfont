@@ -1,0 +1,50 @@
+{
+ "families": [
+  {
+   "name": "Wassail Initials",
+   "description": "The same hand, with every capital set on a framed field with holly, berries and gold. A color font with three palettes.",
+   "sample": "Hark the Herald Angels Sing",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Christmas",
+    "Ultramarine",
+    "Frost"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/WassailInitials/WassailInitials.css",
+   "ttf": {
+    "Regular": "fonts/WassailInitials/ttf/WassailInitials-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/WassailInitials/woff2/WassailInitials-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Wassail",
+   "description": "A round book hand written with a broad pen. Use it for the running text.",
+   "sample": "Hark the Herald Angels Sing",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Wassail/Wassail.css",
+   "ttf": {
+    "Regular": "fonts/Wassail/ttf/Wassail-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Wassail/woff2/Wassail-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "families": [
+  {
+   "name": "Marquee",
+   "description": "Tall geometric capitals with an engraved line, for a cinema sign.",
+   "sample": "Now Showing",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Marquee/Marquee.css",
+   "ttf": {
+    "Regular": "fonts/Marquee/ttf/Marquee-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Marquee/woff2/Marquee-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Turbo",
+   "description": "Wide, leaning and striped, like the side of a 1970s racing car.",
+   "sample": "Turbo 77",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Turbo/Turbo.css",
+   "ttf": {
+    "Regular": "fonts/Turbo/ttf/Turbo-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Turbo/woff2/Turbo-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Billboard",
+   "description": "Sign-painter capitals with a block shadow in a second color.",
+   "sample": "Fresh Peaches",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Peach",
+    "Lime",
+    "Paper"
+   ],
+   "grounds": {
+    "Paper": "#262A31"
+   },
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Billboard/Billboard.css",
+   "ttf": {
+    "Regular": "fonts/Billboard/ttf/Billboard-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Billboard/woff2/Billboard-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Pointille",
+   "description": "Letters built from whole dots of pure color that mix in the eye.",
+   "sample": "Sunday Afternoon",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Park",
+    "Dusk"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Pointille/Pointille.css",
+   "ttf": {
+    "Regular": "fonts/Pointille/ttf/Pointille-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Pointille/woff2/Pointille-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Meridian",
+   "description": "Heavy letters filled with the bands of a sky at sunset.",
+   "sample": "Golden Hour",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Sunset",
+    "Sea"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Meridian/Meridian.css",
+   "ttf": {
+    "Regular": "fonts/Meridian/ttf/Meridian-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Meridian/woff2/Meridian-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "families": [
+  {
+   "name": "Tinsheen",
+   "description": "Heavy, slanted letters of polished chrome: a pale sky over a sharp horizon, dark ground below it, a bright rim and a dark outline.",
+   "sample": "High Score",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Chrome",
+    "Gold",
+    "Magenta",
+    "Lime"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Tinsheen/Tinsheen.css",
+   "ttf": {
+    "Regular": "fonts/Tinsheen/ttf/Tinsheen-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Tinsheen/woff2/Tinsheen-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Tinsheen Line",
+   "description": "The same letters hollow: a chrome tube along the edge of each letter, with the ground showing through.",
+   "sample": "Insert Coin",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Chrome",
+    "Gold",
+    "Magenta",
+    "Lime"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/TinsheenLine/TinsheenLine.css",
+   "ttf": {
+    "Regular": "fonts/TinsheenLine/ttf/TinsheenLine-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/TinsheenLine/woff2/TinsheenLine-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

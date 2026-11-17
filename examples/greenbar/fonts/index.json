@@ -1,0 +1,56 @@
+{
+ "families": [
+  {
+   "name": "Greenbar",
+   "description": "Dot-matrix print on a strict grid of nine pins: invoices, boarding passes, fan-fold listings.",
+   "sample": "INVOICE 004417  12/03/85  QTY 3  RIBBON CART.  $14.85  TOTAL DUE $44.55",
+   "styles": [
+    "Regular",
+    "Bold"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 109,
+   "license": "OFL-1.1",
+   "css": "fonts/Greenbar/Greenbar.css",
+   "ttf": {
+    "Regular": "fonts/Greenbar/ttf/Greenbar-Regular.ttf",
+    "Bold": "fonts/Greenbar/ttf/Greenbar-Bold.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Greenbar/woff2/Greenbar-Regular.woff2",
+    "Bold": "fonts/Greenbar/woff2/Greenbar-Bold.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Halation",
+   "description": "The Greenbar character set on a phosphor screen: scanlines of light with a glow, in green, amber or white.",
+   "sample": "READY.  RUN LEDGER.BAS  BALANCE FWD $1,204.55  OK",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Green",
+    "Amber",
+    "White",
+    "Paper"
+   ],
+   "grounds": {
+    "White": "#262A31"
+   },
+   "axes": [],
+   "glyphs": 109,
+   "license": "OFL-1.1",
+   "css": "fonts/Halation/Halation.css",
+   "ttf": {
+    "Regular": "fonts/Halation/ttf/Halation-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Halation/woff2/Halation-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

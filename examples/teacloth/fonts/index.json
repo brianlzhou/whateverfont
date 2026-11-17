@@ -1,0 +1,60 @@
+{
+ "families": [
+  {
+   "name": "Teacloth",
+   "description": "Letters in cross stitch on one grid of cloth, like the alphabet on a kitchen sampler.",
+   "sample": "Home Sweet Home",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Linen",
+    "Blue",
+    "Garden",
+    "Night"
+   ],
+   "grounds": {
+    "Night": "#262A31"
+   },
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Teacloth/Teacloth.css",
+   "ttf": {
+    "Regular": "fonts/Teacloth/ttf/Teacloth-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Teacloth/woff2/Teacloth-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Teacloth Initials",
+   "description": "Every capital in a stitched frame with a flower at each corner. The rest is Teacloth.",
+   "sample": "Home Sweet Home",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Linen",
+    "Blue",
+    "Garden",
+    "Night"
+   ],
+   "grounds": {
+    "Night": "#262A31"
+   },
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/TeaclothInitials/TeaclothInitials.css",
+   "ttf": {
+    "Regular": "fonts/TeaclothInitials/ttf/TeaclothInitials-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/TeaclothInitials/woff2/TeaclothInitials-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

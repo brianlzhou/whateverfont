@@ -1,0 +1,76 @@
+{
+ "families": [
+  {
+   "name": "Crate Stencil",
+   "description": "A heavy condensed grotesque with flat cuts and a bridge through every bowl, like a stencil cut for a shipping crate.",
+   "sample": "FRAGILE — THIS SIDE UP — CRATE 07 OF 12 — PORT OF ROTTERDAM",
+   "styles": [
+    "Regular",
+    "Bold"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/CrateStencil/CrateStencil.css",
+   "ttf": {
+    "Regular": "fonts/CrateStencil/ttf/CrateStencil-Regular.ttf",
+    "Bold": "fonts/CrateStencil/ttf/CrateStencil-Bold.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/CrateStencil/woff2/CrateStencil-Regular.woff2",
+    "Bold": "fonts/CrateStencil/woff2/CrateStencil-Bold.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Crate Stencil Square",
+   "description": "Wider, with squared rounds and flat ends, like letters cut from sheet metal for machine markings.",
+   "sample": "FRAGILE — THIS SIDE UP — CRATE 07 OF 12 — PORT OF ROTTERDAM",
+   "styles": [
+    "Regular",
+    "Bold"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/CrateStencilSquare/CrateStencilSquare.css",
+   "ttf": {
+    "Regular": "fonts/CrateStencilSquare/ttf/CrateStencilSquare-Regular.ttf",
+    "Bold": "fonts/CrateStencilSquare/ttf/CrateStencilSquare-Bold.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/CrateStencilSquare/woff2/CrateStencilSquare-Regular.woff2",
+    "Bold": "fonts/CrateStencilSquare/woff2/CrateStencilSquare-Bold.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Crate Stencil Sprayed",
+   "description": "Narrower, with round ends, open curves and wide bridges, as if sprayed through a hand-cut card stencil.",
+   "sample": "FRAGILE — THIS SIDE UP — CRATE 07 OF 12 — PORT OF ROTTERDAM",
+   "styles": [
+    "Regular",
+    "Bold"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/CrateStencilSprayed/CrateStencilSprayed.css",
+   "ttf": {
+    "Regular": "fonts/CrateStencilSprayed/ttf/CrateStencilSprayed-Regular.ttf",
+    "Bold": "fonts/CrateStencilSprayed/ttf/CrateStencilSprayed-Bold.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/CrateStencilSprayed/woff2/CrateStencilSprayed-Regular.woff2",
+    "Bold": "fonts/CrateStencilSprayed/woff2/CrateStencilSprayed-Bold.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

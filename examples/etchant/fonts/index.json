@@ -1,0 +1,51 @@
+{
+ "families": [
+  {
+   "name": "Etchant",
+   "description": "Letters drawn as copper traces with 45 degree bends, pads and vias, on a solder mask board.",
+   "sample": "Signal Path",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Green",
+    "Black",
+    "Blue",
+    "Paper"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Etchant/Etchant.css",
+   "ttf": {
+    "Regular": "fonts/Etchant/ttf/Etchant-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Etchant/woff2/Etchant-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Etchant Plain",
+   "description": "The same trace letters in one color, with the pad holes drilled through.",
+   "sample": "Signal Path",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/EtchantPlain/EtchantPlain.css",
+   "ttf": {
+    "Regular": "fonts/EtchantPlain/ttf/EtchantPlain-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/EtchantPlain/woff2/EtchantPlain-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}

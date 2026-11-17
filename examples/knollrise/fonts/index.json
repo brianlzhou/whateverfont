@@ -1,0 +1,51 @@
+{
+ "families": [
+  {
+   "name": "Knollrise",
+   "description": "Heavy round letters drawn as hills on a contour map: brown lines ring inside ring on a pale tint.",
+   "sample": "Summit Ridge",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [
+    "Trail",
+    "Sea Chart",
+    "Night",
+    "Desert"
+   ],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/Knollrise/Knollrise.css",
+   "ttf": {
+    "Regular": "fonts/Knollrise/ttf/Knollrise-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/Knollrise/woff2/Knollrise-Regular.woff2"
+   },
+   "variable": null
+  },
+  {
+   "name": "Knollrise Lines",
+   "description": "The same contour lines and summit marks in one color, with the paper showing between them.",
+   "sample": "Summit Ridge",
+   "styles": [
+    "Regular"
+   ],
+   "palettes": [],
+   "grounds": {},
+   "axes": [],
+   "glyphs": 847,
+   "license": "OFL-1.1",
+   "css": "fonts/KnollriseLines/KnollriseLines.css",
+   "ttf": {
+    "Regular": "fonts/KnollriseLines/ttf/KnollriseLines-Regular.ttf"
+   },
+   "woff2": {
+    "Regular": "fonts/KnollriseLines/woff2/KnollriseLines-Regular.woff2"
+   },
+   "variable": null
+  }
+ ]
+}
