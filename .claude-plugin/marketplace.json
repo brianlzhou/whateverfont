@@ -1,0 +1,12 @@
+{
+  "name": "whateverfont",
+  "description": "The WhateverFont skill: describe a typeface, and Claude draws it.",
+  "owner": { "name": "Brian Zhou" },
+  "plugins": [
+    {
+      "name": "whateverfont",
+      "source": "./",
+      "description": "Draw a typeface from a plain-language brief and build real font files."
+    }
+  ]
+}

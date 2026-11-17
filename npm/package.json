@@ -1,0 +1,14 @@
+{
+  "name": "whateverfont",
+  "version": "0.1.1",
+  "description": "WhateverFont You Want. Describe a typeface and an AI agent draws it. This package runs the Python tool through uv.",
+  "bin": { "whateverfont": "bin/whateverfont.js" },
+  "files": ["bin", "README.md"],
+  "license": "MIT",
+  "author": "Brian Zhou",
+  "homepage": "https://fonts.brianzhou.org",
+  "repository": { "type": "git", "url": "git+https://github.com/brianlzhou/whateverfont.git", "directory": "npm" },
+  "bugs": "https://github.com/brianlzhou/whateverfont/issues",
+  "keywords": ["fonts", "typography", "type design", "variable fonts", "agents", "claude"],
+  "engines": { "node": ">=18" }
+}

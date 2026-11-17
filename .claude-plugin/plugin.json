@@ -1,0 +1,10 @@
+{
+  "name": "whateverfont",
+  "description": "WhateverFont You Want. A skill that lets Claude draw a typeface from a plain-language brief and build real font files with the whateverfont command.",
+  "version": "0.1.1",
+  "author": { "name": "Brian Zhou", "url": "https://github.com/brianlzhou" },
+  "homepage": "https://fonts.brianzhou.org",
+  "repository": "https://github.com/brianlzhou/whateverfont",
+  "license": "MIT",
+  "keywords": ["fonts", "typography", "type design", "skill"]
+}
