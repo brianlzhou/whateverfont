@@ -1,0 +1,80 @@
+[build-system]
+requires = ["hatchling", "hatch-fancy-pypi-readme"]
+build-backend = "hatchling.build"
+
+[project]
+name = "whateverfont"
+version = "0.1.1"
+description = "WhateverFont You Want. An AI agent draws a complete typeface from a plain-English brief and builds real font files."
+dynamic = ["readme"]
+license = { text = "MIT" }
+requires-python = ">=3.10"
+authors = [{ name = "Brian Zhou" }]
+keywords = ["fonts", "typography", "type design", "parametric", "variable fonts", "color fonts", "agents"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Developers",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Multimedia :: Graphics",
+  "Topic :: Text Processing :: Fonts",
+]
+dependencies = [
+  "fonttools[woff]>=4.50",
+  "skia-pathops>=0.8",
+  "pillow>=10",
+  "uharfbuzz>=0.39",
+]
+
+[project.optional-dependencies]
+# numpy is here so that the tests of `retrace` run
+dev = ["pytest>=7", "numpy>=1.24"]
+# `whateverfont retrace` traces the centerlines of an existing font, which needs array arithmetic.
+trace = ["numpy>=1.24"]
+
+[project.urls]
+Homepage = "https://fonts.brianzhou.org"
+Repository = "https://github.com/brianlzhou/whateverfont"
+Documentation = "https://github.com/brianlzhou/whateverfont/tree/main/docs"
+Changelog = "https://github.com/brianlzhou/whateverfont/blob/main/CHANGELOG.md"
+Issues = "https://github.com/brianlzhou/whateverfont/issues"
+
+# On PyPI a relative link leads nowhere, so the README's links and its picture become absolute there.
+[tool.hatch.metadata.hooks.fancy-pypi-readme]
+content-type = "text/markdown"
+
+[[tool.hatch.metadata.hooks.fancy-pypi-readme.fragments]]
+path = "README.md"
+
+[[tool.hatch.metadata.hooks.fancy-pypi-readme.substitutions]]
+pattern = '\]\((?!https?://|#|mailto:)([^)]+\.(?:png|jpg|gif|svg))\)'
+replacement = '](https://raw.githubusercontent.com/brianlzhou/whateverfont/main/\1)'
+
+[[tool.hatch.metadata.hooks.fancy-pypi-readme.substitutions]]
+pattern = '\]\((?!https?://|#|mailto:)([^)]+)\)'
+replacement = '](https://github.com/brianlzhou/whateverfont/blob/main/\1)'
+
+[project.scripts]
+whateverfont = "whateverfont.cli:main"
+
+# hatch_build.py adds the skill, the reference pages and the example sources to the wheel, in
+# whateverfont/_data, so `whateverfont skill`, `whateverfont docs` and `whateverfont examples` work without a checkout.
+[tool.hatch.build.targets.wheel]
+packages = ["src/whateverfont"]
+
+[tool.hatch.build.targets.wheel.hooks.custom]
+
+# The source archive holds the code, the docs and the skill, not the built example fonts.
+[tool.hatch.build.targets.sdist]
+include = ["/src", "/tests", "/docs", "/skills", "/scripts", "/hatch_build.py", "/README.md", "/LICENSE", "/CHANGELOG.md",
+           "/CONTRIBUTING.md", "/examples/*/*.py", "/examples/*/BRIEF.md", "/examples/README.md", "/examples/OFL.txt",
+           "/library/README.md"]
+exclude = ["/docs/images"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

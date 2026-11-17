@@ -1,0 +1,26 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.DS_Store
+build/
+dist/
+out/
+.cache/
+*.log
+.vercel/
+.wrangler/
+.env*
+# proof sheets are rebuilt by `whateverfont look`
+examples/*/proofs/
+# records of the last build
+.build.json
+
+# agent worktrees and local agent settings
+.claude/
+# The Japanese, Chinese and Korean fonts of examples/retrace are too large to keep as TTF: only their WOFF2
+# files, CSS and licenses are committed. examples/retrace/build.py writes the TTF files here.
+examples/retrace/fonts/*Japanese/ttf/
+examples/retrace/fonts/*Chinese/ttf/
+examples/retrace/fonts/*Korean/ttf/
