@@ -1,0 +1,6 @@
+{
+  "name": "whateverfont-counts",
+  "private": true,
+  "type": "module",
+  "description": "The Cloudflare Worker that counts votes and views for the WhateverFont library."
+}

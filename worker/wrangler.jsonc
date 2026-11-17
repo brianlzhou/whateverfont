@@ -1,0 +1,31 @@
+{
+  // The Worker that counts votes and views for the library (see README.md in this folder).
+  "name": "whateverfont-counts",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-01",
+  // The address of the counts. The site reads it from COUNTS in scripts/build_site.py: keep the two the same.
+  "routes": [
+    {
+      "pattern": "www.brianzhou.org/api/fonts/*",
+      "zone_name": "brianzhou.org"
+    }
+  ],
+  "vars": {
+    // The pages that may ask: the site, its previews on Vercel, and a server on your own computer.
+    "ORIGINS": "https://fonts.brianzhou.org,https://freefont-*.vercel.app,http://localhost:8787,http://127.0.0.1:8787,http://localhost:8788,http://127.0.0.1:8788"
+  },
+  "durable_objects": {
+    "bindings": [
+      {
+        "name": "LIBRARY",
+        "class_name": "Library"
+      }
+    ]
+  },
+  "exports": {
+    "Library": {
+      "type": "durable-object",
+      "storage": "sqlite"
+    }
+  }
+}
